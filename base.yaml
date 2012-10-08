@@ -32,4 +32,5 @@ Packages:
 - glibc-locale
 - linux-firmware
 - pciutils
+- wpa_supplicant
 Summary: Base System
