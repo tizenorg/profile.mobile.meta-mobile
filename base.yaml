@@ -1,0 +1,35 @@
+Description: Base System
+Name: base
+Packages:
+- dracut
+- openssh
+- e2fsprogs
+- util-linux
+- grep
+- connman
+- kmod-compat
+- kmod
+- kernel-adaptation-pc
+- tzdata
+- setup
+- filesystem
+- systemd
+- bash
+- coreutils
+- rpm
+- vim
+- tar
+- gzip
+- curl
+- tizen-release
+- zypper
+- procps
+- psmisc
+- net-tools
+- parted
+- sysvinit-tools
+- kbd
+- glibc-locale
+- linux-firmware
+- pciutils
+Summary: Base System

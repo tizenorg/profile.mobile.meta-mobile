@@ -1,0 +1,17 @@
+Description: SLP Fonts
+Name: slp-fonts
+Packages:
+- slp-fonts-arabic
+- slp-fonts-basic
+- slp-fonts-chococooky
+- slp-fonts-cooljazz
+- slp-fonts-fallback
+- slp-fonts-hebrew
+- slp-fonts-helvetica
+- slp-fonts-india
+- slp-fonts-japanese
+- slp-fonts-korean
+- slp-fonts-rosemary
+- slp-fonts-thai
+- slp-fonts-webcore
+Summary: SLP Fonts
