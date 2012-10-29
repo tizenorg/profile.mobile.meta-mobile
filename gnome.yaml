@@ -1,0 +1,15 @@
+Description: Gnome
+Name: gnome
+Packages:
+- tizen-branding-default
+- user-session-units-gnome
+- gnome-shell
+- pm-utils
+- gnome-terminal
+- update-desktop-files
+- glib-networking
+- NetworkManager
+- evolution-data-server
+- gtk3-metatheme-adwaita
+- gtk2-metatheme-adwaita
+Summary: Gnome
