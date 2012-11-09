@@ -1,6 +1,3 @@
-ExternalConfigs:
-  - /usr/share/image-configurations/base/configs
-
 Default:
     Baseline: tizen-3.0
     FileSystem: ext4
