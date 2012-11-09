@@ -7,9 +7,6 @@ Group:		System/Base
 URL:		http://www.tizen.org
 Source:		%{name}-%{version}.tar.bz2
 
-
-
-
 %description
 Tizen Package Groups for Base OS
 
