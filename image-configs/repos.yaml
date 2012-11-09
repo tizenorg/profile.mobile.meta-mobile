@@ -1,0 +1,7 @@
+Repositories:
+    -   Name: base
+        Url:  https://download.tz.otcshare.org/snapshots/trunk/pc/@BUILD_ID@/repos/base/@ARCH@/packages/
+        Options: --save  --ssl_verify=no
+    -   Name: base-debug
+        Url:  https://download.tz.otcshare.org/snapshots/trunk/pc/@BUILD_ID@/repos/base/@ARCH@/debug/
+        Options: --save  --ssl_verify=no

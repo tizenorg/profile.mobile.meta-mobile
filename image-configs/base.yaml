@@ -1,0 +1,32 @@
+ExternalConfigs:
+  - configs
+
+Default:
+    Baseline: tizen-3.0
+    FileSystem: ext4
+    Active: True
+    Language: en_US.UTF-8
+    Keyboard: us
+    SaveRepos:  True
+    Timezone: America/Los_Angeles
+    RootPass: tizen
+    DefaultUser: tizen
+    DefaultUserPass: tizen
+    PartSize: 1900
+    BootloaderOptions: ""
+
+
+BASE:
+    PartSize: 2200
+    Bootloader: True
+    BootloaderAppend: "rootwait rootfstype=ext4"
+    BootloaderTimeout: 0
+    SaveRepos: True
+    StartX: False
+    Architecture: ia32
+    Desktop: None
+    Mic2Options: -f raw --copy-kernel --compress-disk-image=bz2
+    Groups:
+        - Base System
+    Repos:
+        - base

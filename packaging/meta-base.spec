@@ -1,5 +1,5 @@
-Summary:	Tizen Package Groups for Base OS
-Name:		patterns-base
+Summary:	Tizen Package Groups and Images Configurations
+Name:		meta-base
 Version:	001
 Release:	1
 License:	GPLv2
@@ -8,7 +8,7 @@ URL:		http://www.tizen.org
 Source:		%{name}-%{version}.tar.bz2
 
 %description
-Tizen Package Groups for Base OS
+Tizen Package Groups and Image Configurations for Base OS
 
 %prep
 %setup -q
@@ -22,3 +22,5 @@ make
 
 %files
 /usr/share/package-groups/base/*.yaml
+/usr/share/image-configurations/base/*.yaml
+/usr/share/image-configurations/base/configs/.yaml

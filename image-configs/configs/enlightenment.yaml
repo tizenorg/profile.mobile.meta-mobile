@@ -1,0 +1,15 @@
+Name: Base Enlightenment Desktop
+Schedule: "*"
+Active: True
+Platform: BASE
+FileName: enlightenment
+Kernel: kernel-adaptation-pc
+Architecture: ia32
+Desktop: None
+Groups:
+    - Base System
+    - X11
+    - SLP Fonts
+    - Enlightenment
+    - Development
+    - Applications
