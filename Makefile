@@ -1,6 +1,6 @@
 # ex: set tabstop=4 noexpandtab: 
 VERSION = $(shell cat VERSION)
-NAME=pattern-tools
+NAME=patterns-base
 TAGVER = $(shell cat VERSION | sed -e "s/\([0-9\.]*\).*/\1/")
 DESTDIR=
 ARCH=i586
@@ -14,12 +14,8 @@ endif
 all:
 
 install:
-	install -d ${DESTDIR}/usr/bin
-	install -m 755 scripts/merge-patterns.py ${DESTDIR}/usr/bin/merge-patterns
-	install -d ${DESTDIR}/usr/share/package-groups
-	install -d ${DESTDIR}/usr/share/package-groups/stylesheets
-	install -d ${DESTDIR}/usr/share/package-groups/patterns
-	install -m 644 xsl/comps.xsl ${DESTDIR}/usr/share/package-groups/stylesheets
+	install -d ${DESTDIR}/usr/share/package-groups/base
+	install -m 644 *.yaml ${DESTDIR}/usr/share/package-groups/base
 
 tag:
 	git tag -a $(VERSION) -m "$(VERSION)"
