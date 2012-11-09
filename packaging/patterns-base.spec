@@ -21,4 +21,4 @@ make
 
 
 %files
-/usr/share/package-groups/patterns/*.yaml
+/usr/share/package-groups/base/*.yaml
