@@ -23,4 +23,4 @@ make
 %files
 /usr/share/package-groups/base/*.yaml
 /usr/share/image-configurations/base/*.yaml
-/usr/share/image-configurations/base/configs/.yaml
+/usr/share/image-configurations/base/configs/*.yaml
