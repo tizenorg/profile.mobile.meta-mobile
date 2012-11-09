@@ -15,7 +15,7 @@ all:
 
 install:
 	install -d ${DESTDIR}/usr/share/package-groups/base
-	install -d ${DESTDIR}/usr/share/image-configurations/base
+	install -d ${DESTDIR}/usr/share/image-configurations/base/configs
 	install -m 644 patterns/*.yaml ${DESTDIR}/usr/share/package-groups/base
 	install -m 644 image-configs/base.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 image-configs/configs/*.yaml ${DESTDIR}/usr/share/image-configurations/base/configs
