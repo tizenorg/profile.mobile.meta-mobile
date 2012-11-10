@@ -9,12 +9,12 @@ Default:
     RootPass: tizen
     DefaultUser: tizen
     DefaultUserPass: tizen
-    PartSize: 1900
+    PartSize: 2500
     BootloaderOptions: ""
 
 
 BASE:
-    PartSize: 2200
+    PartSize: 3200
     Bootloader: True
     BootloaderAppend: "rootwait rootfstype=ext4"
     BootloaderTimeout: 0
