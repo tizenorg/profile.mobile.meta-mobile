@@ -16,10 +16,12 @@ all:
 install:
 	install -d ${DESTDIR}/usr/share/package-groups/base
 	install -d ${DESTDIR}/usr/share/image-configurations/base/configs
+	install -d ${DESTDIR}/usr/share/image-configurations/base/custom
 	install -m 644 patterns/*.yaml ${DESTDIR}/usr/share/package-groups/base
 	install -m 644 image-configs/base.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 image-configs/base-repos.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 image-configs/configs/*.yaml ${DESTDIR}/usr/share/image-configurations/base/configs
+	install -D image-configs/custom/* ${DESTDIR}/usr/share/image-configurations/base/custom
 
 tag:
 	git tag -a $(VERSION) -m "$(VERSION)"
