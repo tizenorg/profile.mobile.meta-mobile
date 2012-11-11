@@ -1,17 +1,5 @@
 ln -sf /proc/self/mounts /etc/mtab
 
-cat >> /etc/zypp/repos.d/tizen.repo << EOF
-[base]
-name=base
-enabled=1
-autorefresh=0
-baseurl=https://nashif:fr!s1neu@download.tz.otcshare.org/snapshots/trunk/pc/latest/repos/base/x86_64/packages/?proxy=10.0.1.29&proxyport=8080&ssl_verify=no
-type=rpm-md
-gpgcheck=0
-
-EOF
 
 rm -rf /root/.zypp
 
-ln -sf ../user-session@.service /usr/lib/systemd/system/graphical.target.wants/user-session@1000.service
-ln -sf e17.target  /usr/lib/systemd/user/default.target
