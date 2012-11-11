@@ -4,8 +4,11 @@ Active: True
 Platform: BASE
 FileName: enlightenment
 Kernel: kernel-adaptation-pc
-Architecture: ia32
+Architecture: x86_64
 Desktop: None
+PostScripts:
+    - base-e17-default
+    - base-general
 Groups:
     - Base System
     - X11
