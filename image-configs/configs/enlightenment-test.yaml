@@ -1,0 +1,20 @@
+Name: Base Enlightenment Desktop
+Schedule: "*"
+Active: True
+Platform: BASE
+FileName: enlightenment-test
+Kernel: kernel-adaptation-pc
+Architecture: x86_64
+Mic2Options: -f liveusb --copy-kernel --compress-disk-image=bz2
+Desktop: None
+PostScripts:
+    - workarounds
+    - base-general
+    - base-e17-default
+Groups:
+    - Base System
+    - X11
+    - SLP Fonts
+    - Enlightenment
+    - Development
+    - Applications
