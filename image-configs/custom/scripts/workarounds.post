@@ -1,0 +1,5 @@
+
+### WORK AROUNDS - REMOVE ASAP
+
+mkdir /home/tizen
+chown -R 1000: /home/tizen

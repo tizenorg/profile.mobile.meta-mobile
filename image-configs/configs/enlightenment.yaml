@@ -7,8 +7,9 @@ Kernel: kernel-adaptation-pc
 Architecture: x86_64
 Desktop: None
 PostScripts:
-    - base-e17-default
+    - workarounds
     - base-general
+    - base-e17-default
 Groups:
     - Base System
     - X11
