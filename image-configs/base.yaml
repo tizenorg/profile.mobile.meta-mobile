@@ -9,15 +9,14 @@ Default:
     RootPass: tizen
     DefaultUser: tizen
     DefaultUserPass: tizen
-    PartSize: 2500
+    PartSize: 3200
     BootloaderOptions: ""
 
 
 BASE:
-    PartSize: 3200
     Bootloader: True
-    BootloaderAppend: "rootwait rootfstype=ext4 quiet splash"
-    BootloaderTimeout: 5
+    BootloaderAppend: "vga=current quiet splash"
+    BootloaderTimeout: 1
     SaveRepos: True
     StartX: False
     Architecture: x86_64
@@ -28,10 +27,9 @@ BASE:
     Repos:
         - base
 PC:
-    PartSize: 3200
     Bootloader: True
-    BootloaderAppend: "rootwait rootfstype=ext4 quiet splash"
-    BootloaderTimeout: 5
+    BootloaderAppend: "vga=current quiet splash"
+    BootloaderTimeout: 1
     SaveRepos: True
     StartX: False
     Mic2Options: -f liveusb --copy-kernel
