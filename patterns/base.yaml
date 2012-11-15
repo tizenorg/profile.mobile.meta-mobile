@@ -15,6 +15,7 @@ Packages:
 - setup
 - filesystem
 - systemd
+- user-session-units
 - bash
 - coreutils
 - rpm

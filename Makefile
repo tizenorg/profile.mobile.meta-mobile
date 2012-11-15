@@ -20,11 +20,14 @@ install:
 	install -d ${DESTDIR}/usr/share/image-configurations/base/custom/scripts
 	install -d ${DESTDIR}/usr/share/image-configurations/base/custom/part
 	install -m 644 patterns/*.yaml ${DESTDIR}/usr/share/package-groups/base
-	install -m 644 image-configs/base.yaml ${DESTDIR}/usr/share/image-configurations/base
-	install -m 644 image-configs/base-repos.yaml ${DESTDIR}/usr/share/image-configurations/base
-	install -m 644 image-configs/configs/*.yaml ${DESTDIR}/usr/share/image-configurations/base/configs
-	install -D image-configs/custom/part/* ${DESTDIR}/usr/share/image-configurations/base/custom/part
-	install -D image-configs/custom/scripts/* ${DESTDIR}/usr/share/image-configurations/base/custom/scripts
+	install -m 644 base.yaml ${DESTDIR}/usr/share/image-configurations/base
+	install -m 644 base-repos.yaml ${DESTDIR}/usr/share/image-configurations/base
+	install -m 644 ks/*.yaml ${DESTDIR}/usr/share/image-configurations/base/configs
+	install -D partitioning/* ${DESTDIR}/usr/share/image-configurations/base/partitioning
+	install -D scripts/* ${DESTDIR}/usr/share/image-configurations/base/scripts
+
+test:
+	kickstarter -c base.yaml -e ks -r base-repos.yaml
 
 tag:
 	git tag -a $(VERSION) -m "$(VERSION)"

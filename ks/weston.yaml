@@ -1,0 +1,18 @@
+Name: Weston
+Schedule: "*"
+Active: True
+Platform: BASE
+FileName: weston
+Kernel: kernel-adaptation-pc
+Architecture: x86_64
+Mic2Options: -f liveusb --copy-kernel
+Desktop: None
+UserGroups: "audio,video,weston-launch"
+PostScripts:
+    - base-general
+    - base-weston-default
+Groups:
+    - Base System
+    - SLP Fonts
+    - Wayland
+    - Development

@@ -1,0 +1,7 @@
+Description: Wayland
+Name: wayland
+Packages:
+ - weston
+ - xkeyboard-config
+ - tizen-branding-default
+Summary: Wayland
