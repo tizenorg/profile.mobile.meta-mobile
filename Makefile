@@ -17,8 +17,8 @@ install:
 	install -d ${DESTDIR}/usr/share/package-groups/base
 	install -d ${DESTDIR}/usr/share/image-configurations/base/configs
 	install -d ${DESTDIR}/usr/share/image-configurations/base/custom
-	install -d ${DESTDIR}/usr/share/image-configurations/base/custom/scripts
-	install -d ${DESTDIR}/usr/share/image-configurations/base/custom/part
+	install -d ${DESTDIR}/usr/share/image-configurations/base/scripts
+	install -d ${DESTDIR}/usr/share/image-configurations/base/partitioning
 	install -m 644 patterns/*.yaml ${DESTDIR}/usr/share/package-groups/base
 	install -m 644 base.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 base-repos.yaml ${DESTDIR}/usr/share/image-configurations/base

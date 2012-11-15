@@ -1,6 +1,6 @@
 Summary:	Tizen Package Groups and Images Configurations
 Name:		meta-base
-Version:	001
+Version:	002
 Release:	1
 License:	GPLv2
 Group:		System/Base
@@ -24,4 +24,5 @@ make
 /usr/share/package-groups/base/*.yaml
 /usr/share/image-configurations/base/*.yaml
 /usr/share/image-configurations/base/configs/*.yaml
-/usr/share/image-configurations/base/custom
+/usr/share/image-configurations/base/scripts
+/usr/share/image-configurations/base/partitioning
