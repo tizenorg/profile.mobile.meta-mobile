@@ -5,7 +5,7 @@ Platform: BASE
 FileName: enlightenment-test
 Kernel: kernel-adaptation-pc
 Architecture: x86_64
-Mic2Options: -f liveusb --copy-kernel --compress-disk-image=bz2
+Mic2Options: -f liveusb --copy-kernel
 Desktop: None
 PostScripts:
     - workarounds
