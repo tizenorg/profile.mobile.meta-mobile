@@ -1,6 +1,6 @@
 Default:
     Baseline: tizen-3.0
-    FileSystem: ext4
+    FileSystem: ext3
     Active: True
     Language: en_US.UTF-8
     Keyboard: us
