@@ -5,6 +5,7 @@ Platform: BASE
 FileName: enlightenment
 Kernel: kernel-adaptation-pc
 Architecture: x86_64
+Mic2Options: -f liveusb --copy-kernel
 Desktop: None
 PostScripts:
     - base-general

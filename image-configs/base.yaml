@@ -16,14 +16,29 @@ Default:
 BASE:
     PartSize: 3200
     Bootloader: True
-    BootloaderAppend: "rootwait rootfstype=ext4"
-    BootloaderTimeout: 0
+    BootloaderAppend: "rootwait rootfstype=ext4 quiet splash"
+    BootloaderTimeout: 5
     SaveRepos: True
     StartX: False
-    Architecture: ia32
+    Architecture: x86_64
     Desktop: None
-    Mic2Options: -f raw --copy-kernel --compress-disk-image=bz2
+    Mic2Options: -f liveusb --copy-kernel
     Groups:
         - Base System
     Repos:
         - base
+PC:
+    PartSize: 3200
+    Bootloader: True
+    BootloaderAppend: "rootwait rootfstype=ext4 quiet splash"
+    BootloaderTimeout: 5
+    SaveRepos: True
+    StartX: False
+    Mic2Options: -f liveusb --copy-kernel
+    Architecture: x86_64
+    Desktop: None
+    Groups:
+        - Base System
+    Repos:
+        - base
+        - pc
