@@ -30,4 +30,5 @@ Packages:
 - findutils
 - wdiff
 - nasm
+- vim
 Summary: Development

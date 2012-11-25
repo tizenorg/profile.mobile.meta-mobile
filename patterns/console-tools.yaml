@@ -1,0 +1,16 @@
+Description: Console Tools
+Name: console-tools
+Packages:
+- zip
+- vim
+- unzip
+- less
+- xz
+- gdb
+- nano
+- strace
+- diffutils
+- patch
+- findutils
+- wdiff
+Summary: Console Tools

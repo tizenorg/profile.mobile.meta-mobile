@@ -19,7 +19,6 @@ Packages:
 - bash
 - coreutils
 - rpm
-- vim
 - tar
 - gzip
 - curl
