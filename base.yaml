@@ -25,7 +25,7 @@ BASE:
     Groups:
         - Base System
     Repos:
-        - base
+        - pc
 PC:
     Bootloader: True
     BootloaderAppend: "vga=current quiet splash"
@@ -38,5 +38,4 @@ PC:
     Groups:
         - Base System
     Repos:
-        - base
         - pc
