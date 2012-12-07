@@ -12,8 +12,9 @@ PostScripts:
     - base-e17-default
 Groups:
     - Base System
-    - X11
+    - Base Desktop
     - SLP Fonts
     - Enlightenment
     - Development
     - Applications
+    - Console Tools
