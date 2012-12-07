@@ -1,3 +1,7 @@
+* Fri Dec 07 2012 Anas Nashif <anas.nashif@intel.com> submit/trunk/20121207.084238@eca8297
+- remove base repo
+- add changelog
+
 * Fri Dec 07 2012 Anas Nashif <anas.nashif@intel.com> submit/trunk/20121116.194845@c6ccc4e
 - rename patterns
 - restructured patterns
