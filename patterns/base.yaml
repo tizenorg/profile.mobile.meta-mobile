@@ -1,21 +1,18 @@
 Description: Base System
 Name: base
 Packages:
-- dracut
 - openssh
 - e2fsprogs
 - util-linux
 - grep
-- connman
-- rfkill
 - kmod-compat
 - kmod
-- kernel-adaptation-pc
 - tzdata
+- pwdutils
+- pam
 - setup
 - filesystem
 - systemd
-- user-session-units
 - bash
 - coreutils
 - rpm
@@ -27,13 +24,8 @@ Packages:
 - procps
 - psmisc
 - net-tools
-- parted
 - kbd
 - glibc-locale
-- linux-firmware
 - pciutils
-- wpa_supplicant
-- rsync
-- update-desktop-files
-- desktop-file-utils
+- connman
 Summary: Base System

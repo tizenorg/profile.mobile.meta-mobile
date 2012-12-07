@@ -1,16 +1,18 @@
 Description: Console Tools
 Name: console-tools
 Packages:
+- rsync
+- parted
 - zip
 - vim
 - unzip
 - less
 - xz
-- gdb
 - nano
 - strace
 - diffutils
 - patch
 - findutils
 - wdiff
+- powertop
 Summary: Console Tools

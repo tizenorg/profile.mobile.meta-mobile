@@ -27,6 +27,7 @@ install:
 	install -D scripts/* ${DESTDIR}/usr/share/image-configurations/base/scripts
 
 test:
+	merge-patterns -o output/ -p patterns -s
 	kickstarter -c base.yaml -e ks -r base-repos.yaml
 
 tag:
