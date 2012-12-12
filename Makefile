@@ -1,6 +1,6 @@
 # ex: set tabstop=4 noexpandtab: 
 VERSION = $(shell cat VERSION)
-NAME=patterns-base
+NAME=meta-base
 TAGVER = $(shell cat VERSION | sed -e "s/\([0-9\.]*\).*/\1/")
 DESTDIR=
 ARCH=i586
@@ -14,12 +14,10 @@ endif
 all:
 
 install:
-	install -d ${DESTDIR}/usr/share/package-groups/base
 	install -d ${DESTDIR}/usr/share/image-configurations/base/configs
 	install -d ${DESTDIR}/usr/share/image-configurations/base/custom
 	install -d ${DESTDIR}/usr/share/image-configurations/base/scripts
 	install -d ${DESTDIR}/usr/share/image-configurations/base/partitioning
-	install -m 644 patterns/*.yaml ${DESTDIR}/usr/share/package-groups/base
 	install -m 644 base.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 base-repos.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 ks/*.yaml ${DESTDIR}/usr/share/image-configurations/base/configs

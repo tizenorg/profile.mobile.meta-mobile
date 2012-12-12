@@ -1,7 +1,0 @@
-Description: PC Adaptation
-Name: pc-adaptation
-Packages:
- - dracut
- - linux-firmware
- - kernel-adaptation-pc
-Summary: PC Adaptation
