@@ -13,7 +13,6 @@ PostScripts:
     - base-weston-default
 Groups:
     - Base System
-    - SLP Fonts
     - Wayland
     - Development
     - Console Tools
