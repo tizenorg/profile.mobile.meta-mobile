@@ -25,17 +25,4 @@ BASE:
     Groups:
         - Base System
     Repos:
-        - pc
-PC:
-    Bootloader: True
-    BootloaderAppend: "vga=current quiet splash"
-    BootloaderTimeout: 1
-    SaveRepos: True
-    StartX: False
-    Mic2Options: -f liveusb --copy-kernel
-    Architecture: x86_64
-    Desktop: None
-    Groups:
-        - Base System
-    Repos:
-        - pc
+        - base
