@@ -1,3 +1,7 @@
+* Tue Dec 11 2012 Anas Nashif <anas.nashif@intel.com> submit/trunk/20121207.084238@52af8f3
+- moving PC related stuff to meta-pc
+- moving patterns to common
+
 * Fri Dec 07 2012 Anas Nashif <anas.nashif@intel.com> submit/trunk/20121207.084238@eca8297
 - remove base repo
 - add changelog
