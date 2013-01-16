@@ -1,3 +1,6 @@
+* Tue Jan 15 2013 Anas Nashif <anas.nashif@intel.com> submit/trunk/20130116.020739@f5c6c3d
+- Add installer option to syslinux menu
+
 * Tue Jan 15 2013 Anas Nashif <anas.nashif@intel.com> accepted/trunk/20121212.030716@0be2739
 - Add pc-adaptation pattern
 
