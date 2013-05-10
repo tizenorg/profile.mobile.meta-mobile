@@ -2,7 +2,7 @@ Summary:	Tizen Package Groups and Images Configurations
 Name:		meta-base
 Version:	002
 Release:	1
-License:	GPLv2
+License:	GPL-2.0
 Group:		System/Base
 URL:		http://www.tizen.org
 Source:		%{name}-%{version}.tar.bz2
