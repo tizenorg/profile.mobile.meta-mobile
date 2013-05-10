@@ -9,7 +9,7 @@ Default:
     RootPass: tizen
     DefaultUser: tizen
     DefaultUserPass: tizen
-    PartSize: 3200
+    PartSize: 4096
     BootloaderOptions: '--menus="install:Wipe and Install:systemd.unit=pc-installer.service:test"'
 
 
