@@ -5,7 +5,7 @@ Platform: BASE
 FileName: weston
 Kernel: kernel-adaptation-pc
 Architecture: x86_64
-Mic2Options: -f liveusb --copy-kernel
+Mic2Options: -f liveusb --copy-kernel --runtime=native
 Desktop: None
 UserGroups: "audio,video,weston-launch"
 PostScripts:
