@@ -22,7 +22,7 @@ BASE:
     StartX: False
     Architecture: x86_64
     Desktop: None
-    Mic2Options: -f liveusb --copy-kernel
+    Mic2Options: -f liveusb --copy-kernel --runtime=native
     Groups:
         - Base System
     Repos:
