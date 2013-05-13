@@ -1,7 +1,7 @@
 Repositories:
     -   Name: base
-        Url:  https://download.tz.otcshare.org/snapshots/trunk/next/@BUILD_ID@/repos/base/@ARCH@/packages/
+        Url:  http://download.tizen.org/snapshots/devel/upstream/@BUILD_ID@/repos/base/@ARCH@/packages/
         Options: --save  --ssl_verify=no
     -   Name: base-debug
-        Url:  https://download.tz.otcshare.org/snapshots/trunk/next/@BUILD_ID@/repos/base/@ARCH@/debug/
+        Url:  http://download.tizen.org/snapshots/devel/upstream/@BUILD_ID@/repos/base/@ARCH@/debug/
         Options: --save  --ssl_verify=no
