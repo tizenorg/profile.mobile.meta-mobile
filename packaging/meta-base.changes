@@ -1,3 +1,6 @@
+* Mon May 13 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> submit/tizen/20130513.192743@7e14f56
+- Fixing repo url's, adding runtime=native
+
 * Tue Jan 15 2013 Anas Nashif <anas.nashif@intel.com> submit/trunk/20130116.020739@f5c6c3d
 - Add installer option to syslinux menu
 
