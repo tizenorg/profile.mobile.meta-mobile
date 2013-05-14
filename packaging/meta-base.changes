@@ -1,3 +1,6 @@
+* Tue May 14 2013 Anas Nashif <anas.nashif@intel.com> submit/tizen/20130514.154432@8be69aa
+- partitioning -> partitions
+
 * Tue May 14 2013 Anas Nashif <anas.nashif@intel.com> submit/tizen/20130514.225430@e4494ad
 - Add --runtime=native for wayland image
 

@@ -24,4 +24,4 @@ make
 /usr/share/image-configurations/base/*.yaml
 /usr/share/image-configurations/base/configs/*.yaml
 /usr/share/image-configurations/base/scripts
-/usr/share/image-configurations/base/partitioning
+/usr/share/image-configurations/base/partitions
