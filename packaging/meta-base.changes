@@ -1,3 +1,6 @@
+* Tue May 14 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> submit/tizen/20130513.202731@fef9eac
+- Adding a new image for wayland
+
 * Mon May 13 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> submit/tizen/20130513.192743@7e14f56
 - Fixing repo url's, adding runtime=native
 
