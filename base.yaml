@@ -1,6 +1,5 @@
 Default:
     Baseline: tizen-3.0
-    FileSystem: ext3
     Active: True
     Language: en_US.UTF-8
     Keyboard: us
@@ -9,7 +8,6 @@ Default:
     RootPass: tizen
     DefaultUser: tizen
     DefaultUserPass: tizen
-    PartSize: 4096
     BootloaderOptions: '--menus="install:Wipe and Install:systemd.unit=pc-installer.service:test"'
 
 
@@ -23,6 +21,7 @@ BASE:
     Architecture: x86_64
     Desktop: None
     Mic2Options: -f liveusb --copy-kernel --runtime=native
+    Part: base
     Groups:
         - Base System
     Repos:

@@ -5,7 +5,11 @@ Platform: BASE
 FileName: weston
 Kernel: kernel-adaptation-pc
 Architecture: x86_64
-Mic2Options: -f liveusb --copy-kernel --runtime=native
+Mic2Options: -f raw --copy-kernel --compress-disk-image=bz2 --generate-bmap --runtime=native
+Bootloader: True
+BootloaderAppend: "rootwait rootfstype=ext4"
+BootloaderTimeout: 0
+BootloaderOptions: "--ptable=gpt"
 Desktop: None
 UserGroups: "audio,video,weston-launch"
 PostScripts:

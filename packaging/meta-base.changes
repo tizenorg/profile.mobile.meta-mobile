@@ -1,3 +1,11 @@
+* Tue May 14 2013 Anas Nashif <anas.nashif@intel.com> submit/tizen/20130514.225430@e4494ad
+- Add --runtime=native for wayland image
+
+* Tue May 14 2013 Anas Nashif <anas.nashif@intel.com> submit/tizen/20130514.225430@a5d0541
+- Adapt partitioning and file systems
+- Adding a new image for wayland
+- Set license according to SPDX list
+
 * Tue May 14 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> submit/tizen/20130513.202731@fef9eac
 - Adding a new image for wayland
 
