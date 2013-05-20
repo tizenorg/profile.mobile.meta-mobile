@@ -4,7 +4,7 @@ Active: True
 Platform: BASE
 FileName: wayland-i586
 Kernel: kernel-adaptation-pc
-Architecture: i586
+Architecture: ia32
 Mic2Options: -f raw --copy-kernel --compress-disk-image=bz2 --generate-bmap
 Bootloader: True
 BootloaderAppend: "rootwait rootfstype=ext4"
