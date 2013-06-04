@@ -1,5 +1,5 @@
-Summary:	Tizen Package Groups and Images Configurations
-Name:		meta-base
+Summary:	Tizen IVI Package Groups and Image Configurations
+Name:		meta-ivi
 Version:	002
 Release:	1
 License:	GPL-2.0
@@ -8,7 +8,7 @@ URL:		http://www.tizen.org
 Source:		%{name}-%{version}.tar.bz2
 
 %description
-Tizen Package Groups and Image Configurations for Base OS
+Tizen IVI Package Groups and Image Configurations
 
 %prep
 %setup -q
