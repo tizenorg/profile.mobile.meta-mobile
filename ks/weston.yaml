@@ -1,7 +1,7 @@
 Name: Weston
 Schedule: "*"
 Active: True
-Platform: BASE
+Platform: IVI
 FileName: weston
 Kernel: kernel-adaptation-pc
 Architecture: x86_64

@@ -12,7 +12,7 @@ Default:
 
 
 
-BASE:
+IVI:
     Bootloader: True
     BootloaderAppend: "vga=current quiet splash"
     BootloaderTimeout: 1
@@ -25,4 +25,4 @@ BASE:
     Groups:
         - Base System
     Repos:
-        - base
+        - ivi

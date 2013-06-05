@@ -1,7 +1,7 @@
 Name: Wayland
 Schedule: "*"
 Active: True
-Platform: BASE
+Platform: IVI
 FileName: wayland
 Kernel: kernel-adaptation-pc
 Architecture: x86_64

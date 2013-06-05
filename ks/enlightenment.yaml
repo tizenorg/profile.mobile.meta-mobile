@@ -1,7 +1,7 @@
 Name: Base Enlightenment Desktop
 Schedule: "*"
 Active: True
-Platform: BASE
+Platform: IVI
 FileName: enlightenment
 Kernel: kernel-adaptation-pc
 Architecture: x86_64

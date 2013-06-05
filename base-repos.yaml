@@ -1,7 +1,0 @@
-Repositories:
-    -   Name: base
-        Url:  http://download.tizen.org/snapshots/tizen/@BUILD_ID@/repos/tizen/@ARCH@/packages/
-        Options: --save  --ssl_verify=no
-    -   Name: base-debug
-        Url:  http://download.tizen.org/snapshots/tizen/@BUILD_ID@/repos/tizen/@ARCH@/debug/
-        Options: --save  --ssl_verify=no
