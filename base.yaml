@@ -8,21 +8,23 @@ Default:
     RootPass: tizen
     DefaultUser: tizen
     DefaultUserPass: tizen
-    BootloaderOptions: '--menus="install:Wipe and Install:systemd.unit=pc-installer.service:test"'
+    BootloaderOptions: ""
 
 
 
-IVI:
+Mobile:
     Bootloader: True
-    BootloaderAppend: "vga=current quiet splash"
-    BootloaderTimeout: 1
+    BootloaderAppend: "rootdelay=5 security=none"
+    BootloaderTimeout: 0
     SaveRepos: True
-    StartX: False
-    Architecture: x86_64
     Desktop: None
-    Mic2Options: -f liveusb --copy-kernel --runtime=native
+    Mic2Options: -f loop --pack-to=@NAME@.zip
     Part: base
     Groups:
         - Base System
+        - common
+        - appscommon
+        - appstargetsdk
+        - osp
     Repos:
-        - ivi
+        - mobile

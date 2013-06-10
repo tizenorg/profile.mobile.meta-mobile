@@ -1,0 +1,3 @@
+/etc/make_info_file.sh handset-blackbay Tizen_handset-blackbay_`date +%Y%m%d.%H%M`
+
+touch /opt/etc/.debugmode

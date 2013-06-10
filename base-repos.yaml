@@ -1,7 +1,7 @@
 Repositories:
-    -   Name: ivi
-        Url:  http://download.tizen.org/snapshots/tizen/@BUILD_ID@/repos/ivi/@ARCH@/packages/
+    -   Name: mobile
+        Url:  http://download.tizen.org/snapshots/tizen/@BUILD_ID@/repos/mobile/@ARCH@/packages/
         Options: --save  --ssl_verify=no
-    -   Name: ivi-debug
-        Url:  http://download.tizen.org/snapshots/tizen/@BUILD_ID@/repos/ivi/@ARCH@/debug/
+    -   Name: mobile-debug
+        Url:  http://download.tizen.org/snapshots/tizen/@BUILD_ID@/repos/mobile/@ARCH@/debug/
         Options: --save  --ssl_verify=no
