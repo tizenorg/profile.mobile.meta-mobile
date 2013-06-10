@@ -1,5 +1,5 @@
-Summary:	Tizen IVI Package Groups and Image Configurations
-Name:		meta-ivi
+Summary:	Tizen Mobile Package Groups and Image Configurations
+Name:		meta-mobile
 Version:	002
 Release:	1
 License:	GPL-2.0
@@ -8,7 +8,7 @@ URL:		http://www.tizen.org
 Source:		%{name}-%{version}.tar.bz2
 
 %description
-Tizen IVI Package Groups and Image Configurations
+Tizen Mobile Package Groups and Image Configurations
 
 %prep
 %setup -q
