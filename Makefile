@@ -1,6 +1,6 @@
 # ex: set tabstop=4 noexpandtab: 
 VERSION = $(shell cat VERSION)
-NAME=meta-base
+NAME=meta-mobile
 TAGVER = $(shell cat VERSION | sed -e "s/\([0-9\.]*\).*/\1/")
 DESTDIR=
 ARCH=i586
@@ -14,21 +14,21 @@ endif
 all:
 
 install:
-	install -d ${DESTDIR}/usr/share/image-configurations/base/configs
-	install -d ${DESTDIR}/usr/share/image-configurations/base/custom
-	install -d ${DESTDIR}/usr/share/image-configurations/base/scripts
-	install -d ${DESTDIR}/usr/share/image-configurations/base/partitions
+	install -d ${DESTDIR}/usr/share/image-configurations/mobile/configs
+	install -d ${DESTDIR}/usr/share/image-configurations/mobile/custom
+	install -d ${DESTDIR}/usr/share/image-configurations/mobile/scripts
+	install -d ${DESTDIR}/usr/share/image-configurations/mobile/partitions
 	install -d ${DESTDIR}/usr/share/package-groups/mobile
-	install -m 644 base.yaml ${DESTDIR}/usr/share/image-configurations/base
-	install -m 644 base-repos.yaml ${DESTDIR}/usr/share/image-configurations/base
-	install -m 644 ks/*.yaml ${DESTDIR}/usr/share/image-configurations/base/configs
-	install -D partitions/* ${DESTDIR}/usr/share/image-configurations/base/partitions
-	install -D scripts/* ${DESTDIR}/usr/share/image-configurations/base/scripts
+	install -m 644 mobile.yaml ${DESTDIR}/usr/share/image-configurations/mobile
+	install -m 644 mobile-repos.yaml ${DESTDIR}/usr/share/image-configurations/mobile
+	install -m 644 ks/*.yaml ${DESTDIR}/usr/share/image-configurations/mobile/configs
+	install -D partitions/* ${DESTDIR}/usr/share/image-configurations/mobile/partitions
+	install -D scripts/* ${DESTDIR}/usr/share/image-configurations/mobile/scripts
 	install -m 644 patterns/*.yaml ${DESTDIR}/usr/share/package-groups/mobile
 
 test:
 	merge-patterns -o output/ -p patterns -s
-	kickstarter -c base.yaml -e ks -r base-repos.yaml
+	kickstarter -c mobile.yaml -e ks -r mobile-repos.yaml
 
 tag:
 	git tag -a $(VERSION) -m "$(VERSION)"
