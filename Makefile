@@ -18,11 +18,13 @@ install:
 	install -d ${DESTDIR}/usr/share/image-configurations/base/custom
 	install -d ${DESTDIR}/usr/share/image-configurations/base/scripts
 	install -d ${DESTDIR}/usr/share/image-configurations/base/partitions
+	install -d ${DESTDIR}/usr/share/package-groups/mobile
 	install -m 644 base.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 base-repos.yaml ${DESTDIR}/usr/share/image-configurations/base
 	install -m 644 ks/*.yaml ${DESTDIR}/usr/share/image-configurations/base/configs
 	install -D partitions/* ${DESTDIR}/usr/share/image-configurations/base/partitions
 	install -D scripts/* ${DESTDIR}/usr/share/image-configurations/base/scripts
+	install -m 644 patterns/*.yaml ${DESTDIR}/usr/share/package-groups/mobile
 
 test:
 	merge-patterns -o output/ -p patterns -s

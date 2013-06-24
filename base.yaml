@@ -18,13 +18,10 @@ Mobile:
     BootloaderTimeout: 0
     SaveRepos: True
     Desktop: None
-    Mic2Options: -f loop --pack-to=@NAME@.zip
+    Mic2Options: -f loop --pack-to=@NAME@.zip --runtime=native
     Part: base
     Groups:
         - Base System
-        - common
-        - appscommon
-        - appstargetsdk
-        - osp
+        - Console Tools
     Repos:
         - mobile

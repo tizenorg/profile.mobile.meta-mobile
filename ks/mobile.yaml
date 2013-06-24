@@ -6,19 +6,13 @@ FileName: mobile
 Kernel: kernel-mfld-blackbay
 Architecture: ia32
 Groups:
-    - Medfield Support
-    - blackbay
+    - Medfield Blackbay Adaptation
 ExtraPackages:
     - pvr-bin-mdfld
 PostScripts:
-    - Tizen-common
-    - handset-blackbay
-    - inittab
 NoChrootScripts:
-    - smack
 Attachment:
     - preos-runtime
     - bootstub-bb
     - /boot/cmdline
     - /boot/vmlinuz-*
-
