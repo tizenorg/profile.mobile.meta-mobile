@@ -7,7 +7,6 @@ Packages:
 - org.tizen.gallery
 - org.tizen.image-viewer
 - org.tizen.indicator
-- org.tizen.setting
 - org.tizen.lowbat-syspopup
 - org.tizen.lowmem-syspopup
 - org.tizen.myfile

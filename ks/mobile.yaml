@@ -7,6 +7,9 @@ Kernel: kernel-mfld-blackbay
 Architecture: ia32
 Groups:
     - Medfield Blackbay Adaptation
+    - Mobile Enlightenment
+    - Mobile Applications
+    - Mobile Framework
 ExtraPackages:
     - pvr-bin-mdfld
 PostScripts:
