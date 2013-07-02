@@ -86,6 +86,7 @@ Packages:
 - tel-plugin-packetservice
 - tel-plugin-vconf
 - tizenprv00.privacy-popup
+- tizen-mobile-session
 - ug-gallery-efl
 - ug-image-viewer-efl
 - ug-isfsetting-efl
@@ -101,6 +102,8 @@ Packages:
 - usb-server
 - wifi-direct-manager
 - wifi-direct-plugin-wpasupplicant
+- xf86-input-evdev
+- xkeyboard-config
 - xorg-launch-helper
 - xorg-server
 Summary: Mobile Framework

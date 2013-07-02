@@ -1,3 +1,7 @@
+* Tue Jul 02 2013 Junfeng Dong <junfeng.dong@intel.com> accepted/tizen/20130628.003213@40edb07
+- Add more packages: elm-misc, tizen-mobile-session, x686-input-evdev, xkeyboard-config,
+  alsa-scenario-scn-data-0-mfld.
+
 * Fri Jun 28 2013 Junfeng Dong <junfeng.dong@intel.com> accepted/tizen/20130624.232936@25c8ee4
 - Add more packages in the image.
 

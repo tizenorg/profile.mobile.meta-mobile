@@ -6,4 +6,5 @@ Packages:
  - xorg-server-configs-mfld-blackbay
  - device-manager-plugin-mfld-blackbay
  - psb-video-mfld
+ - alsa-scenario-scn-data-0-mfld
 Summary: Medfield Blackbay Adaptation

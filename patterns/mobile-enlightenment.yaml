@@ -28,6 +28,7 @@ Packages:
 - eina
 - elementary
 - elementary-tools
+- elm-misc
 - embryo
 - emotion
 - emotion-gstreamer
