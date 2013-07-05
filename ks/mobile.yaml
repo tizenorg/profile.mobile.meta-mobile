@@ -12,7 +12,9 @@ Groups:
     - Mobile Framework
 ExtraPackages:
     - pvr-bin-mdfld
+    - sdbd
 PostScripts:
+    - handset-blackbay
 NoChrootScripts:
 Attachment:
     - preos-runtime
