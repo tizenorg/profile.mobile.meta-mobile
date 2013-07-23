@@ -1,6 +1,6 @@
 Summary:	Tizen Mobile Package Groups and Image Configurations
 Name:		meta-mobile
-Version:	002
+Version:	003
 Release:	1
 License:	GPL-2.0
 Group:		System/Base

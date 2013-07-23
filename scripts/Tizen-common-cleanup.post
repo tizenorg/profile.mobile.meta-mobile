@@ -1,0 +1,5 @@
+# Bug: https://bugs.tizen.org/jira/browse/TDIST-266
+pkg_initdb
+
+# Bug: https://bugs.tizen.org/jira/browse/TDIST-260
+INITDB=1 ail_initdb
