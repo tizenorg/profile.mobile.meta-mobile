@@ -30,6 +30,8 @@ Packages:
 - ise-default
 - ise-engine-anthy
 - ise-engine-sunpinyin
+- libiri
+- libprivilege-control-conf
 - location-geoclue-nominatim
 - location-gps-manager
 - media-data-sdk
@@ -83,6 +85,7 @@ Packages:
 - tel-plugin-database
 - tel-plugin-dbus_tapi
 - tel-plugin-indicator
+- tel-plugin-imc
 - tel-plugin-packetservice
 - tel-plugin-vconf
 - tizenprv00.privacy-popup
