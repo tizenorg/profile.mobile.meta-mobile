@@ -108,5 +108,5 @@ Packages:
 - xf86-input-evdev
 - xkeyboard-config
 - xorg-launch-helper
-- xorg-server
+- xorg-server-setuid
 Summary: Mobile Framework
