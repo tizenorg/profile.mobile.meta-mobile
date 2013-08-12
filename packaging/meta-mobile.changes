@@ -1,8 +1,8 @@
-* Wed Jul 31 2013 Chengwei Yang <chengwei.yang@intel.com>
-- Use setuid version of Xorg in Tizen mobile.
-
 * Fri Aug 02 2013 Anas Nashif <anas.nashif@intel.com> submit/tizen/20130730.142509@c95e766
 - remove econnman
+
+* Wed Jul 31 2013 Chengwei Yang <chengwei.yang@intel.com>
+- Use setuid version of Xorg in Tizen mobile.
 
 * Tue Jul 30 2013 Junfeng Dong <junfeng.dong@intel.com> accepted/tizen/20130724.152514@c851f9e
 - Add some missing packages.
