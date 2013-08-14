@@ -25,3 +25,20 @@ Mobile:
         - Console Tools
     Repos:
         - mobile
+
+RD-PQ:
+    Bootloader: True
+    BootloaderAppend: "rootdelay=5"
+    BootloaderTimeout: 0
+    SaveRepos: True
+    Desktop: None
+    DefaultUser: root
+    DefaultUserPass: ""
+    Architecture: armv7l
+    Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+    Part: RD-PQ
+    Groups:
+        - Base System
+        - Console Tools
+    Repos:
+        - mobile
