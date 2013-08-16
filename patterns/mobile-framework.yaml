@@ -109,4 +109,5 @@ Packages:
 - xkeyboard-config
 - xorg-launch-helper
 - xorg-server-setuid
+- xorg-x11-drv-evdev-multitouch
 Summary: Mobile Framework
