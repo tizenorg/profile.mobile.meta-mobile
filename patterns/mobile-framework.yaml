@@ -19,7 +19,6 @@ Packages:
 - dm-private-plugins
 - dm-public-plugins
 - download-provider
-- nfc-manager
 - freealut
 - fsync
 - gconf-dbus-utils
@@ -43,8 +42,8 @@ Packages:
 - msg-service
 - msg-service-tools
 - net-tools
-- nfc-common-lib
-- nfc-manager
+#- nfc-common-lib
+#- nfc-manager
 - notification
 - oma-dm-agent
 - oma-ds-agent
@@ -66,7 +65,7 @@ Packages:
 - rpm-installer
 - security-server
 - sensor-framework
-- smartcard-plugin-nfc
+#- smartcard-plugin-nfc
 - smartcard-plugin-uicc
 - smartcard-service
 - smartcard-service-common
