@@ -27,7 +27,8 @@ Packages:
 - geoclue-nominatim
 - gps-manager
 - haptic-module-tizen
-- ise-default
+#TODO: Reenable after all packages build
+#- ise-default
 - ise-engine-anthy
 - ise-engine-sunpinyin
 - libiri

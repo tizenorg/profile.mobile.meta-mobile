@@ -9,5 +9,4 @@ Packages:
 - alsa-scenario-scn-data-0-mfld
 - tel-plugin-mfld-blackbay
 - device-config-touch-mxt224
-- xorg-x11-drv-evdev-multitouch
 Summary: Medfield Blackbay Adaptation
