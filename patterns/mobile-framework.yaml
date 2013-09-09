@@ -29,8 +29,8 @@ Packages:
 - haptic-module-tizen
 #TODO: Reenable after all packages build
 #- ise-default
-- ise-engine-anthy
-- ise-engine-sunpinyin
+#- ise-engine-anthy
+#- ise-engine-sunpinyin
 - libiri
 - libprivilege-control-conf
 - location-geoclue-nominatim
