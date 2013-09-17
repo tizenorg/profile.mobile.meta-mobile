@@ -7,18 +7,19 @@ Packages:
 - org.tizen.gallery
 - org.tizen.image-viewer
 - org.tizen.indicator
-- org.tizen.lowbat-syspopup
-- org.tizen.lowmem-syspopup
+#TODO: Reenable after all packages build
+#- org.tizen.lowbat-syspopup
+#- org.tizen.lowmem-syspopup
 - org.tizen.myfile
 - org.tizen.menu-screen
 - org.tizen.net-popup
-- org.tizen.poweroff-syspopup
+#- org.tizen.poweroff-syspopup
 - org.tizen.pwlock
 - org.tizen.taskmgr
 - org.tizen.usb-syspopup
 - org.tizen.video-player
 - org.tizen.volume
-- org.tizen.wifi-direct-popup
-- org.tizen.wifi-direct-ugapp
+#- org.tizen.wifi-direct-popup
+#- org.tizen.wifi-direct-ugapp
 - org.tizen.setting
 Summary: Mobile Applications

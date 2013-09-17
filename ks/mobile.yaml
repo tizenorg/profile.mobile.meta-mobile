@@ -8,8 +8,7 @@ Architecture: ia32
 Groups:
     - Medfield Blackbay Adaptation
     - Mobile Enlightenment
-    #TODO: Reenable after all packages build
-    #- Mobile Applications
+    - Mobile Applications
     - Mobile Framework
 ExtraPackages:
     - pvr-bin-mdfld
