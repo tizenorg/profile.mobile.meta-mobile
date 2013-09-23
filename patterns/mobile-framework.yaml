@@ -22,7 +22,6 @@ Packages:
 - freealut
 - fsync
 - gconf-dbus-utils
-- geoclue
 - geoclue-nominatim
 - gps-manager
 - haptic-module-tizen
