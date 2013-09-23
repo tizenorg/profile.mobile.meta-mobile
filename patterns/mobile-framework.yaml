@@ -22,7 +22,6 @@ Packages:
 - freealut
 - fsync
 - gconf-dbus-utils
-- geoclue-nominatim
 - gps-manager
 - haptic-module-tizen
 #TODO: Reenable after all packages build
@@ -31,7 +30,6 @@ Packages:
 #- ise-engine-sunpinyin
 - libiri
 - libprivilege-control-conf
-- location-geoclue-nominatim
 - location-gps-manager
 - media-data-sdk
 - media-server
