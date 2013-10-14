@@ -55,7 +55,7 @@ Packages:
 - privacy-popup
 - pulseaudio-module-bluetooth
 - pulseaudio-utils
-- push-bin
+#- push-bin
 - push-tool
 - qpdf
 - ragel
