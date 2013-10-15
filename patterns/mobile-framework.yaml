@@ -56,7 +56,7 @@ Packages:
 - pulseaudio-module-bluetooth
 - pulseaudio-utils
 #- push-bin
-- push-tool
+#- push-tool
 - qpdf
 - ragel
 - rpm-installer
