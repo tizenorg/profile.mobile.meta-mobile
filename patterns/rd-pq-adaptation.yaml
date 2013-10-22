@@ -1,7 +1,7 @@
 Description: RD PQ Adaptation
 Name: rd-pq-adaptation
 Packages:
-- alsa-scenario-scn-data-0-wm1811
+#- alsa-scenario-scn-data-0-wm1811
 - bluetooth-firmware-bcm-e4412
 - charging-animation
 - device-manager-plugin-exynos

@@ -2,7 +2,7 @@ Description: Mobile Osp
 Name: mobile-osp
 Packages:
 - chromium
-- osp-app-controls
+#- osp-app-controls
 - osp-app-service
 - osp-appfw
 - osp-appwidget-service
