@@ -1,0 +1,24 @@
+Name: Mobile Ref
+Schedule: "*"
+Active: True
+Platform: Mobile
+FileName: mobile-ref
+Kernel: kernel-mfld-blackbay
+Architecture: ia32
+Groups:
+    - Medfield Blackbay Adaptation
+    - Mobile Enlightenment
+    - Mobile Osp
+    - Mobile Framework
+ExtraPackages:
+    - pvr-bin-mdfld
+    - sdbd
+PostScripts:
+    - Tizen-common-cleanup
+    - handset-blackbay
+NoChrootScripts:
+Attachment:
+    - preos-runtime
+    - bootstub-bb
+    - /boot/cmdline
+    - /boot/vmlinuz-*
