@@ -8,7 +8,8 @@ Groups:
     - Mobile Enlightenment
     - Mobile Applications
     - Mobile Framework
-#   - target-rd-pq
+    - Mobile Osp
+    - RD PQ Adaptation
 PrePackages:
     - eglibc
     - systemd
