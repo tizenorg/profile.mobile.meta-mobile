@@ -12,7 +12,7 @@ Groups:
     - Mobile Framework
 ExtraPackages:
     - pvr-bin-mdfld
-#    - sdbd
+    - sdbd
 PostScripts:
     - Tizen-common-cleanup
     - handset-blackbay
