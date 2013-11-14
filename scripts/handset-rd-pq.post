@@ -1,0 +1,3 @@
+# Make sdb work.
+#vconftool set -t int memory/setting/usb_sel_mode 0 -f
+set_usb_debug.sh --set

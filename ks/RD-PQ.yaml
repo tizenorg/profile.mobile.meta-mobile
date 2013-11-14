@@ -10,8 +10,11 @@ Groups:
     - Mobile Framework
     - Mobile Osp
     - RD PQ Adaptation
+ExtraPackages:
+    - sdbd
 PostScripts:
     - Tizen-common-cleanup
+    - handset-rd-pq
 #    - Tizen-common
 #    - RD-PQ
 NoChrootScripts:
