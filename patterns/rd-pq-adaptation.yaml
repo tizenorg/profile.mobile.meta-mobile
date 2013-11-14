@@ -28,4 +28,5 @@ Packages:
 - tel-plugin-imcmodem
 #- xorg-x11-drv-exynos
 #- xorg-x11-misc-exynos
+- xf86-video-fbdev
 Summary: RD PQ Adaptation
