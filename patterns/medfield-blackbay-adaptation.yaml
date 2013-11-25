@@ -3,7 +3,6 @@ Name: medfield-blackbay-adaptation
 Packages:
 - kernel-mfld-blackbay
 - linux-firmware-mfld
-- xorg-server-configs-mfld-blackbay
 - device-manager-plugin-mfld-blackbay
 - psb-video-mfld
 - alsa-scenario-scn-data-0-mfld
