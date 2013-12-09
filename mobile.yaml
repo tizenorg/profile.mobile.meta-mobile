@@ -42,3 +42,19 @@ RD-PQ:
         - Console Tools
     Repos:
         - mobile
+
+Emulator:
+    Bootloader: True
+    BootloaderAppend: "rootdelay=5"
+    BootloaderTimeout: 0
+    SaveRepos: True
+    Desktop: None
+    DefaultUser: root
+    DefaultUserPass: ""
+    Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+    Part: base
+    Groups:
+        - Base System
+        - Console Tools
+    Repos:
+        - mobile

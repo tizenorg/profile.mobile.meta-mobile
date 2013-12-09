@@ -1,0 +1,16 @@
+Name: Emulator
+Schedule: "*"
+Active: True
+Platform: Emulator
+FileName: emulator
+Architecture: ia32
+Groups:
+    - Mobile Enlightenment
+    - Mobile Applications
+    - Mobile Framework
+    - Mobile Osp
+ExtraPackages:
+    - sdbd
+PostScripts:
+    - Tizen-common-cleanup
+NoChrootScripts:
