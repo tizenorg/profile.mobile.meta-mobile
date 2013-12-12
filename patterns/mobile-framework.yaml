@@ -8,7 +8,6 @@ Packages:
 - bluetooth-agent
 - bluetooth-frwk-core
 - bluetooth-frwk-service
-- busybox
 - cairo-tools
 - capi-media-video-util
 - call-setting
