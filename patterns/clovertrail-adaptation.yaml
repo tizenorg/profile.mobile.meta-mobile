@@ -12,7 +12,6 @@ Packages:
 - charging-animation-mfld
 - sensor-plugins-clovertrail-geek
 - sound-plugin-hal-clovertrail
-- pulseaudio-modules-mfld-blackbay
 - model-config-clovertrail
 - mmfw-sysconf-clovertrail
 Summary: Clovertrail Adaptation

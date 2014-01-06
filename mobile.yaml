@@ -18,7 +18,7 @@ Mobile:
     BootloaderTimeout: 0
     SaveRepos: True
     Desktop: None
-    Mic2Options: -f loop --pack-to=@NAME@.zip --runtime=native
+    Mic2Options: -f loop --pack-to=@NAME@.zip
     Part: base
     Groups:
         - Base System
