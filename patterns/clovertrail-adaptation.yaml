@@ -1,0 +1,18 @@
+Description: Clovertrail Adaptation
+Name: clovertrail-adaptation
+Packages:
+- device-configs-clovertrail
+- kernel-clovertrail
+- linux-firmware-clovertrail
+- system-plugin-ia-generic
+- system-plugin-ia-generic-clovertrail
+#- xorg-server-configs-clovertrail
+- device-manager-plugin-clovertrail
+#- psb-video-clovertrail
+- charging-animation-mfld
+- sensor-plugins-clovertrail-geek
+- sound-plugin-hal-clovertrail
+- pulseaudio-modules-mfld-blackbay
+- model-config-clovertrail
+- mmfw-sysconf-clovertrail
+Summary: Clovertrail Adaptation

@@ -3,22 +3,22 @@ Schedule: "*"
 Active: True
 Platform: Mobile
 FileName: mobile
-Kernel: kernel-mfld-blackbay
+Kernel: kernel-clovertrail
 Architecture: ia32
 Groups:
-    - Medfield Blackbay Adaptation
+    - Clovertrail Adaptation
     - Mobile Enlightenment
     - Mobile Applications
     - Mobile Framework
 ExtraPackages:
-    - pvr-bin-mdfld
+    - pvr-bin-clovertrail
     - sdbd
 PostScripts:
     - Tizen-common-cleanup
     - handset-blackbay
 NoChrootScripts:
 Attachment:
-    - preos-runtime
+    - preos-runtime-clovertrail
     - bootstub-bb
     - /boot/cmdline
     - /boot/vmlinuz-*
