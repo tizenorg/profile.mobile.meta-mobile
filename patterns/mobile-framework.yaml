@@ -99,6 +99,7 @@ Packages:
 - ug-setting-location-efl
 - ug-setting-manage-applications-efl
 #- ug-share-nfc-efl
+- user-session-units
 - usb-server
 - wifi-direct-manager
 - wifi-direct-plugin-wpasupplicant
