@@ -14,4 +14,6 @@ Packages:
 #- sound-plugin-hal-clovertrail
 - model-config-clovertrail
 - mmfw-sysconf-clovertrail
+- tel-plugin-vpc
+- tel-plugin-clovertrail-geek
 Summary: Clovertrail Adaptation
