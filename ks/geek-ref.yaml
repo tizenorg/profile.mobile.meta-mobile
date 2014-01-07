@@ -1,7 +1,7 @@
 Name: Geek Ref
 Schedule: "*"
 Active: True
-Platform: Mobile
+Platform: Geek
 FileName: geek-ref
 Kernel: kernel-clovertrail
 Architecture: ia32
