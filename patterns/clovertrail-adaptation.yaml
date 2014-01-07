@@ -9,8 +9,8 @@ Packages:
 #- xorg-server-configs-clovertrail
 - device-manager-plugin-clovertrail
 #- psb-video-clovertrail
-#- charging-animation-mfld
-#- sensor-plugins-clovertrail-geek
+- charging-animation-clovertrail
+- sensor-plugins-clovertrail-geek
 #- sound-plugin-hal-clovertrail
 - model-config-clovertrail
 - mmfw-sysconf-clovertrail
