@@ -1,14 +1,14 @@
-Name: Mobile
+Name: Geek Ref
 Schedule: "*"
 Active: True
 Platform: Mobile
-FileName: mobile
+FileName: geek-ref
 Kernel: kernel-clovertrail
 Architecture: ia32
 Groups:
     - Clovertrail Adaptation
     - Mobile Enlightenment
-    - Mobile Applications
+    - Mobile Osp
     - Mobile Framework
 ExtraPackages:
     - pvr-bin-clovertrail
