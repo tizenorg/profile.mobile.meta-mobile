@@ -6,3 +6,7 @@ set_usb_debug.sh --set
 cat > /etc/sysconfig/launchpad <<EOF
 DISPLAY=:0
 EOF
+
+# Work around PTREL-566.
+chsmack -a "*" /home/app/
+find /home/app/.e -exec chsmack -a "*" {} \;
