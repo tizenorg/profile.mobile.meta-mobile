@@ -11,7 +11,7 @@ Packages:
 #- psb-video-clovertrail
 - charging-animation-clovertrail
 - sensor-plugins-clovertrail-geek
-#- sound-plugin-hal-clovertrail
+- sound-plugin-hal-clovertrail
 - model-config-clovertrail
 - mmfw-sysconf-clovertrail
 - tel-plugin-vpc
