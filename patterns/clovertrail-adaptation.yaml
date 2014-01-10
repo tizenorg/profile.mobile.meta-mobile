@@ -6,7 +6,6 @@ Packages:
 - linux-firmware-clovertrail
 - system-plugin-ia-generic
 - system-plugin-ia-generic-clovertrail
-#- xorg-server-configs-clovertrail
 - device-manager-plugin-clovertrail
 #- psb-video-clovertrail
 - charging-animation-clovertrail
