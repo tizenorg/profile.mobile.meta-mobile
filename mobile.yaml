@@ -26,6 +26,20 @@ Geek:
     Repos:
         - mobile
 
+Geek-Lite:
+    Bootloader: True
+    BootloaderAppend: "rootdelay=5 security=none"
+    BootloaderTimeout: 0
+    SaveRepos: True
+    Desktop: None
+    Mic2Options: -f loop --pack-to=@NAME@.zip
+    Part: base
+    Groups:
+        - Base System
+        - Console Tools
+    Repos:
+        - mobile
+
 RD-PQ:
     Bootloader: True
     BootloaderAppend: "rootdelay=5"
