@@ -10,6 +10,7 @@ Groups:
     - Mobile Enlightenment
     - Mobile Osp
     - Mobile Framework
+    - Graphics and UI Framework X
 ExtraPackages:
     - sdbd
 PostScripts:
