@@ -103,4 +103,9 @@ Packages:
 - usb-server
 - wifi-direct-manager
 - wifi-direct-plugin-wpasupplicant
+- xf86-input-evdev
+- xf86-input-evdevmultitouch
+- xkeyboard-config
+- xorg-launch-helper
+- xorg-server-setuid
 Summary: Mobile Framework
