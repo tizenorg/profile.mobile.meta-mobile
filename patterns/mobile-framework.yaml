@@ -35,11 +35,9 @@ Packages:
 - media-data-sdk
 - media-server
 - media-thumbnail-server
-- minizip
 - mms-plugin
 - msg-service
 - msg-service-tools
-- net-tools
 #- nfc-common-lib
 #- nfc-manager
 - notification
