@@ -4,6 +4,7 @@ Packages:
 - app-checker-server
 - avahi-data
 - boot-animation
+- bluez
 - bluetooth-agent
 - bluetooth-frwk-core
 - bluetooth-frwk-service
