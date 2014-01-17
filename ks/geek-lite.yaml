@@ -17,8 +17,6 @@ ExtraPackages:
 PostScripts:
     - Tizen-common-cleanup
     - handset-blackbay
-RemovePackages:
-    - xkeyboard-config
 NoChrootScripts:
 Attachment:
     - preos-runtime-clovertrail
