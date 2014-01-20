@@ -10,6 +10,7 @@ Groups:
     - Mobile Framework
     - Mobile Osp
     - RD PQ Adaptation
+    - Graphics and UI Framework X
 ExtraPackages:
     - sdbd
 PostScripts:

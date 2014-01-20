@@ -8,6 +8,7 @@ Groups:
     - Mobile Enlightenment
     - Mobile Applications
     - Mobile Framework
+    - Graphics and UI Framework X
     - Mobile Osp
 ExtraPackages:
     - sdbd
