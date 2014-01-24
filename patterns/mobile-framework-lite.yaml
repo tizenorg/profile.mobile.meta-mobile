@@ -75,11 +75,11 @@ Packages:
 - sys-string
 - systemd-analyze
 - system-popup
-#- system-server
+- system-server
 - telephony-daemon
 - tel-plugin-at_standard
 - tel-plugin-database
-#- tel-plugin-dbus_tapi
+- tel-plugin-dbus_tapi
 - tel-plugin-indicator
 - tel-plugin-imc
 - tel-plugin-packetservice
@@ -98,7 +98,7 @@ Packages:
 #- ug-setting-manage-applications-efl
 #- ug-share-nfc-efl
 - user-session-units
-#- usb-server
+- usb-server
 #- wifi-direct-manager
 #- wifi-direct-plugin-wpasupplicant
 Summary: Mobile Framework Lite
