@@ -5,7 +5,7 @@ Packages:
 #- org.tizen.app-selector
 #- org.tizen.bt-syspopup
 ##- org.tizen.browser
-#- org.tizen.calculator
+- org.tizen.calculator
 #- org.tizen.calendar
 #- org.tizen.calendar-viewer
 #- org.tizen.call
@@ -16,7 +16,7 @@ Packages:
 #- org.tizen.email
 #- org.tizen.gallery
 #- org.tizen.image-viewer
-#- org.tizen.indicator
+- org.tizen.indicator
 #- org.tizen.lockscreen
 #- org.tizen.lowbat-syspopup
 #- org.tizen.lowmem-syspopup
