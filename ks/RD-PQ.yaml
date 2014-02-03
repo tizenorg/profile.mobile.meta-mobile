@@ -13,9 +13,13 @@ Groups:
     - Graphics and UI Framework X
 ExtraPackages:
     - sdbd
+    - setup-mobile
+InstallerFrameworkPlugins:
+    - fstab
 PostScripts:
     - Tizen-common-cleanup
     - handset-rd-pq
+    - setup-fstab-mobile
 #    - Tizen-common
 #    - RD-PQ
 NoChrootScripts:
