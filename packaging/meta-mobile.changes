@@ -1,3 +1,8 @@
+* Tue Feb 04 2014 Łukasz Stelmach <l.stelmach@samsung.com> accepted/tizen/mobile/20140128.171041@0f3cb1c
+- Add indicator and calculator to the Mobile Applications Lite group
+- Remove busybox from the Mobile Framework package group
+- Hook the setup-fstab-mobile script to generate /etc/fstab
+
 * Tue Jan 17 2014 Brad Peters <brad.t.peters@intel.com>
 - Adding bluez to Mobile image
 
