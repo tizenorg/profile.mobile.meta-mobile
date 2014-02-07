@@ -24,4 +24,5 @@ Packages:
 #- enchant
 - ethumb
 - evas
+- ecore-imf-wayland
 Summary: Mobile Enlightenment Lite
