@@ -4,7 +4,7 @@ Packages:
 #- alsa-scenario-scn-data-0-wm1811
 #- bluetooth-firmware-bcm-e4412
 - charging-animation
-#- device-manager-plugin-exynos
+- device-manager-plugin-exynos
 #- gst-plugins-e4x12
 #- gst-plugins-fimcconvert
 #- libomxil-e4x12
