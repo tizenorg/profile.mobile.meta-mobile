@@ -23,7 +23,8 @@ Packages:
 - pygobject
 - rfkill
 #- sensor-plugins
-- system-plugin-slp
+#- system-plugin-slp
+- system-plugin-mount
 #- systemd-console-ttySAC2
 - tel-plugin-imcmodem
 #- xorg-x11-drv-exynos
