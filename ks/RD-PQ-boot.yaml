@@ -8,7 +8,3 @@ Groups:
     - Boot system
 Attachment:
     - /boot/u-boot/u-boot-mmc.bin
-ExtraPackages:
-InstallerFrameworkPlugins:
-PostScripts:
-NoChrootScripts:
