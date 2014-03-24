@@ -1,0 +1,14 @@
+Name: RD-PQ-boot
+Schedule: "*"
+Active: True
+Platform: RD-PQ-boot
+FileName: RD-PQ-boot
+Architecture: armv7l
+Groups:
+    - Boot system
+AttachmentGroups:
+    - /boot/u-boot/u-boot-mmc.bin
+ExtraPackages:
+InstallerFrameworkPlugins:
+PostScripts:
+NoChrootScripts:
