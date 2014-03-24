@@ -52,9 +52,6 @@ RD-PQ-boot:
     Architecture: armv7l
     Mic2Options: -f loop --pack-to=@NAME@.tar.gz
     Part: RD-PQ-boot
-    Groups:
-        - Base System
-        - Console Tools
     Repos:
         - mobile
 
