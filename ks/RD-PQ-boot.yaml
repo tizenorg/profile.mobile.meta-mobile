@@ -7,4 +7,4 @@ Architecture: armv7l
 Groups:
     - Boot system
 Attachment:
-    - /boot/u-boot/u-boot-mmc.bin
+    - /var/tmp/u-boot/u-boot-mmc.bin
