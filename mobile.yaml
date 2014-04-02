@@ -41,6 +41,20 @@ RD-PQ:
     Repos:
         - mobile
 
+RD-PQ-boot:
+    Bootloader: True
+    BootloaderAppend: "rootdelay=5"
+    BootloaderTimeout: 0
+    SaveRepos: True
+    Desktop: None
+    DefaultUser: root
+    DefaultUserPass: ""
+    Architecture: armv7l
+    Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+    Part: RD-PQ-boot
+    Repos:
+        - mobile
+
 Emulator:
     Bootloader: True
     BootloaderAppend: "rootdelay=5"
