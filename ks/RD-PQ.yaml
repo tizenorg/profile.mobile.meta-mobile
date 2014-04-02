@@ -20,5 +20,4 @@ PostScripts:
     - Tizen-common-cleanup
     - handset-rd-pq
     - setup-fstab-mobile
-    - RD-PQ
 NoChrootScripts:

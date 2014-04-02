@@ -6,3 +6,7 @@ set_usb_debug.sh --set
 cat > /etc/sysconfig/launchpad <<EOF
 DISPLAY=:0
 EOF
+
+# Since applications runs with the "User" label, the app
+# home dir must have the same label
+chsmack -a User /opt/home/app
