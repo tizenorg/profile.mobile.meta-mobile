@@ -26,7 +26,7 @@ Geek:
 
 RD-PQ:
     Bootloader: True
-    BootloaderAppend: "rootdelay=5"
+    BootloaderAppend: "rootdelay=5 kdbus"
     BootloaderTimeout: 0
     SaveRepos: True
     Desktop: None
@@ -43,7 +43,7 @@ RD-PQ:
 
 RD-PQ-boot:
     Bootloader: True
-    BootloaderAppend: "rootdelay=5"
+    BootloaderAppend: "rootdelay=5 kdbus"
     BootloaderTimeout: 0
     SaveRepos: True
     Desktop: None

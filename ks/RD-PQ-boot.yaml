@@ -6,5 +6,7 @@ FileName: RD-PQ-boot
 Architecture: armv7l
 Groups:
     - Boot system
+ExtraPackages:
+    - kdbus-bus
 Attachment:
     - /var/tmp/u-boot/u-boot-mmc.bin

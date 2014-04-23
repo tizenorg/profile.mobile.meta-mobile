@@ -3,4 +3,5 @@ Name: boot-system
 Packages:
 - linux-kernel
 - u-boot
+- kdbus-bus
 Summary: Boot system
