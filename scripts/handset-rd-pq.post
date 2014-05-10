@@ -10,3 +10,6 @@ EOF
 # Since applications runs with the "User" label, the app
 # home dir must have the same label
 chsmack -a User /opt/home/app
+
+# vconf should have 'User' label.
+find /opt/var/kdb | xargs chsmack -a 'User'
