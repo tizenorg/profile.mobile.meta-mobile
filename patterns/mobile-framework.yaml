@@ -13,6 +13,7 @@ Packages:
 - call-setting
 - data-provider-master
 - data-router
+- debug-launchpad
 - default-fonts-fc-sdk
 - default-fonts-sdk
 - dlogutil
