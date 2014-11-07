@@ -21,8 +21,8 @@ make
 
 
 %files
-%attr(644,-,-) %{_datadir}/package-groups/mobile/*.yaml
-/usr/share/image-configurations/mobile/*.yaml
-/usr/share/image-configurations/mobile/configs/*.yaml
-/usr/share/image-configurations/mobile/scripts
-/usr/share/image-configurations/mobile/partitions
+%{_datadir}/package-groups/mobile/*.yaml
+%{_datadir}/image-configurations/mobile/*.yaml
+%{_datadir}/image-configurations/mobile/configs/*.yaml
+%{_datadir}/image-configurations/mobile/scripts
+%{_datadir}/image-configurations/mobile/partitions
