@@ -2,6 +2,11 @@ Repositories:
     -   Name: mobile
         Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/mobile/@ARCH@/packages/
         Options: --save  --ssl_verify=no
+
     -   Name: mobile-debug
         Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/mobile/@ARCH@/debug/
         Options: --save  --ssl_verify=no
+
+    -   Name: common-x11_armv7l
+        Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/arm-x11/packages/
+        Options: --ssl_verify=no

@@ -1,72 +1,77 @@
 Default:
     Baseline: tizen-3.0
     Active: True
+    Mic2Options: -f raw --fstab=uuid --copy-kernel --compress-disk-image=bz2 --generate-bmap
+    Part: common-mbr
     Language: en_US.UTF-8
     Keyboard: us
-    SaveRepos:  True
     Timezone: America/Los_Angeles
     RootPass: tizen
-    DefaultUser: tizen
+    DefaultUser: guest
     DefaultUserPass: tizen
-    BootloaderOptions: ""
-
-Geek:
-    Bootloader: True
-    BootloaderAppend: "rootdelay=5 security=none"
-    BootloaderTimeout: 0
-    SaveRepos: True
+    BootLoader: True
+    BootloaderAppend: "rw vga=current splash rootwait rootfstype=ext4 plymouth.enable=0"
+    BootloaderTimeout: 3
+    BootloaderOptions: '--ptable=gpt --menus="install:Wipe and Install:systemd.unit=system-installer.service:test"'
+    StartX: False
     Desktop: None
-    Mic2Options: -f loop --pack-to=@NAME@.zip
-    Part: base
+    SaveRepos: False
+    UserGroups: "audio,video"
     Groups:
-        - Base System
-        - Console Tools
-    Repos:
-        - mobile
+        - Generic Base
+        - Common Base
+        - Generic Console Tools
+        - Generic Packaging
+        - Common Packaging
+        - Generic Adaptation
+        - Common Adaptation
+    PostScripts:
+        - generic-base
+        - common-base
+        - generic-console-tools
+        - generic-packaging
+        - common-packaging
+        - generic-adaptation
+        - common-adaptation
+    NoChrootScripts:
+        - buildname
 
-RD-PQ:
-    Bootloader: True
-    BootloaderAppend: "rootdelay=5"
-    BootloaderTimeout: 0
-    SaveRepos: True
+Boot-Odroidu3:
+    Part: common-mbr-boot
     Desktop: None
-    DefaultUser: root
-    DefaultUserPass: ""
-    Architecture: armv7l
-    Mic2Options: -f loop --pack-to=@NAME@.tar.gz
-    Part: RD-PQ
+    SaveRepos: False
+    UserGroups: "audio,video"
     Groups:
-        - Base System
-        - Console Tools
-    Repos:
-        - mobile
+        - Common Boot Odroid U3
+    Repos: []
 
-RD-PQ-boot:
-    Bootloader: True
-    BootloaderAppend: "rootdelay=5"
-    BootloaderTimeout: 0
-    SaveRepos: True
-    Desktop: None
-    DefaultUser: root
-    DefaultUserPass: ""
-    Architecture: armv7l
-    Mic2Options: -f loop --pack-to=@NAME@.tar.gz
-    Part: RD-PQ-boot
-    Repos:
-        - mobile
-
-Emulator:
-    Bootloader: True
-    BootloaderAppend: "rootdelay=5"
-    BootloaderTimeout: 0
-    SaveRepos: True
-    Desktop: None
-    DefaultUser: root
-    DefaultUserPass: ""
-    Mic2Options: -f loop --pack-to=@NAME@.tar.gz
-    Part: base
+X11:
+    Part: common-mbr
+    UserGroups: "audio,video"
     Groups:
-        - Base System
-        - Console Tools
-    Repos:
-        - mobile
+        - Generic X11
+        - Generic Middleware
+        - Common Middleware
+        - Generic Applications
+        - Generic Bluetooth
+        - Generic Multimedia
+        - Generic Desktop Applications
+        - Common Desktop Applications
+        - Generic Crosswalk
+        - Common Crosswalk
+        - Generic Qt5
+        - Common Qt5
+    PostScripts:
+        - generic-x11
+        - generic-middleware
+        - common-middleware
+        - generic-applications
+        - generic-bluetooth
+        - generic-multimedia
+        - generic-desktop-applications
+        - common-desktop-applications
+        - generic-crosswalk
+        - common-crosswalk
+        - generic-qt5
+        - common-qt5
+    Repos: []
