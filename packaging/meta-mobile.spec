@@ -1,3 +1,5 @@
+%define profile mobile
+
 Summary:	Tizen Mobile Package Groups and Image Configurations
 Name:		meta-mobile
 Version:	003

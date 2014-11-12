@@ -1,6 +1,6 @@
 ---
 Targets:
-    - Name: arm-x11
+    -   Name: arm-x11
         Images:
             - common-boot-armv7l-odroidu3.yaml
             - common-x11-2parts-armv7l.yaml

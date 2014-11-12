@@ -1,2 +1,0 @@
-# Boot partition
-part /boot/ --size=20 --ondisk mmcblk0p --fstype=ext4 --label=boot

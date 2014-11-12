@@ -21,6 +21,7 @@ install:
 	install -d ${DESTDIR}/usr/share/package-groups/mobile
 	install -m 644 mobile.yaml ${DESTDIR}/usr/share/image-configurations/mobile
 	install -m 644 mobile-repos.yaml ${DESTDIR}/usr/share/image-configurations/mobile
+	install -m 644 mobile-targets.yaml ${DESTDIR}/usr/share/image-configurations/mobile
 	install -m 644 ks/*.yaml ${DESTDIR}/usr/share/image-configurations/mobile/configs
 	install -D partitions/* ${DESTDIR}/usr/share/image-configurations/mobile/partitions
 	install -D scripts/* ${DESTDIR}/usr/share/image-configurations/mobile/scripts
