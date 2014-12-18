@@ -11,4 +11,4 @@ Attachment:
     - /var/tmp/u-boot/u-boot-mmc.bin
     - /var/tmp/u-boot/params.bin
 Repos:
-    - common-x11_armv7l
+    - mobile-x11_armv7l-rd-pq

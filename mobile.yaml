@@ -13,13 +13,13 @@ Default:
     BootloaderAppend: "rw vga=current splash rootwait rootfstype=ext4 plymouth.enable=0"
     BootloaderTimeout: 3
     BootloaderOptions: '--ptable=gpt --menus="install:Wipe and Install:systemd.unit=system-installer.service:test"'
-    StartX: False
     Desktop: None
     SaveRepos: False
     UserGroups: "audio,video"
 
 Boot-Odroidu3:
     Part: common-mbr-boot
+    StartX: False
     Desktop: None
     SaveRepos: False
     UserGroups: "audio,video"
@@ -43,6 +43,7 @@ Boot-RD-PQ:
 
 X11:
     Part: common-mbr
+    StartX: False
     UserGroups: "audio,video"
     Groups:
         - Generic Base
@@ -92,6 +93,7 @@ X11:
 
 MinimalX11:
     Part: common-mbr
+    StartX: False
     UserGroups: "audio,video"
     Groups:
         - Generic Base

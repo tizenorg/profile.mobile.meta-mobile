@@ -14,3 +14,7 @@ Repositories:
     -   Name: common-x11_arm64
         Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/arm64-x11/packages/
         Options: --ssl_verify=no
+
+    -   Name: mobile-x11_armv7l-rd-pq
+        Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/arm-x11/packages/
+        Options: --save --ssl_verify=no
