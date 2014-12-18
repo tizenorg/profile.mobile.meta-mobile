@@ -1,0 +1,14 @@
+Name: mobile-boot-armv7l-RD-PQ
+Architecture: armv7l
+Schedule: "*"
+Active: True
+Platform: Boot-RD-PQ
+Part: mobile-mbr-boot-rd-pq
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: mobile-boot-armv7l-RD-PQ
+Group: Mobile Boot RD PQ
+Attachment:
+    - /var/tmp/u-boot/u-boot-mmc.bin
+    - /var/tmp/u-boot/params.bin
+Repos:
+    - common-x11_armv7l

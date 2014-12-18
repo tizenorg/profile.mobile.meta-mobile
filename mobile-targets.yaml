@@ -3,6 +3,7 @@ Targets:
     -   Name: arm-x11
         Images:
             - mobile-boot-armv7l-odroidu3.yaml
+            - mobile-boot-armv7l-RD-PQ.yaml
             - mobile-x11-3parts-armv7l-odroidu3.yaml
 
     -   Name: arm64-x11

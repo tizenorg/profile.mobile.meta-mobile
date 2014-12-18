@@ -17,24 +17,6 @@ Default:
     Desktop: None
     SaveRepos: False
     UserGroups: "audio,video"
-    Groups:
-        - Generic Base
-        - Common Base
-        - Generic Console Tools
-        - Generic Packaging
-        - Common Packaging
-        - Generic Adaptation
-        - Common Adaptation
-    PostScripts:
-        - generic-base
-        - common-base
-        - generic-console-tools
-        - generic-packaging
-        - common-packaging
-        - generic-adaptation
-        - common-adaptation
-    NoChrootScripts:
-        - buildname
 
 Boot-Odroidu3:
     Part: common-mbr-boot
@@ -45,10 +27,31 @@ Boot-Odroidu3:
         - Common Boot Odroid U3
     Repos: []
 
+Boot-RD-PQ:
+    Part: mobile-mbr-boot-rd-pq
+    Desktop: None
+    DefaultUser: root
+    DefaultUserPass: 
+    BootloaderAppend: "rootdelay=5"
+    BootloaderTimeout: 0
+    BootloaderOptions: ''
+    SaveRepos: False
+    UserGroups: "audio,video"
+    Groups:
+        - Mobile Boot RD PQ
+    Repos: []
+
 X11:
     Part: common-mbr
     UserGroups: "audio,video"
     Groups:
+        - Generic Base
+        - Common Base
+        - Generic Console Tools
+        - Generic Packaging
+        - Common Packaging
+        - Generic Adaptation
+        - Common Adaptation
         - Generic X11
         - Common X11
         - Generic Middleware
@@ -63,6 +66,13 @@ X11:
         - Generic Qt5
         - Common Qt5
     PostScripts:
+        - generic-base
+        - common-base
+        - generic-console-tools
+        - generic-packaging
+        - common-packaging
+        - generic-adaptation
+        - common-adaptation
         - generic-x11
         - common-x11
         - generic-middleware
@@ -77,11 +87,20 @@ X11:
         - generic-qt5
         - common-qt5
     Repos: []
+    NoChrootScripts:
+        - buildname
 
 MinimalX11:
     Part: common-mbr
     UserGroups: "audio,video"
     Groups:
+        - Generic Base
+        - Common Base
+        - Generic Console Tools
+        - Generic Packaging
+        - Common Packaging
+        - Generic Adaptation
+        - Common Adaptation
         - Generic X11
         - Common X11
         - Generic Middleware
@@ -94,6 +113,13 @@ MinimalX11:
         - Generic Qt5
         - Common Qt5
     PostScripts:
+        - generic-base
+        - common-base
+        - generic-console-tools
+        - generic-packaging
+        - common-packaging
+        - generic-adaptation
+        - common-adaptation
         - generic-x11
         - generic-middleware
         - common-middleware
@@ -107,3 +133,5 @@ MinimalX11:
         - generic-qt5
         - common-qt5
     Repos: []
+    NoChrootScripts:
+        - buildname

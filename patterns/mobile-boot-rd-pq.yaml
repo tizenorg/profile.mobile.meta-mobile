@@ -1,0 +1,7 @@
+Summary: Mobile Boot RD PQ
+Description: Mobile Boot RD PQ
+Name: mobile-boot-rd-pq
+Packages:
+- arm-trats2-linux-kernel
+- arm-trats2-linux-kernel-modules
+- u-boot
