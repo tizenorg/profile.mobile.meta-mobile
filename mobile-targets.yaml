@@ -9,6 +9,4 @@ Targets:
     -   Name: arm64-x11
         Images:
             - mobile-x11-3parts-arm64.yaml
-#    -   Name: ia32-x11
-#        Images:
-#            - mobile-x11-mbr-i586.yaml
+

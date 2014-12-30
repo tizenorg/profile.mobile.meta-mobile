@@ -1,0 +1,7 @@
+Summary: Mobile Boot Odroid U3
+Description: Mobile Boot Odroid U3
+Name: mobile-boot-odroid-u3
+Packages:
+- arm-odroidu3-linux-kernel
+- arm-odroidu3-linux-kernel-modules
+- u-boot

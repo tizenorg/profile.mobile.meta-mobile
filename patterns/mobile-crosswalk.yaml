@@ -1,0 +1,6 @@
+Summary: Mobile Crosswalk
+Description: Mobile Crosswalk
+Name: mobile-crosswalk
+Packages:
+- wrt-widgets
+

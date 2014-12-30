@@ -1,0 +1,9 @@
+Summary: Mobile Middleware
+Description: Mobile Middleware
+Name: mobile-middleware
+Packages:
+- model-config-generic
+- ofono
+- neard
+- neardal
+- usb-server

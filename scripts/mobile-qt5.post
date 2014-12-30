@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "############### common-qt5.post ################"
+echo "############### mobile-qt5.post ################"
 
 list='
 qt5-qtdeclarative-examples

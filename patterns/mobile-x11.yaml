@@ -1,0 +1,11 @@
+Summary: Mobile X11
+Description: Mobile X11
+Name: mobile-x11
+Packages:
+- x11-common
+- desktop-skin
+- libtbm-exynos4412
+- xf86-input-evdevmultitouch
+- xf86-input-gesture
+- xf86-misc-exynos4412
+- xf86-video-exynos

@@ -1,0 +1,5 @@
+Summary: Mobile Adaptation
+Description: Mobile Adaptation
+Name: mobile-adaptation
+Packages:
+- meta-generic-adaptation
