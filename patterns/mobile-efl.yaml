@@ -1,0 +1,5 @@
+Summary: Mobile EFL
+Description: Mobile EFL
+Name: mobile-efl
+Packages: 
+- efl-misc

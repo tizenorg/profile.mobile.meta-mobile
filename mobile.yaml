@@ -65,6 +65,7 @@ X11:
         - Mobile Packaging
         - Mobile Qt5
         - Mobile X11
+        - Mobile EFL
     PostScripts:
         - generic-adaptation
         - generic-applications
@@ -112,6 +113,7 @@ X11-64:
         - Mobile Packaging
         - Mobile Qt5
         - Mobile X11
+        - Mobile EFL
     PostScripts:
         - generic-adaptation
         - generic-applications
