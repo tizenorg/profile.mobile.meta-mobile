@@ -52,7 +52,6 @@ X11:
         - Generic Console Tools
         - Generic Crosswalk
         - Generic Desktop Applications
-        - Generic Middleware
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -74,7 +73,6 @@ X11:
         - generic-console-tools
         - generic-crosswalk
         - generic-desktop-applications
-        - generic-middleware
         - generic-multimedia
         - generic-packaging
         - generic-qt5
@@ -101,7 +99,6 @@ X11-64:
         - Generic Bluetooth
         - Generic Console Tools
         - Generic Desktop Applications
-        - Generic Middleware
         - Generic Multimedia
         - Generic Packaging
         - Generic Qt5
@@ -121,7 +118,6 @@ X11-64:
         - generic-bluetooth
         - generic-console-tools
         - generic-desktop-applications
-        - generic-middleware
         - generic-multimedia
         - generic-packaging
         - generic-qt5
