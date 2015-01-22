@@ -1,0 +1,15 @@
+Summary: Mobile Multimedia
+Description: Mobile Multimedia
+Name: mobile-multimedia
+Packages:
+- libmm-camcorder
+- libmm-session
+- libmm-fileinfo
+- libmm-radio
+- libmm-common
+- avsystem
+- libmm-sound
+- libmm-player
+- capi-media-player
+- capi-media-camera
+- capi-media-tool

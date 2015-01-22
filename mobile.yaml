@@ -61,6 +61,7 @@ X11:
         - Mobile Crosswalk
         - Mobile Desktop Applications
         - Mobile Middleware
+        - Mobile Multimedia
         - Mobile Packaging
         - Mobile Qt5
         - Mobile X11
@@ -107,6 +108,7 @@ X11-64:
         - Mobile Base
         - Mobile Desktop Applications
         - Mobile Middleware
+        - Mobile Multimedia
         - Mobile Packaging
         - Mobile Qt5
         - Mobile X11
