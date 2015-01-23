@@ -3,6 +3,3 @@ Description: Mobile Desktop Applications
 Name: mobile-desktop-applications
 Packages:
 - org.tizen.calculator
-- elementary-tools
-- evas-examples
-- emotion-examples
