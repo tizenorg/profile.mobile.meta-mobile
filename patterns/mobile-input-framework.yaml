@@ -1,0 +1,14 @@
+Summary: Mobile Input Framework
+Description: Mobile Input Framework
+Name: mobile-input-framework
+Packages:
+- isf
+- libscl-ui
+- ise-default
+- ise-engine-anthy
+- ise-engine-default
+- ise-engine-hangul
+- ise-engine-sunpinyin
+- ise-engine-tables
+- anthy
+- libhangul
