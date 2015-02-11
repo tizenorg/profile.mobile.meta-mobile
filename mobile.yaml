@@ -66,6 +66,7 @@ X11:
         - Mobile Multimedia
         - Mobile Packaging
         - Mobile Qt5
+        - Mobile Security
         - Mobile X11
         - Mobile EFL
     PostScripts:
@@ -114,6 +115,7 @@ X11-64:
         - Mobile Multimedia
         - Mobile Packaging
         - Mobile Qt5
+        - Mobile Security
         - Mobile X11
         - Mobile EFL
     PostScripts:

@@ -1,0 +1,6 @@
+Summary: Mobile Security
+Description: Mobile Security
+Name: mobile-security
+Packages: 
+- security-manager
+- libsecurity-manager-client
