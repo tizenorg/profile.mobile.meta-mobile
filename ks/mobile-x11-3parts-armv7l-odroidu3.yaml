@@ -3,14 +3,8 @@ Architecture: armv7l
 Schedule: "*"
 Active: True
 Platform: X11
-InstallerFrameworkPlugins:
-    - fstab
 Part: mobile-mbr-3parts
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-x11-3parts-armv7l-odroidu3
 Repos:
     - mobile-x11_armv7l
-ExtraPackages:
-    - setup-scripts
-PostScripts:
-    - setup-fstab-by-label
