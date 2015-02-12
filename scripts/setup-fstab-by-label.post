@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "#################### setup-fstab-by-label.post ##################"
+setup-fstab-by-label

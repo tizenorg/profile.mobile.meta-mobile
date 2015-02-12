@@ -3,8 +3,14 @@ Architecture: aarch64
 Schedule: "*"
 Active: True
 Platform: X11-64
+InstallerFrameworkPlugins:
+    - fstab
 Part: mobile-mbr-3parts
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-x11-3parts-arm64
 Repos:
     - mobile-x11_arm64
+ExtraPackages:
+    - setup-scripts
+PostScripts:
+    - setup-fstab-by-label
