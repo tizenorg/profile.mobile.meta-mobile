@@ -1,5 +1,5 @@
 Summary: Mobile Base
 Description: Mobile Base
 Name: mobile-base
-Packages: []
-
+Packages:
+- libstorage
