@@ -58,6 +58,7 @@ X11:
         - Mobile Adaptation
         - Mobile Base
         - Mobile Crosswalk
+        - Mobile Connectivity Framework
         - Mobile Dali
         - Mobile Desktop Applications
         - Mobile Enlightenment
@@ -107,6 +108,7 @@ X11-64:
         - Generic X11
         - Mobile Adaptation
         - Mobile Base
+        - Mobile Connectivity Framework
         - Mobile Dali
         - Mobile Desktop Applications
         - Mobile Enlightenment
