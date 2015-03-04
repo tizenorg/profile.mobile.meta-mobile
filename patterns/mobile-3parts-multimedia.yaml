@@ -1,6 +1,6 @@
-Summary: Mobile Multimedia
-Description: Mobile Multimedia
-Name: mobile-multimedia
+Summary: Mobile 3Parts Multimedia
+Description: Mobile 3Parts Multimedia
+Name: mobile-3parts-multimedia
 Packages:
 - libmm-camcorder
 - libmm-session
@@ -13,7 +13,3 @@ Packages:
 - capi-media-player
 - capi-media-camera
 - capi-media-tool
-- gst-plugins-tizen
-- gst-libav
-- capi-media-recorder
-- gst-plugins-ugly

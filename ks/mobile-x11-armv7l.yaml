@@ -1,10 +1,10 @@
-Name: mobile-x11-3parts-armv7l-odroidu3
+Name: mobile-x11-armv7l
 Architecture: armv7l
 Schedule: "*"
 Active: True
-Platform: 3Parts-X11
+Platform: X11
 Part: mobile-mbr-3parts
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
-FileName: mobile-x11-3parts-armv7l-odroidu3
+FileName: mobile-x11-armv7l
 Repos:
     - mobile-x11_armv7l

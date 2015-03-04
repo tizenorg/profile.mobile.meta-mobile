@@ -41,7 +41,7 @@ Boot-RD-PQ:
         - Mobile Boot RD PQ
     Repos: []
 
-X11:
+3Parts-X11:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
@@ -63,8 +63,8 @@ X11:
         - Mobile Desktop Applications
         - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Middleware
-        - Mobile Multimedia
+        - Mobile 3Parts Middleware
+        - Mobile 3Parts Multimedia
         - Mobile Packaging
         - Mobile Qt5
         - Mobile Security
@@ -93,7 +93,7 @@ X11:
     NoChrootScripts:
         - buildname
 
-X11-64:
+3Parts-X11-64:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
@@ -113,8 +113,8 @@ X11-64:
         - Mobile Desktop Applications
         - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Middleware
-        - Mobile Multimedia
+        - Mobile 3Parts Middleware
+        - Mobile 3Parts Multimedia
         - Mobile Packaging
         - Mobile Qt5
         - Mobile Security
@@ -136,6 +136,80 @@ X11-64:
         - mobile-middleware
         - mobile-packaging
         - mobile-qt5
+        - mobile-x11
+    Repos: []
+    NoChrootScripts:
+        - buildname
+
+X11:
+    Part: mobile-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - Generic Applications
+        - Generic Base
+        - Generic Console Tools
+        - Generic Crosswalk
+        - Generic Multimedia
+        - Generic Packaging
+        - Generic X11
+        - Mobile Adaptation
+        - Mobile Application
+        - Mobile Crosswalk
+        - Mobile Dali
+        - Mobile EFL
+        - Mobile Enlightenment
+        - Mobile Input Framework
+        - Mobile Middleware
+        - Mobile Multimedia
+        - Mobile X11
+    PostScripts:
+        - generic-applications
+        - generic-base
+        - generic-console-tools
+        - generic-crosswalk
+        - generic-multimedia
+        - generic-packaging
+        - generic-x11
+        - mobile-adaptation
+        - mobile-crosswalk
+        - mobile-middleware
+        - mobile-x11
+    Repos: []
+    NoChrootScripts:
+        - buildname
+
+X11-64:
+    Part: mobile-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - Generic Applications
+        - Generic Base
+        - Generic Console Tools
+        - Generic Crosswalk
+        - Generic Multimedia
+        - Generic Packaging
+        - Generic X11
+        - Mobile Adaptation
+        - Mobile Application
+        - Mobile Crosswalk
+        - Mobile Dali
+        - Mobile EFL
+        - Mobile Enlightenment
+        - Mobile Input Framework
+        - Mobile Middleware
+        - Mobile Multimedia
+        - Mobile X11
+    PostScripts:
+        - generic-applications
+        - generic-base
+        - generic-console-tools
+        - generic-crosswalk
+        - generic-multimedia
+        - generic-packaging
+        - generic-x11
+        - mobile-adaptation
+        - mobile-crosswalk
+        - mobile-middleware
         - mobile-x11
     Repos: []
     NoChrootScripts:
