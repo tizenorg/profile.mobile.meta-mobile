@@ -1,4 +1,7 @@
 Summary: Mobile Application
 Description: Mobile Application
 Name: mobile-application
-Packages: []
+Packages:
+- app-installers
+- tpk-backend
+- wgt-backend

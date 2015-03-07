@@ -149,6 +149,7 @@ X11:
         - Generic Base
         - Generic Console Tools
         - Generic Crosswalk
+        - Generic Desktop Applications
         - Generic Multimedia
         - Generic Packaging
         - Generic X11
@@ -167,6 +168,7 @@ X11:
         - generic-base
         - generic-console-tools
         - generic-crosswalk
+        - generic-desktop-applications
         - generic-multimedia
         - generic-packaging
         - generic-x11
@@ -186,6 +188,7 @@ X11-64:
         - Generic Base
         - Generic Console Tools
         - Generic Crosswalk
+        - Generic Desktop Applications
         - Generic Multimedia
         - Generic Packaging
         - Generic X11
@@ -204,6 +207,7 @@ X11-64:
         - generic-base
         - generic-console-tools
         - generic-crosswalk
+        - generic-desktop-applications
         - generic-multimedia
         - generic-packaging
         - generic-x11

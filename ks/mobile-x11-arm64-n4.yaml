@@ -1,10 +1,10 @@
-Name: mobile-x11-arm64
+Name: mobile-x11-arm64-n4
 Architecture: aarch64
 Schedule: "*"
 Active: True
 Platform: X11-64
 Part: mobile-mbr-3parts
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
-FileName: mobile-x11-arm64
+FileName: mobile-x11-arm64-n4
 Repos:
     - mobile-x11_arm64
