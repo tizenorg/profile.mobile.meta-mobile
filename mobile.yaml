@@ -145,7 +145,7 @@ X11:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic Applications
+        - Generic Applications
         - Generic Base
         - Generic Console Tools
         - Generic Crosswalk
@@ -184,7 +184,7 @@ X11-64:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic Applications
+        - Generic Applications
         - Generic Base
         - Generic Console Tools
         - Generic Crosswalk
