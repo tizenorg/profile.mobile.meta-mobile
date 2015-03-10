@@ -146,13 +146,13 @@ X11:
     UserGroups: "audio,video"
     Groups:
         - Generic Applications
-        - Generic Base
-        - Generic Console Tools
-        - Generic Crosswalk
-        - Generic Desktop Applications
-        - Generic Multimedia
-        - Generic Packaging
-        - Generic X11
+        - Generic Base
+        - Generic Console Tools
+        - Generic Crosswalk
+        - Generic Desktop Applications
+        - Generic Multimedia
+        - Generic Packaging
+        - Generic X11
         - Mobile Adaptation
         - Mobile Application
         - Mobile Crosswalk
@@ -185,13 +185,13 @@ X11-64:
     UserGroups: "audio,video"
     Groups:
         - Generic Applications
-        - Generic Base
-        - Generic Console Tools
-        - Generic Crosswalk
-        - Generic Desktop Applications
-        - Generic Multimedia
-        - Generic Packaging
-        - Generic X11
+        - Generic Base
+        - Generic Console Tools
+        - Generic Crosswalk
+        - Generic Desktop Applications
+        - Generic Multimedia
+        - Generic Packaging
+        - Generic X11
         - Mobile Adaptation
         - Mobile Application
         - Mobile Crosswalk
