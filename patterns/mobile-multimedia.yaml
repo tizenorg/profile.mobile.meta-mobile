@@ -17,3 +17,8 @@ Packages:
 - gst-libav
 - capi-media-recorder
 - gst-plugins-ugly
+- capi-content-media-content
+- capi-media-image-util
+- capi-media-metadata-extractor
+- capi-media-sound-manager
+- capi-media-wav-player

@@ -1,0 +1,7 @@
+Summary: Mobile Connectivity Framework X11
+Description: Mobile Connectivity Framework X11
+Name: mobile-connectivity-framework-x11
+Packages:
+- capi-network-wifi
+- capi-network-connection
+- capi-network-nfc

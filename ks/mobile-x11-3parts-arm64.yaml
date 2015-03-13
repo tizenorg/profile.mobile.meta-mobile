@@ -1,7 +1,7 @@
 Name: mobile-x11-3parts-arm64
 Architecture: aarch64
 Schedule: "*"
-Active: True
+Active: False
 Platform: 3Parts-X11-64
 Part: mobile-mbr-3parts
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz

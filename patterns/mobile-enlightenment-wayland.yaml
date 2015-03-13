@@ -1,0 +1,5 @@
+Summary: Mobile Enlightenment Wayland
+Description: Mobile Enlightenment Wayland
+Name: mobile-enlightenment-wayland
+Packages:
+- e-tizen-data
