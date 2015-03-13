@@ -1,0 +1,5 @@
+Summary: Mobile X11 Temp
+Description: Mobile X11 Temp
+Name: mobile-x11-temp
+Packages:
+- xkeyboard-config
