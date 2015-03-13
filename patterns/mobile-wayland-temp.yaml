@@ -1,0 +1,23 @@
+Summary: Mobile Wayland Temp
+Description: Mobile Wayland Temp
+Name: mobile-wayland-temp
+Packages:
+- capi-appfw-package-manager
+- capi-system-device
+- capi-system-power
+- capi-web-favorites
+- capi-web-url-download
+- download-provider
+- ibus-libs
+- libboost_program_options1_57_0
+- libfontenc
+- libjson-glib
+- libmessage-port
+- libmm-ta
+- libpciaccess
+- libsvi
+- libtapi
+- libtapi3
+- message-port
+- monotype-fonts
+- ui-gadget-1

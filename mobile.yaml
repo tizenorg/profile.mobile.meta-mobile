@@ -58,7 +58,7 @@ Boot-RD-PQ:
         - Mobile Adaptation
         - Mobile Base
         - Mobile Crosswalk
-        - Mobile Connectivity Framework
+        - Mobile Connectivity Framework 3Parts
         - Mobile Dali
         - Mobile Desktop Applications
         - Mobile Enlightenment
@@ -108,7 +108,7 @@ Boot-RD-PQ:
         - Generic X11
         - Mobile Adaptation
         - Mobile Base
-        - Mobile Connectivity Framework
+        - Mobile Connectivity Framework 3Parts
         - Mobile Dali
         - Mobile Desktop Applications
         - Mobile Enlightenment
@@ -145,36 +145,40 @@ X11:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
+        - Generic Adaptation
+        - Mobile Adaptation
         - Generic Applications
+        - Mobile Application
         - Generic Base
         - Generic Console Tools
         - Generic Crosswalk
+        - Mobile Crosswalk
         - Generic Desktop Applications
         - Generic Multimedia
+        - Mobile Multimedia
         - Generic Packaging
         - Generic X11
-        - Mobile Adaptation
-        - Mobile Application
-        - Mobile Crosswalk
+        - Mobile Connectivity Framework X11
         - Mobile Dali
         - Mobile EFL
-        - Mobile Enlightenment
+        - Mobile Enlightenment X11
         - Mobile Input Framework
-        - Mobile Middleware
-        - Mobile Multimedia
+        - Mobile Middleware X11
         - Mobile X11
+        - Mobile X11 Temp
     PostScripts:
+        - generic-adaptation
+        - mobile-adaptation
         - generic-applications
         - generic-base
         - generic-console-tools
         - generic-crosswalk
+        - mobile-crosswalk
         - generic-desktop-applications
         - generic-multimedia
         - generic-packaging
         - generic-x11
-        - mobile-adaptation
-        - mobile-crosswalk
-        - mobile-middleware
+        - mobile-middleware-x11
         - mobile-x11
     Repos: []
     NoChrootScripts:
@@ -184,37 +188,90 @@ X11-64:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
+        - Generic Adaptation
+        - Mobile Adaptation
         - Generic Applications
+        - Mobile Application
         - Generic Base
         - Generic Console Tools
         - Generic Crosswalk
+        - Mobile Crosswalk
         - Generic Desktop Applications
         - Generic Multimedia
+        - Mobile Multimedia
         - Generic Packaging
         - Generic X11
-        - Mobile Adaptation
-        - Mobile Application
-        - Mobile Crosswalk
+        - Mobile Connectivity Framework X11
         - Mobile Dali
         - Mobile EFL
-        - Mobile Enlightenment
+        - Mobile Enlightenment X11
         - Mobile Input Framework
-        - Mobile Middleware
-        - Mobile Multimedia
+        - Mobile Middleware X11
         - Mobile X11
+        - Mobile X11 Temp
     PostScripts:
+        - generic-adaptation
+        - mobile-adaptation
         - generic-applications
         - generic-base
         - generic-console-tools
         - generic-crosswalk
+        - mobile-crosswalk
         - generic-desktop-applications
         - generic-multimedia
         - generic-packaging
         - generic-x11
-        - mobile-adaptation
-        - mobile-crosswalk
-        - mobile-middleware
+        - mobile-middleware-x11
         - mobile-x11
+    Repos: []
+    NoChrootScripts:
+        - buildname
+
+Wayland:
+    Part: mobile-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - Generic Adaptation
+        - Mobile Adaptation
+        - Generic Applications
+        - Mobile Application
+        - Generic Base
+        - Generic Console Tools
+        - Generic Crosswalk
+        - Mobile Crosswalk
+        - Generic Desktop Applications
+        - Generic Multimedia
+        - Mobile Multimedia
+        - Generic Packaging
+        - Mobile Connectivity Framework Wayland
+        - Mobile Dali
+        - Mobile EFL
+        - Mobile Enlightenment Wayland
+        - Mobile Input Framework
+        - Mobile Middleware Wayland
+        - Mobile Wayland
+        - Mobile Wayland Temp
+    PostScripts:
+        - generic-adaptation
+        - mobile-adaptation
+        - generic-applications
+        - generic-base
+        - generic-console-tools
+        - generic-crosswalk
+        - mobile-crosswalk
+        - generic-desktop-applications
+        - generic-multimedia
+        - generic-packaging
+        - mobile-middleware-wayland
+    Repos: []
+    NoChrootScripts:
+        - buildname
+
+Wayland-64:
+    Part: mobile-mbr
+    UserGroups: "audio,video"
+    Groups:
+    PostScripts:
     Repos: []
     NoChrootScripts:
         - buildname

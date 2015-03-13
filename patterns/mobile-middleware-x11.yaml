@@ -1,0 +1,19 @@
+Summary: Mobile Middleware X11
+Description: Mobile Middleware X11
+Name: mobile-middleware-x11
+Packages:
+- buxton
+- cynara
+- libprivilege-control-conf
+- libsecurity-manager-client
+- model-config-generic
+- pkgmgr-server
+- resourced
+- sdbd
+- security-manager
+- security-server
+- usb-server
+- neardal
+- cyad
+- drm-client
+- libtasn1-tools

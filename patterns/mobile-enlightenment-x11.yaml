@@ -1,6 +1,6 @@
-Summary: Mobile Enlightenment
-Description: Mobile Enlightenment
-Name: mobile-enlightenment
+Summary: Mobile Enlightenment X11
+Description: Mobile Enlightenment X11
+Name: mobile-enlightenment-x11
 Packages:
 - e-mod-tizen-wm-policy
 - e-mod-tizen-effect

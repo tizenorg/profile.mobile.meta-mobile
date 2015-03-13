@@ -1,6 +1,6 @@
-Summary: Mobile Connectivity Framework
-Description: Mobile Connectivity Framework
-Name: mobile-connectivity-framework
+Summary: Mobile Connectivity Framework 3Parts
+Description: Mobile Connectivity Framework 3Parts
+Name: mobile-connectivity-framework-3parts
 Packages:
 - mobileap-agent
 - wifi-direct-manager
