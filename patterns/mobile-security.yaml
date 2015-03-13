@@ -4,3 +4,7 @@ Name: mobile-security
 Packages: 
 - security-manager
 - libsecurity-manager-client
+- cyad
+- drm-client
+- libtasn1-tools
+- security-manager-policy
