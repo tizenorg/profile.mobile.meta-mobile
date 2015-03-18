@@ -243,13 +243,14 @@ Wayland:
         - Generic Multimedia
         - Mobile Multimedia
         - Generic Packaging
+        - Generic Wayland
+        - Mobile Wayland
         - Mobile Connectivity Framework Wayland
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment Wayland
         - Mobile Input Framework
         - Mobile Middleware Wayland
-        - Mobile Wayland
         - Mobile Wayland Temp
     PostScripts:
         - generic-adaptation

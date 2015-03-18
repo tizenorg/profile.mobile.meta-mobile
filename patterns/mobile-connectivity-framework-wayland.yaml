@@ -6,3 +6,4 @@ Packages:
 - libwifi-direct
 - net-config
 - nfc-client-lib-neard
+- capi-network-wifi

@@ -3,3 +3,9 @@ Description: Mobile Wayland
 Name: mobile-wayland
 Packages:
 - libtbm-exynos4412
+- tlm-config-common
+- weston-common
+- weston-common-config
+- weston-clients
+- weston-common-tz-launcher
+- desktop-skin
