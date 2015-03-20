@@ -173,6 +173,7 @@ X11:
         - generic-base
         - generic-console-tools
         - generic-crosswalk
+        - mobile-base
         - mobile-crosswalk
         - generic-desktop-applications
         - generic-multimedia
@@ -216,6 +217,7 @@ X11-64:
         - generic-base
         - generic-console-tools
         - generic-crosswalk
+        - mobile-base
         - mobile-crosswalk
         - generic-desktop-applications
         - generic-multimedia
@@ -259,6 +261,7 @@ Wayland:
         - generic-base
         - generic-console-tools
         - generic-crosswalk
+        - mobile-base
         - mobile-crosswalk
         - generic-desktop-applications
         - generic-multimedia
