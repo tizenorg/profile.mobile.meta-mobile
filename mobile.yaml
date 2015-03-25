@@ -150,6 +150,7 @@ X11:
         - Generic Applications
         - Mobile Application
         - Generic Base
+        - Mobile Base
         - Generic Console Tools
         - Generic Crosswalk
         - Mobile Crosswalk
@@ -194,6 +195,7 @@ X11-64:
         - Generic Applications
         - Mobile Application
         - Generic Base
+        - Mobile Base
         - Generic Console Tools
         - Generic Crosswalk
         - Mobile Crosswalk
@@ -238,6 +240,7 @@ Wayland:
         - Generic Applications
         - Mobile Application
         - Generic Base
+        - Mobile Base
         - Generic Console Tools
         - Generic Crosswalk
         - Mobile Crosswalk
