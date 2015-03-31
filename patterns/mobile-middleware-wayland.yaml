@@ -16,3 +16,4 @@ Packages:
 - drm-client
 - libtasn1-tools
 - neardal
+- iotivity
