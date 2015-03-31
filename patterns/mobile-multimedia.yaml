@@ -27,3 +27,7 @@ Packages:
 - libmedia-utils
 - media-server
 - media-thumbnail-server
+- gst-rtsp-server
+- libmm-wfd
+- libmm-scmirroring-common
+- capi-media-screen-mirroring
