@@ -3,3 +3,4 @@ Description: Mobile Enlightenment Wayland
 Name: mobile-enlightenment-wayland
 Packages:
 - enlightenment
+- e-tizen-data

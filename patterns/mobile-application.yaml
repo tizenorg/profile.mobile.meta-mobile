@@ -1,8 +1,0 @@
-Summary: Mobile Application
-Description: Mobile Application
-Name: mobile-application
-Packages:
-- app-installers
-- tpk-backend
-- wgt-backend
-- capi-appfw-app-manager

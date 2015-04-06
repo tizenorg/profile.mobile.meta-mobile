@@ -41,149 +41,49 @@ Boot-RD-PQ:
         - Mobile Boot RD PQ
     Repos: []
 
-3Parts-X11:
-    Part: mobile-mbr
-    UserGroups: "audio,video"
-    Groups:
-        - Generic Adaptation
-        - Generic Applications
-        - Generic Base
-        - Generic Bluetooth
-        - Generic Console Tools
-        - Generic Crosswalk
-        - Generic Multimedia
-        - Generic Packaging
-        - Generic Qt5
-        - Generic X11
-        - Mobile Adaptation
-        - Mobile Base
-        - Mobile Crosswalk
-        - Mobile Connectivity Framework 3Parts
-        - Mobile Dali
-        - Mobile Desktop Applications
-        - Mobile Enlightenment
-        - Mobile Input Framework
-        - Mobile 3Parts Middleware
-        - Mobile 3Parts Multimedia
-        - Mobile Packaging
-        - Mobile Qt5
-        - Mobile Security
-        - Mobile X11
-        - Mobile EFL
-    PostScripts:
-        - generic-adaptation
-        - generic-applications
-        - generic-base
-        - generic-bluetooth
-        - generic-console-tools
-        - generic-crosswalk
-        - generic-multimedia
-        - generic-packaging
-        - generic-qt5
-        - generic-x11
-        - mobile-adaptation
-        - mobile-base
-        - mobile-crosswalk
-        - mobile-desktop-applications
-        - mobile-middleware
-        - mobile-packaging
-        - mobile-qt5
-        - mobile-x11
-    Repos: []
-    NoChrootScripts:
-        - buildname
-
-3Parts-X11-64:
-    Part: mobile-mbr
-    UserGroups: "audio,video"
-    Groups:
-        - Generic Adaptation
-        - Generic Applications
-        - Generic Base
-        - Generic Bluetooth
-        - Generic Console Tools
-        - Generic Multimedia
-        - Generic Packaging
-        - Generic Qt5
-        - Generic X11
-        - Mobile Adaptation
-        - Mobile Base
-        - Mobile Connectivity Framework 3Parts
-        - Mobile Dali
-        - Mobile Desktop Applications
-        - Mobile Enlightenment
-        - Mobile Input Framework
-        - Mobile 3Parts Middleware
-        - Mobile 3Parts Multimedia
-        - Mobile Packaging
-        - Mobile Qt5
-        - Mobile Security
-        - Mobile X11
-        - Mobile EFL
-    PostScripts:
-        - generic-adaptation
-        - generic-applications
-        - generic-base
-        - generic-bluetooth
-        - generic-console-tools
-        - generic-multimedia
-        - generic-packaging
-        - generic-qt5
-        - generic-x11
-        - mobile-adaptation
-        - mobile-base
-        - mobile-desktop-applications
-        - mobile-middleware
-        - mobile-packaging
-        - mobile-qt5
-        - mobile-x11
-    Repos: []
-    NoChrootScripts:
-        - buildname
-
 X11:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic Adaptation
-        - Mobile Adaptation
-        - Generic Applications
-        - Mobile Application
         - Generic Base
         - Mobile Base
         - Generic Console Tools
-        - Generic Crosswalk
-        - Mobile Crosswalk
-        - Generic Desktop Applications
-        - Generic Multimedia
-        - Mobile Multimedia
         - Generic Packaging
         - Mobile Packaging
+        - Generic Adaptation
+        - Mobile Adaptation
         - Generic X11
-        - Mobile Connectivity Framework X11
+        - Mobile X11
+        - Mobile X11 Temp
+        - Mobile Middleware X11
+        - Generic Applications
+        - Mobile Applications
+        - Generic Multimedia
+        - Mobile Multimedia
+        - Generic Desktop Applications
+        - Generic Crosswalk
+        - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment X11
         - Mobile Input Framework
-        - Mobile Middleware X11
-        - Mobile X11
-        - Mobile X11 Temp
+        - Mobile Connectivity Framework X11
     PostScripts:
-        - generic-adaptation
-        - mobile-adaptation
-        - generic-applications
         - generic-base
-        - generic-console-tools
-        - generic-crosswalk
         - mobile-base
-        - mobile-crosswalk
-        - generic-desktop-applications
-        - generic-multimedia
+        - generic-console-tools
         - generic-packaging
         - mobile-packaging
+        - generic-adaptation
+        - mobile-adaptation
         - generic-x11
-        - mobile-middleware-x11
         - mobile-x11
+        - mobile-middleware-x11
+        - generic-applications
+        - generic-multimedia
+        - generic-desktop-applications
+        - generic-crosswalk
+        - mobile-crosswalk
     Repos: []
     NoChrootScripts:
         - buildname
@@ -192,45 +92,45 @@ X11-64:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic Adaptation
-        - Mobile Adaptation
-        - Generic Applications
-        - Mobile Application
         - Generic Base
         - Mobile Base
         - Generic Console Tools
-        - Generic Crosswalk
-        - Mobile Crosswalk
-        - Generic Desktop Applications
-        - Generic Multimedia
-        - Mobile Multimedia
         - Generic Packaging
         - Mobile Packaging
+        - Generic Adaptation
+        - Mobile Adaptation
         - Generic X11
-        - Mobile Connectivity Framework X11
+        - Mobile X11
+        - Mobile X11 Temp
+        - Mobile Middleware X11
+        - Generic Applications
+        - Mobile Applications
+        - Generic Multimedia
+        - Mobile Multimedia
+        - Generic Desktop Applications
+        - Generic Crosswalk
+        - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment X11
         - Mobile Input Framework
-        - Mobile Middleware X11
-        - Mobile X11
-        - Mobile X11 Temp
+        - Mobile Connectivity Framework X11
     PostScripts:
-        - generic-adaptation
-        - mobile-adaptation
-        - generic-applications
         - generic-base
-        - generic-console-tools
-        - generic-crosswalk
         - mobile-base
-        - mobile-crosswalk
-        - generic-desktop-applications
-        - generic-multimedia
+        - generic-console-tools
         - generic-packaging
         - mobile-packaging
+        - generic-adaptation
+        - mobile-adaptation
         - generic-x11
-        - mobile-middleware-x11
         - mobile-x11
+        - mobile-middleware-x11
+        - generic-applications
+        - generic-multimedia
+        - generic-desktop-applications
+        - generic-crosswalk
+        - mobile-crosswalk
     Repos: []
     NoChrootScripts:
         - buildname
@@ -239,43 +139,44 @@ Wayland:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
-        - Generic Adaptation
-        - Mobile Adaptation
-        - Generic Applications
-        - Mobile Application
         - Generic Base
         - Mobile Base
         - Generic Console Tools
-        - Generic Crosswalk
-        - Mobile Crosswalk
-        - Generic Desktop Applications
-        - Generic Multimedia
-        - Mobile Multimedia
         - Generic Packaging
         - Mobile Packaging
+        - Generic Adaptation
+        - Mobile Adaptation
         - Generic Wayland
         - Mobile Wayland
-        - Mobile Connectivity Framework Wayland
+        - Mobile Wayland Temp
+        - Mobile Middleware Wayland
+        - Generic Applications
+        - Mobile Applications
+        - Generic Multimedia
+        - Mobile Multimedia
+        - Generic Desktop Applications
+        - Generic Crosswalk
+        - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment Wayland
         - Mobile Input Framework
-        - Mobile Middleware Wayland
-        - Mobile Wayland Temp
+        - Mobile Connectivity Framework Wayland
     PostScripts:
-        - generic-adaptation
-        - mobile-adaptation
-        - generic-applications
         - generic-base
-        - generic-console-tools
-        - generic-crosswalk
         - mobile-base
-        - mobile-crosswalk
-        - generic-desktop-applications
-        - generic-multimedia
+        - generic-console-tools
         - generic-packaging
         - mobile-packaging
+        - generic-adaptation
+        - mobile-adaptation
+        - generic-wayland
         - mobile-middleware-wayland
+        - generic-applications
+        - generic-multimedia
+        - generic-desktop-applications
+        - generic-crosswalk
+        - mobile-crosswalk
     Repos: []
     NoChrootScripts:
         - buildname
@@ -284,7 +185,44 @@ Wayland-64:
     Part: mobile-mbr
     UserGroups: "audio,video"
     Groups:
+        - Generic Base
+        - Mobile Base
+        - Generic Console Tools
+        - Generic Packaging
+        - Mobile Packaging
+        - Generic Adaptation
+        - Mobile Adaptation
+        - Generic Wayland
+        - Mobile Wayland
+        - Mobile Wayland Temp
+        - Mobile Middleware Wayland
+        - Generic Applications
+        - Mobile Applications
+        - Generic Multimedia
+        - Mobile Multimedia
+        - Generic Desktop Applications
+        - Generic Crosswalk
+        - Mobile Crosswalk
+        - Mobile Dali
+        - Mobile EFL
+        - Mobile Enlightenment Wayland
+        - Mobile Input Framework
+        - Mobile Connectivity Framework Wayland
     PostScripts:
-    Repos: []
+        - generic-base
+        - mobile-base
+        - generic-console-tools
+        - generic-packaging
+        - mobile-packaging
+        - generic-adaptation
+        - mobile-adaptation
+        - generic-wayland
+        - mobile-middleware-wayland
+        - generic-applications
+        - generic-multimedia
+        - generic-desktop-applications
+        - generic-crosswalk
+        - mobile-crosswalk
+   Repos: []
     NoChrootScripts:
         - buildname

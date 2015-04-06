@@ -18,4 +18,8 @@ Repositories:
     -   Name: mobile-wayland_armv7l
         Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/arm-wayland/packages/
         Options: --ssl_verify=no
-
+  
+    -   Name: mobile-wayland_arm64
+        Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/arm64-wayland/packages/
+        Options: --ssl_verify=no
+  

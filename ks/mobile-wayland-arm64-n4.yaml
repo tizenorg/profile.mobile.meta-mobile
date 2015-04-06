@@ -1,0 +1,10 @@
+Name: mobile-wayland-arm64-n4
+Architecture: aarch64
+Schedule: "*"
+Active: True
+Platform: Wayland-64
+Part: mobile-mbr-3parts
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: mobile-wayland-arm64-n4
+Repos:
+    - mobile-wayland_arm64
