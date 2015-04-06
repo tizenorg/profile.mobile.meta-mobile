@@ -17,7 +17,6 @@ Packages:
 - libpciaccess
 - libsvi
 - libtapi
-- libtapi3
 - message-port
 - monotype-fonts
 - ui-gadget-1
