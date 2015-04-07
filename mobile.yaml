@@ -223,6 +223,7 @@ Wayland-64:
         - generic-desktop-applications
         - generic-crosswalk
         - mobile-crosswalk
-   Repos: []
+    Repos: []
     NoChrootScripts:
         - buildname
+
