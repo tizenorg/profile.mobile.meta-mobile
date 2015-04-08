@@ -4,3 +4,4 @@ Name: mobile-enlightenment-wayland
 Packages:
 - enlightenment
 - e-tizen-data
+- e-mod-tizen-wm-policy

@@ -18,3 +18,7 @@ Packages:
 - drm-client
 - libtasn1-tools
 - iotivity
+- key-manager
+- key-manager-listener
+- libkey-manager-common
+- libkey-manager-client
