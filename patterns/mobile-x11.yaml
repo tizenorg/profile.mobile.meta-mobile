@@ -7,3 +7,4 @@ Packages:
 - xf86-input-evdevmultitouch
 - xf86-input-gesture
 - xf86-video-exynos
+- xf86-misc-exynos4412

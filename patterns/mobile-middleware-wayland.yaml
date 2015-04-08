@@ -17,3 +17,7 @@ Packages:
 - libtasn1-tools
 - neardal
 - iotivity
+- key-manager
+- key-manager-listener
+- libkey-manager-common
+- libkey-manager-client
