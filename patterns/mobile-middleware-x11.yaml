@@ -22,3 +22,10 @@ Packages:
 - key-manager-listener
 - libkey-manager-common
 - libkey-manager-client
+- contacts-service2
+- calendar-service
+- pims-ipc
+- libcynara-creds-commons
+- libcynara-creds-dbus
+- libcynara-creds-gdbus
+- libcynara-creds-socket
