@@ -28,3 +28,4 @@ Packages:
 - libcynara-creds-dbus
 - libcynara-creds-gdbus
 - libcynara-creds-socket
+- murphy
