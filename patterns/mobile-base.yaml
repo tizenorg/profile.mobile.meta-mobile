@@ -9,3 +9,4 @@ Packages:
 - tlm-config-common-singleseat
 - deviced
 - deviced-tools
+- alsa-ucm-data-wm5110
