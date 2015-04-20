@@ -3,6 +3,5 @@ Description: Mobile Wayland
 Name: mobile-wayland
 Packages:
 - libtbm-exynos4412
-- tlm-config-common
 - weston-clients
 - desktop-skin
