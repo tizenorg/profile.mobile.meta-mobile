@@ -24,6 +24,7 @@ Packages:
 - libkey-manager-client
 - contacts-service2
 - calendar-service
+- email-service
 - pims-ipc
 - libcynara-creds-commons
 - libcynara-creds-dbus
