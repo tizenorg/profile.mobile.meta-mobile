@@ -1,0 +1,17 @@
+Summary: Mobile EFL X11
+Description: Mobile EFL X11
+Name: mobile-efl-x11
+Packages: 
+- efl-misc
+- capi-ui-efl-util
+- efl-extension
+- elementary-tools
+- default-fonts-sdk
+- default-fonts-fc-sdk
+- at-spi2-core
+- libatspi0
+- typelib-1_0-Atspi-2_0
+- libatk-bridge-2_0-0
+- atk-locale
+- libatk
+- typelib-Atk

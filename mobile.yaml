@@ -64,7 +64,7 @@ X11:
         - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
-        - Mobile EFL
+        - Mobile EFL X11
         - Mobile Enlightenment X11
         - Mobile Input Framework
         - Mobile Connectivity Framework X11
@@ -111,7 +111,7 @@ X11-64:
         - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
-        - Mobile EFL
+        - Mobile EFL X11
         - Mobile Enlightenment X11
         - Mobile Input Framework
         - Mobile Connectivity Framework X11
@@ -158,7 +158,7 @@ Wayland:
         - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
-        - Mobile EFL
+        - Mobile EFL Wayland
         - Mobile Enlightenment Wayland
         - Mobile Input Framework
         - Mobile Connectivity Framework Wayland
@@ -204,7 +204,7 @@ Wayland-64:
         - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
-        - Mobile EFL
+        - Mobile EFL Wayland
         - Mobile Enlightenment Wayland
         - Mobile Input Framework
         - Mobile Connectivity Framework Wayland

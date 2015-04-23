@@ -1,0 +1,14 @@
+Summary: Mobile EFL Wayland
+Description: Mobile EFL Wayland
+Name: mobile-efl-wayland
+Packages: 
+- efl-misc
+- capi-ui-efl-util
+- efl-extension
+- elementary-tools
+- default-fonts-sdk
+- default-fonts-fc-sdk
+- atk-locale
+- libatk
+- typelib-Atk
+- e-mod-tizen-wl-textinput
