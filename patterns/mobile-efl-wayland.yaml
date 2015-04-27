@@ -12,3 +12,5 @@ Packages:
 - libatk
 - typelib-Atk
 - e-mod-tizen-wl-textinput
+- efl-theme-tizen-mobile
+- e-mod-tizen-qpmgr
