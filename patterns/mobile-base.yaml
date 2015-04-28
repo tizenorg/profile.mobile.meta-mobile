@@ -10,3 +10,4 @@ Packages:
 - deviced
 - deviced-tools
 - alsa-ucm-data-wm5110
+- device-manager-plugin-exynos5433
