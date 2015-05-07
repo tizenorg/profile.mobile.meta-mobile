@@ -1,0 +1,10 @@
+Summary: Mobile Bluetooth
+Description: Mobile Bluetooth
+Name: mobile-bluetooth
+Packages:
+- bluez
+- libbluetooth
+- obexd
+- org.tizen.bt-syspopup
+- bluetooth-share
+- bluetooth-firmware-bcm
