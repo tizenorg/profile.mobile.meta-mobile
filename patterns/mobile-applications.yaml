@@ -7,3 +7,5 @@ Packages:
 - wgt-backend
 - capi-appfw-app-manager
 - org.tizen.elm-demo-tizen-mobile
+- starter
+- org.tizen.menu-screen

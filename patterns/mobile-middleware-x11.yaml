@@ -31,3 +31,4 @@ Packages:
 - libcynara-creds-gdbus
 - libcynara-creds-socket
 - murphy
+- cert-svc
