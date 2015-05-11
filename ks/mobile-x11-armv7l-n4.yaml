@@ -8,3 +8,5 @@ Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-x11-armv7l-n4
 Repos:
     - mobile-x11_armv7l
+ExtraPackages:
+    - system-plugin-n4
