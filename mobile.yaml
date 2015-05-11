@@ -86,6 +86,7 @@ X11:
         - generic-crosswalk
         - mobile-crosswalk
         - mobile-bluetooth
+        - mobile-mbr-3parts
     Repos: []
     NoChrootScripts:
         - buildname
@@ -135,6 +136,7 @@ X11-64:
         - generic-crosswalk
         - mobile-crosswalk
         - mobile-bluetooth
+        - mobile-mbr-3parts
     Repos: []
     NoChrootScripts:
         - buildname
@@ -183,6 +185,7 @@ Wayland:
         - generic-crosswalk
         - mobile-crosswalk
         - mobile-bluetooth
+        - mobile-mbr-3parts
     Repos: []
     NoChrootScripts:
         - buildname
@@ -231,6 +234,7 @@ Wayland-64:
         - generic-crosswalk
         - mobile-crosswalk
         - mobile-bluetooth
+        - mobile-mbr-3parts
     Repos: []
     NoChrootScripts:
         - buildname
