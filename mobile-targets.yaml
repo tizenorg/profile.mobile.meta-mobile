@@ -17,3 +17,7 @@ Targets:
     -   Name: arm64-wayland
         Images:
             - mobile-wayland-arm64-n4.yaml
+
+    -   Name: emulator32-wayland
+        Images:
+            - mobile-emulator32-wayland.yaml

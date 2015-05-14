@@ -1,0 +1,12 @@
+Name: mobile-emulator32-wayland
+Architecture: i586
+Schedule: "*"
+Active: True
+Platform: Emulator32-wayland
+Part: mobile-mbr-3parts
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: mobile-emulator32-wayland
+Repos:
+    - mobile-emulator32-wayland
+ExtraPackages:
+    - system-plugin-emulator
