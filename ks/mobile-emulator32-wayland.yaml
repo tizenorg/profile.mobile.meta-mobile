@@ -10,3 +10,4 @@ Repos:
     - mobile-emulator32-wayland
 ExtraPackages:
     - system-plugin-emulator
+    - model-config-emulator

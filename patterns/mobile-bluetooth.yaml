@@ -7,6 +7,7 @@ Packages:
 - obexd
 - org.tizen.bt-syspopup
 - bluetooth-share
+- bluetooth-tools
 - bluetooth-frwk-core
 - bluetooth-frwk-service
 - bluetooth-firmware-bcm
