@@ -1,0 +1,9 @@
+Summary: Mobile Enlightenment
+Description: Mobile Enlightenment
+Name: mobile-enlightenment
+Packages:
+- enlightenment
+- e-tizen-data
+- e-mod-tizen-wm-policy
+- e-mod-tizen-devicemgr
+- e-mod-tizen-keyrouter

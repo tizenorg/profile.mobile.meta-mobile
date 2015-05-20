@@ -1,9 +1,0 @@
-Summary: Mobile Connectivity Framework Wayland
-Description: Mobile Connectivity Framework Wayland
-Name: mobile-connectivity-framework-wayland
-Packages:
-- capi-network-nfc
-- libwifi-direct
-- net-config
-- nfc-client-lib-neard
-- capi-network-wifi
