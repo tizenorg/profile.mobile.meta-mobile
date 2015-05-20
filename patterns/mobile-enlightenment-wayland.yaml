@@ -1,9 +1,0 @@
-Summary: Mobile Enlightenment Wayland
-Description: Mobile Enlightenment Wayland
-Name: mobile-enlightenment-wayland
-Packages:
-- enlightenment
-- e-tizen-data
-- e-mod-tizen-wm-policy
-- e-mod-tizen-devicemgr
-- e-mod-tizen-keyrouter

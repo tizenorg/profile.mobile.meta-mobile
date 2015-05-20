@@ -1,6 +1,6 @@
-Summary: Mobile Middleware X11
-Description: Mobile Middleware X11
-Name: mobile-middleware-x11
+Summary: Mobile Middleware
+Description: Mobile Middleware
+Name: mobile-middleware
 Packages:
 - buxton
 - cynara
@@ -10,12 +10,11 @@ Packages:
 - resourced
 - sdbd
 - security-manager
-- security-server
 - usb-server
-- neardal
 - cyad
 - drm-client
 - libtasn1-tools
+- neardal
 - iotivity
 - key-manager
 - key-manager-listener

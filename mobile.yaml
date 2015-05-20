@@ -41,106 +41,6 @@ Boot-RD-PQ:
         - Mobile Boot RD PQ
     Repos: []
 
-X11:
-    Part: mobile-mbr
-    UserGroups: "audio,video"
-    Groups:
-        - Generic Base
-        - Mobile Base
-        - Generic Console Tools
-        - Generic Packaging
-        - Mobile Packaging
-        - Generic Adaptation
-        - Mobile Adaptation
-        - Generic X11
-        - Mobile X11
-        - Mobile X11 Temp
-        - Mobile Middleware X11
-        - Generic Applications
-        - Mobile Applications
-        - Generic Multimedia
-        - Mobile Multimedia
-        - Generic Desktop Applications
-        - Generic Crosswalk
-        - Mobile Crosswalk
-        - Mobile Dali
-        - Mobile EFL X11
-        - Mobile Enlightenment X11
-        - Mobile Input Framework
-        - Mobile Connectivity Framework X11
-        - Mobile Bluetooth
-    PostScripts:
-        - generic-base
-        - mobile-base
-        - generic-console-tools
-        - generic-packaging
-        - mobile-packaging
-        - generic-adaptation
-        - mobile-adaptation
-        - generic-x11
-        - mobile-x11
-        - mobile-middleware-x11
-        - generic-applications
-        - generic-multimedia
-        - generic-desktop-applications
-        - generic-crosswalk
-        - mobile-crosswalk
-        - mobile-bluetooth
-        - mobile-mbr-3parts
-    Repos: []
-    NoChrootScripts:
-        - buildname
-
-X11-64:
-    Part: mobile-mbr
-    UserGroups: "audio,video"
-    Groups:
-        - Generic Base
-        - Mobile Base
-        - Generic Console Tools
-        - Generic Packaging
-        - Mobile Packaging
-        - Generic Adaptation
-        - Mobile Adaptation
-        - Generic X11
-        - Mobile X11
-        - Mobile X11 Temp
-        - Mobile Middleware X11
-        - Generic Applications
-        - Mobile Applications
-        - Generic Multimedia
-        - Mobile Multimedia
-        - Generic Desktop Applications
-        - Generic Crosswalk
-        - Mobile Crosswalk
-        - Mobile Dali
-        - Mobile EFL X11
-        - Mobile Enlightenment X11
-        - Mobile Input Framework
-        - Mobile Connectivity Framework X11
-        - Mobile Bluetooth
-    PostScripts:
-        - generic-base
-        - mobile-base
-        - generic-console-tools
-        - generic-packaging
-        - mobile-packaging
-        - generic-adaptation
-        - mobile-adaptation
-        - generic-x11
-        - mobile-x11
-        - mobile-middleware-x11
-        - generic-applications
-        - generic-multimedia
-        - generic-desktop-applications
-        - generic-crosswalk
-        - mobile-crosswalk
-        - mobile-bluetooth
-        - mobile-mbr-3parts
-    Repos: []
-    NoChrootScripts:
-        - buildname
-
 Wayland:
     Part: mobile-mbr
     UserGroups: "audio,video"
@@ -155,7 +55,7 @@ Wayland:
         - Generic Wayland
         - Mobile Wayland
         - Mobile Wayland Temp
-        - Mobile Middleware Wayland
+        - Mobile Middleware
         - Generic Applications
         - Mobile Applications
         - Generic Multimedia
@@ -164,10 +64,10 @@ Wayland:
         - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
-        - Mobile EFL Wayland
-        - Mobile Enlightenment Wayland
+        - Mobile EFL
+        - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Connectivity Framework Wayland
+        - Mobile Connectivity Framework
         - Mobile Bluetooth
     PostScripts:
         - generic-base
@@ -178,7 +78,7 @@ Wayland:
         - generic-adaptation
         - mobile-adaptation
         - generic-wayland
-        - mobile-middleware-wayland
+        - mobile-middleware
         - generic-applications
         - generic-multimedia
         - generic-desktop-applications
@@ -204,7 +104,7 @@ Wayland-64:
         - Generic Wayland
         - Mobile Wayland
         - Mobile Wayland Temp
-        - Mobile Middleware Wayland
+        - Mobile Middleware
         - Generic Applications
         - Mobile Applications
         - Generic Multimedia
@@ -213,10 +113,10 @@ Wayland-64:
         - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
-        - Mobile EFL Wayland
-        - Mobile Enlightenment Wayland
+        - Mobile EFL
+        - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Connectivity Framework Wayland
+        - Mobile Connectivity Framework
         - Mobile Bluetooth
     PostScripts:
         - generic-base
@@ -227,7 +127,7 @@ Wayland-64:
         - generic-adaptation
         - mobile-adaptation
         - generic-wayland
-        - mobile-middleware-wayland
+        - mobile-middleware
         - generic-applications
         - generic-multimedia
         - generic-desktop-applications
@@ -253,7 +153,7 @@ Emulator32-wayland:
         - Generic Wayland
         - Mobile Wayland
         - Mobile Wayland Temp
-        - Mobile Middleware Wayland
+        - Mobile Middleware
         - Generic Applications
         - Mobile Applications
         - Generic Multimedia
@@ -262,10 +162,10 @@ Emulator32-wayland:
         - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
-        - Mobile EFL Wayland
-        - Mobile Enlightenment Wayland
+        - Mobile EFL
+        - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Connectivity Framework Wayland
+        - Mobile Connectivity Framework
         - Mobile Bluetooth
     PostScripts:
         - generic-base
@@ -276,7 +176,7 @@ Emulator32-wayland:
         - generic-adaptation
         - mobile-adaptation
         - generic-wayland
-        - mobile-middleware-wayland
+        - mobile-middleware
         - generic-applications
         - generic-multimedia
         - generic-desktop-applications
