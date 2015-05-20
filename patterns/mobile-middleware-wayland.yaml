@@ -6,7 +6,6 @@ Packages:
 - cynara
 - libprivilege-control-conf
 - libsecurity-manager-client
-- model-config-generic
 - pkgmgr-server
 - resourced
 - sdbd

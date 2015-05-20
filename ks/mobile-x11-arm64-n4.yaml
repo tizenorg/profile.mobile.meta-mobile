@@ -10,3 +10,4 @@ Repos:
     - mobile-x11_arm64
 ExtraPackages:
     - system-plugin-n4
+    - model-config-generic
