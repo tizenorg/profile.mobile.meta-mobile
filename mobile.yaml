@@ -61,7 +61,6 @@ Wayland:
         - Generic Multimedia
         - Mobile Multimedia
         - Generic Desktop Applications
-        - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
@@ -110,7 +109,6 @@ Wayland-64:
         - Generic Multimedia
         - Mobile Multimedia
         - Generic Desktop Applications
-        - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
@@ -159,7 +157,6 @@ Emulator32-wayland:
         - Generic Multimedia
         - Mobile Multimedia
         - Generic Desktop Applications
-        - Generic Crosswalk
         - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
