@@ -10,4 +10,4 @@ Repos:
     - mobile-wayland_armv7l
 ExtraPackages:
     - system-plugin-n4
-    - model-config-generic
+    - model-config-n4
