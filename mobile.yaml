@@ -61,13 +61,13 @@ Wayland:
         - Generic Multimedia
         - Mobile Multimedia
         - Generic Desktop Applications
-        - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment
         - Mobile Input Framework
         - Mobile Connectivity Framework
         - Mobile Bluetooth
+        - Mobile Web Framework
     PostScripts:
         - generic-base
         - mobile-base
@@ -82,7 +82,7 @@ Wayland:
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
-        - mobile-crosswalk
+        - mobile-web-framework
         - mobile-bluetooth
         - mobile-mbr-3parts
     Repos: []
@@ -109,13 +109,13 @@ Wayland-64:
         - Generic Multimedia
         - Mobile Multimedia
         - Generic Desktop Applications
-        - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment
         - Mobile Input Framework
         - Mobile Connectivity Framework
         - Mobile Bluetooth
+        - Mobile Web Framework
     PostScripts:
         - generic-base
         - mobile-base
@@ -130,7 +130,7 @@ Wayland-64:
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
-        - mobile-crosswalk
+        - mobile-web-framework
         - mobile-bluetooth
         - mobile-mbr-3parts
     Repos: []
@@ -157,13 +157,13 @@ Emulator32-wayland:
         - Generic Multimedia
         - Mobile Multimedia
         - Generic Desktop Applications
-        - Mobile Crosswalk
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment
         - Mobile Input Framework
         - Mobile Connectivity Framework
         - Mobile Bluetooth
+        - Mobile Web Framework
     PostScripts:
         - generic-base
         - mobile-base
@@ -178,7 +178,7 @@ Emulator32-wayland:
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
-        - mobile-crosswalk
+        - mobile-web-framework
         - mobile-bluetooth
         - mobile-mbr-3parts
     Repos: []
