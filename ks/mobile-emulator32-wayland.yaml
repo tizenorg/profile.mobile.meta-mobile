@@ -3,7 +3,7 @@ Architecture: i586
 Schedule: "*"
 Active: True
 Platform: Emulator32-wayland
-Part: mobile-mbr-3parts
+Part: mobile-mbr
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-emulator32-wayland
 Repos:

@@ -180,7 +180,6 @@ Emulator32-wayland:
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
-        - mobile-mbr-3parts
     Repos: []
     NoChrootScripts:
         - buildname
