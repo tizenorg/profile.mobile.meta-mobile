@@ -1,5 +1,5 @@
 Name: mobile-emulator32-wayland
-Architecture: i586
+Architecture: ia32
 Schedule: "*"
 Active: True
 Platform: Emulator32-wayland
