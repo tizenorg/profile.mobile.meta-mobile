@@ -3,5 +3,4 @@ Description: Mobile Web Framework
 Name: mobile-web-framework
 Packages:
 - chromium-efl
-- wrt
 - wrt-widgets
