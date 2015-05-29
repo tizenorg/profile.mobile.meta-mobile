@@ -1,0 +1,9 @@
+Summary: Mobile Emulator
+Description: Mobile Emulator
+Name: mobile-emulator
+Packages: 
+- emuld
+- device-manager-plugin-emul
+- libtbm-vigs
+- emulator-yagl
+- xf86-misc-vigs
