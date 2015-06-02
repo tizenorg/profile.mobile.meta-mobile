@@ -7,3 +7,5 @@ Packages:
 - net-config
 - nfc-client-lib-neard
 - capi-network-wifi
+- capi-network-tethering
+- mobileap-agent
