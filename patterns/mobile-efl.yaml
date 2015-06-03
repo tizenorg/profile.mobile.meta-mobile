@@ -1,7 +1,7 @@
 Summary: Mobile EFL
 Description: Mobile EFL
 Name: mobile-efl
-Packages: 
+Packages:
 - efl-misc
 - capi-ui-efl-util
 - efl-extension

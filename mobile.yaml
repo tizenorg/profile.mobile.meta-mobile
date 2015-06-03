@@ -31,7 +31,7 @@ Boot-RD-PQ:
     Part: mobile-mbr-boot-rd-pq
     Desktop: None
     DefaultUser: root
-    DefaultUserPass: 
+    DefaultUserPass:
     BootloaderAppend: "rootdelay=5"
     BootloaderTimeout: 0
     BootloaderOptions: ''
@@ -184,4 +184,3 @@ Emulator32-wayland:
     Repos: []
     NoChrootScripts:
         - buildname
-

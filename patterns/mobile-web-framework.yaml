@@ -4,3 +4,4 @@ Name: mobile-web-framework
 Packages:
 - chromium-efl
 - wrt
+- webapi-plugins
