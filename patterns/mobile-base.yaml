@@ -11,3 +11,4 @@ Packages:
 - deviced-tools
 - alsa-ucm-data-wm5110
 - device-manager-plugin-exynos5433
+- capi-base-utils
