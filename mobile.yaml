@@ -31,7 +31,7 @@ Boot-RD-PQ:
     Part: mobile-mbr-boot-rd-pq
     Desktop: None
     DefaultUser: root
-    DefaultUserPass: 
+    DefaultUserPass:
     BootloaderAppend: "rootdelay=5"
     BootloaderTimeout: 0
     BootloaderOptions: ''
@@ -68,6 +68,7 @@ Wayland:
         - Mobile Connectivity Framework
         - Mobile Bluetooth
         - Mobile Web Framework
+        - Mobile UI Framework
     PostScripts:
         - generic-base
         - mobile-base
@@ -116,6 +117,7 @@ Wayland-64:
         - Mobile Connectivity Framework
         - Mobile Bluetooth
         - Mobile Web Framework
+        - Mobile UI Framework
     PostScripts:
         - generic-base
         - mobile-base
@@ -165,6 +167,7 @@ Emulator32-wayland:
         - Mobile Bluetooth
         - Mobile Web Framework
         - Mobile Emulator
+        - Mobile UI Framework
     PostScripts:
         - generic-base
         - mobile-base
@@ -184,4 +187,3 @@ Emulator32-wayland:
     Repos: []
     NoChrootScripts:
         - buildname
-

@@ -1,0 +1,5 @@
+Summary: Mobile UI Framework
+Description: Mobile UI Framework
+Name: mobile-ui-framework
+Packages:
+- cairo
