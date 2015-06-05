@@ -5,3 +5,4 @@ Packages:
 - chromium-efl
 - wrt
 - webapi-plugins
+- browser-provider
