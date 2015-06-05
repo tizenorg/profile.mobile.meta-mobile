@@ -7,3 +7,4 @@ Packages:
 - emulator-yagl
 - libtbm-vigs
 - vmodemd-emul
+- gst-plugins-emulator
