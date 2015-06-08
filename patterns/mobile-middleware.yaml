@@ -10,7 +10,6 @@ Packages:
 - resourced
 - sdbd
 - security-manager
-- usb-server
 - cyad
 - drm-client
 - libtasn1-tools
