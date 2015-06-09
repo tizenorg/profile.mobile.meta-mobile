@@ -19,3 +19,5 @@ Packages:
 - libwidget_service
 - libwidget_viewer
 - libwidget_viewer_evas
+- push-bin
+- libpush

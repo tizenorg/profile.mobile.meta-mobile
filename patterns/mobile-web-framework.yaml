@@ -6,3 +6,5 @@ Packages:
 - wrt
 - webapi-plugins
 - browser-provider
+- capi-web-url-download
+- download-provider
