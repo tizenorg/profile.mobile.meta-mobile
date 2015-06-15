@@ -1,6 +1,6 @@
-Summary: Mobile Multimedia
-Description: Mobile Multimedia
-Name: mobile-multimedia
+Summary: Mobile Multimedia Target
+Description: Mobile Multimedia Target
+Name: mobile-multimedia-target
 Packages:
 - libmm-camcorder
 - libmm-session
@@ -31,3 +31,4 @@ Packages:
 - libmm-wfd
 - libmm-scmirroring-common
 - capi-media-screen-mirroring
+- audio-hal-wm5110

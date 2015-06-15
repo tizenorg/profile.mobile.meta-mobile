@@ -1,0 +1,33 @@
+Summary: Mobile Multimedia Emulator
+Description: Mobile Multimedia Emulator
+Name: mobile-multimedia-emulator
+Packages:
+- libmm-camcorder
+- libmm-session
+- libmm-fileinfo
+- libmm-radio
+- libmm-common
+- avsystem
+- libmm-sound
+- libmm-player
+- capi-media-player
+- capi-media-camera
+- capi-media-tool
+- gst-plugins-tizen
+- gst-libav
+- capi-media-recorder
+- gst-plugins-ugly
+- capi-content-media-content
+- capi-media-image-util
+- capi-media-metadata-extractor
+- capi-media-sound-manager
+- capi-media-wav-player
+- libmedia-service
+- libmedia-thumbnail
+- libmedia-utils
+- media-server
+- media-thumbnail-server
+- gst-rtsp-server
+- libmm-wfd
+- libmm-scmirroring-common
+- capi-media-screen-mirroring

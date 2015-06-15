@@ -59,7 +59,7 @@ Wayland:
         - Generic Applications
         - Mobile Applications
         - Generic Multimedia
-        - Mobile Multimedia
+        - Mobile Multimedia Target
         - Generic Desktop Applications
         - Mobile Dali
         - Mobile EFL
@@ -107,7 +107,7 @@ Wayland-64:
         - Generic Applications
         - Mobile Applications
         - Generic Multimedia
-        - Mobile Multimedia
+        - Mobile Multimedia Target
         - Generic Desktop Applications
         - Mobile Dali
         - Mobile EFL
@@ -155,7 +155,7 @@ Emulator32-wayland:
         - Generic Applications
         - Mobile Applications
         - Generic Multimedia
-        - Mobile Multimedia
+        - Mobile Multimedia Emulator
         - Generic Desktop Applications
         - Mobile Dali
         - Mobile EFL
