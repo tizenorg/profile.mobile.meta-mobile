@@ -31,3 +31,4 @@ Packages:
 - libmm-wfd
 - libmm-scmirroring-common
 - capi-media-screen-mirroring
+- capi-media-streamer

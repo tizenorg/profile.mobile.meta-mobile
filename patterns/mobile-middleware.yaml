@@ -35,3 +35,7 @@ Packages:
 - phonenumber-utils
 - libphonenumber
 - libprotobuf9
+- cairo
+- voice-control
+- voice-control-elm
+- vc-engine-default
