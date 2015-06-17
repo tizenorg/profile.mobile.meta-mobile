@@ -12,3 +12,5 @@ Packages:
 - alsa-ucm-data-wm5110
 - device-manager-plugin-exynos5433
 - capi-base-utils
+- sync-service
+- libcore-sync-client
