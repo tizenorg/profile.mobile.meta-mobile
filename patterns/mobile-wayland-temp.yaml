@@ -14,7 +14,6 @@ Packages:
 - libjson-glib
 - libmm-ta
 - libpciaccess
-- libsvi
 - libtapi
 - monotype-fonts
 - ui-gadget-1
