@@ -45,3 +45,7 @@ Packages:
 - libgeofence-dbus
 - lbs-server-plugin-replay
 - capi-maps-service
+- service-adaptor
+- service-discovery
+- service-federation
+- org.tizen.service-plugin-sample
