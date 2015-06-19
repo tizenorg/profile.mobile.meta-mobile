@@ -43,3 +43,5 @@ Packages:
 - location-lbs-server
 - capi-geofence-manager
 - libgeofence-dbus
+- lbs-server-plugin-replay
+- capi-maps-service
