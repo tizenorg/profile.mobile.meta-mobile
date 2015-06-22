@@ -3,7 +3,6 @@ Description: Mobile Connectivity Framework
 Name: mobile-connectivity-framework
 Packages:
 - capi-network-nfc
-- libwifi-direct
 - net-config
 - nfc-client-lib-neard
 - capi-network-wifi
