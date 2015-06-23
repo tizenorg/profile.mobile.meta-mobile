@@ -11,3 +11,6 @@ Repositories:
         Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/emulator32-wayland/packages/
         Options: --ssl_verify=no
 
+    -   Name: mobile-emulator64-wayland
+        Url:  http://download.tizen.org/snapshots/tizen/mobile/@BUILD_ID@/repos/emulator64-wayland/packages/
+        Options: --ssl_verify=no
