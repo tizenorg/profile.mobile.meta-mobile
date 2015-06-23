@@ -184,3 +184,51 @@ Emulator32-wayland:
     Repos: []
     NoChrootScripts:
         - buildname
+
+Emulator64-wayland:
+    Part: mobile-mbr
+    UserGroups: "audio,video"
+    Groups:
+        - Generic Base
+        - Mobile Base
+        - Generic Console Tools
+        - Generic Packaging
+        - Mobile Packaging
+        - Generic Adaptation
+        - Mobile Adaptation
+        - Generic Wayland
+        - Mobile Wayland
+        - Mobile Wayland Temp
+        - Mobile Middleware
+        - Generic Applications
+        - Mobile Applications
+        - Generic Multimedia
+        - Mobile Multimedia Emulator
+        - Generic Desktop Applications
+        - Mobile Dali
+        - Mobile EFL
+        - Mobile Enlightenment
+        - Mobile Input Framework
+        - Mobile Connectivity Framework
+        - Mobile Bluetooth
+        - Mobile Web Framework
+        - Mobile Emulator
+    PostScripts:
+        - generic-base
+        - mobile-base
+        - generic-console-tools
+        - generic-packaging
+        - mobile-packaging
+        - generic-adaptation
+        - mobile-adaptation
+        - generic-wayland
+        - mobile-middleware
+        - generic-applications
+        - generic-multimedia
+        - generic-desktop-applications
+        - generic-crosswalk
+        - mobile-web-framework
+        - mobile-bluetooth
+    Repos: []
+    NoChrootScripts:
+        - buildname

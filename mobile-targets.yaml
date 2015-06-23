@@ -13,3 +13,7 @@ Targets:
     -   Name: emulator32-wayland
         Images:
             - mobile-emulator32-wayland.yaml
+
+    -   Name: emulator64-wayland
+        Images:
+            - mobile-emulator64-wayland.yaml
