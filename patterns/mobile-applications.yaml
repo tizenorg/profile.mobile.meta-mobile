@@ -21,3 +21,4 @@ Packages:
 - libwidget_viewer_evas
 - push-bin
 - libpush
+- org.tizen.quickpanel
