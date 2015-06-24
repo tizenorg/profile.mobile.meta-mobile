@@ -50,3 +50,4 @@ Packages:
 - service-federation
 - org.tizen.service-plugin-sample
 - appcore-widget
+- appcore-agent
