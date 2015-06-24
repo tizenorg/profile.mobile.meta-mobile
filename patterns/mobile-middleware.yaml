@@ -49,3 +49,4 @@ Packages:
 - service-discovery
 - service-federation
 - org.tizen.service-plugin-sample
+- appcore-widget
