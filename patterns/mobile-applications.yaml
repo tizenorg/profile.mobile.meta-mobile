@@ -23,3 +23,5 @@ Packages:
 - libpush
 - org.tizen.quickpanel
 - org.tizen.lockscreen
+- org.tizen.task-mgr
+- org.tizen.indicator
