@@ -53,3 +53,4 @@ Packages:
 - appcore-agent
 - data-control
 - capi-system-media-key
+- libeom
