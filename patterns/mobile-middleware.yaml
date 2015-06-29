@@ -54,3 +54,4 @@ Packages:
 - data-control
 - capi-system-media-key
 - libeom
+- vconf-internal-keys
