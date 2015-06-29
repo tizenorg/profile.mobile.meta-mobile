@@ -8,3 +8,4 @@ Packages:
 - browser-provider
 - capi-web-url-download
 - download-provider
+- oauth2
