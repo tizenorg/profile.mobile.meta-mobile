@@ -54,3 +54,5 @@ Packages:
 - data-control
 - capi-system-media-key
 - libeom
+- ttrace
+- stt
