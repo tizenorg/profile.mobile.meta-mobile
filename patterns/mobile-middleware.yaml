@@ -56,3 +56,6 @@ Packages:
 - libeom
 - ttrace
 - stt
+- motion
+- context
+- context-service
