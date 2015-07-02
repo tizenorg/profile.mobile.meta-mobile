@@ -1,0 +1,8 @@
+Summary: Mobile Emulator 64
+Description: Mobile Emulator 64
+Name: mobile-emulator-64
+Packages:
+- emuld
+- device-manager-plugin-emul
+- libtbm-vigs
+- gst-plugins-emulator

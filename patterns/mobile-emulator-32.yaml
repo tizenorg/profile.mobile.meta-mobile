@@ -1,6 +1,6 @@
-Summary: Mobile Emulator
-Description: Mobile Emulator
-Name: mobile-emulator
+Summary: Mobile Emulator 32
+Description: Mobile Emulator 32
+Name: mobile-emulator-32
 Packages:
 - emuld
 - device-manager-plugin-emul

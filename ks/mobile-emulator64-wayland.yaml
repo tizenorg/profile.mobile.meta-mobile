@@ -1,7 +1,7 @@
 Name: mobile-emulator64-wayland
 Architecture: x86_64
 Schedule: "*"
-Active: False
+Active: True
 Platform: Emulator64-wayland
 Part: mobile-mbr-3parts-emulator
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz

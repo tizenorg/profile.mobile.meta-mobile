@@ -1,0 +1,27 @@
+Summary: Mobile Applications Emulator 64
+Description: Mobile Applications Emulator 64
+Name: mobile-applications-emulator-64
+Packages:
+- app-installers
+- tpk-backend
+- wgt-backend
+- capi-appfw-app-manager
+- org.tizen.elm-demo-tizen-mobile
+- starter
+- org.tizen.menu-screen
+- org.tizen.homescreen
+- data-provider-master
+- org.tizen.data-provider-slave
+- libwidget
+- libwidget_edje
+- libwidget_provider
+- libwidget_provider_app
+- libwidget_service
+- libwidget_viewer
+- libwidget_viewer_evas
+- org.tizen.quickpanel
+- org.tizen.lockscreen
+- org.tizen.task-mgr
+- org.tizen.indicator
+- org.tizen.volume
+- boot-animation
