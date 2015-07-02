@@ -34,3 +34,4 @@ Packages:
 - audio-hal-wm5110
 - capi-media-streamer
 - capi-media-codec
+- mediacontroller
