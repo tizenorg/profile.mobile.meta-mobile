@@ -60,3 +60,5 @@ Packages:
 - context
 - context-service
 - libttssmt
+- esd
+- eventsystem

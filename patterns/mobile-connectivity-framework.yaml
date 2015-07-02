@@ -8,3 +8,4 @@ Packages:
 - capi-network-wifi
 - capi-network-tethering
 - mobileap-agent
+- capi-network-smartcard
