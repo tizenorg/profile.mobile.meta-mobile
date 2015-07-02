@@ -1,0 +1,10 @@
+Summary: Mobile Emulator 32
+Description: Mobile Emulator 32
+Name: mobile-emulator-32
+Packages:
+- emuld
+- device-manager-plugin-emul
+- emulator-yagl
+- libtbm-vigs
+- vmodemd-emul
+- gst-plugins-emulator
