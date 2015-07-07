@@ -34,3 +34,6 @@ Packages:
 - capi-media-streamer
 - capi-media-codec
 - mediacontroller
+- capi-media-tone-player
+- libmm-transcode
+- capi-media-video-util
