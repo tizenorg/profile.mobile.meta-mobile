@@ -62,3 +62,4 @@ Packages:
 - libttssmt
 - esd
 - eventsystem
+- vconf-internal-keys
