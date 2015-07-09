@@ -63,3 +63,5 @@ Packages:
 - esd
 - eventsystem
 - vconf-internal-keys
+- geofence-server
+- location-geofence-server
