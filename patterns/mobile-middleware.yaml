@@ -65,3 +65,7 @@ Packages:
 - vconf-internal-keys
 - geofence-server
 - location-geofence-server
+- msg-service-tools
+- sms-plugin
+- mms-plugin
+- capi-messaging-messages

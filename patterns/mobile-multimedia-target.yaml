@@ -38,3 +38,6 @@ Packages:
 - capi-media-tone-player
 - libmm-transcode
 - capi-media-video-util
+- capi-media-metadata-editor
+- taglib
+- capi-media-thumbnail-util
