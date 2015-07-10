@@ -9,3 +9,5 @@ Packages:
 - capi-network-tethering
 - mobileap-agent
 - capi-network-smartcard
+- wifi-direct-manager
+- libnl2
