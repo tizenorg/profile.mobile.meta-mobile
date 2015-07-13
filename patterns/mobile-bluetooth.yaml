@@ -11,3 +11,4 @@ Packages:
 - bluetooth-frwk-core
 - bluetooth-frwk-service
 - bluetooth-firmware-bcm
+- bluetooth-agent
