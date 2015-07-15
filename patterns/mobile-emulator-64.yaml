@@ -4,5 +4,7 @@ Name: mobile-emulator-64
 Packages:
 - emuld
 - device-manager-plugin-emul
+- emulator-yagl
 - libtbm-vigs
+- vmodemd-emull
 - gst-plugins-emulator
