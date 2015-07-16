@@ -6,5 +6,5 @@ Packages:
 - device-manager-plugin-emul
 - emulator-yagl
 - libtbm-vigs
-- vmodemd-emull
+- vmodemd-emul
 - gst-plugins-emulator
