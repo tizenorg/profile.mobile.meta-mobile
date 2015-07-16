@@ -11,3 +11,4 @@ Packages:
 - capi-network-smartcard
 - wifi-direct-manager
 - libnl2
+- wifi-direct-plugin-wpasupplicant

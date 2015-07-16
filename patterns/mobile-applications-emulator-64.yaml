@@ -25,3 +25,4 @@ Packages:
 - org.tizen.indicator
 - org.tizen.volume
 - boot-animation
+- org.tizen.setting
