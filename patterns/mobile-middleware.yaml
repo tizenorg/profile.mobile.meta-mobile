@@ -2,7 +2,7 @@ Summary: Mobile Middleware
 Description: Mobile Middleware
 Name: mobile-middleware
 Packages:
-- buxton
+- buxton2
 - cynara
 - libprivilege-control-conf
 - libsecurity-manager-client
