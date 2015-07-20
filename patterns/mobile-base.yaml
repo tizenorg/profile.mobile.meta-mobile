@@ -14,3 +14,4 @@ Packages:
 - capi-base-utils
 - sync-service
 - libcore-sync-client
+- dlogutil
