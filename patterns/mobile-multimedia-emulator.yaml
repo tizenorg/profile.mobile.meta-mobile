@@ -41,3 +41,4 @@ Packages:
 - taglib
 - capi-media-thumbnail-util
 - mused
+- libmm-imgp-gstcs
