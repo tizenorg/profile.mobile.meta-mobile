@@ -28,3 +28,4 @@ Packages:
 - org.tizen.volume
 - boot-animation
 - org.tizen.setting
+- org.tizen.setting-location
