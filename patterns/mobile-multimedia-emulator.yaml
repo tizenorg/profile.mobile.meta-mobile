@@ -45,3 +45,4 @@ Packages:
 - capi-mediademuxer
 - capi-mediamuxer
 - gst-omx
+- mused-player

@@ -12,3 +12,4 @@ Packages:
 - bluetooth-frwk-service
 - bluetooth-firmware-bcm
 - bluetooth-agent
+- ug-bluetooth-efl

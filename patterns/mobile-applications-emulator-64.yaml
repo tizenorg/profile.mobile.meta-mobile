@@ -27,3 +27,4 @@ Packages:
 - boot-animation
 - org.tizen.setting
 - org.tizen.setting-location
+- org.tizen.myplace
