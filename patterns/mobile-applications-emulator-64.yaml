@@ -28,3 +28,4 @@ Packages:
 - org.tizen.setting
 - org.tizen.setting-location
 - org.tizen.myplace
+- org.tizen.wifi-direct-popup
