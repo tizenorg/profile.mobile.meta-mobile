@@ -1,0 +1,11 @@
+Summary: Mobile Connectivity Framework Emulator
+Description: Mobile Connectivity Framework Emulator
+Name: mobile-connectivity-framework-emulator
+Packages:
+- capi-network-nfc
+- net-config
+- nfc-client-lib-neard
+- capi-network-tethering
+- mobileap-agent
+- capi-network-smartcard
+- libnl2

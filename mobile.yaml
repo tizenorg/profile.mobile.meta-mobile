@@ -65,7 +65,7 @@ Wayland:
         - Mobile EFL
         - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Connectivity Framework
+        - Mobile Connectivity Framework Target
         - Mobile Bluetooth
         - Mobile Web Framework
     PostScripts:
@@ -113,7 +113,7 @@ Wayland-64:
         - Mobile EFL
         - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Connectivity Framework
+        - Mobile Connectivity Framework Target
         - Mobile Bluetooth
         - Mobile Web Framework
     PostScripts:
@@ -161,7 +161,7 @@ Emulator32-wayland:
         - Mobile EFL
         - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Connectivity Framework
+        - Mobile Connectivity Framework Emulator
         - Mobile Bluetooth
         - Mobile Web Framework
         - Mobile Emulator 32
@@ -209,7 +209,7 @@ Emulator64-wayland:
         - Mobile EFL
         - Mobile Enlightenment
         - Mobile Input Framework
-        - Mobile Connectivity Framework
+        - Mobile Connectivity Framework Emulator
         - Mobile Bluetooth
         - Mobile Web Framework
         - Mobile Emulator 64

@@ -1,6 +1,6 @@
-Summary: Mobile Connectivity Framework
-Description: Mobile Connectivity Framework
-Name: mobile-connectivity-framework
+Summary: Mobile Connectivity Framework Target
+Description: Mobile Connectivity Framework Target
+Name: mobile-connectivity-framework-target
 Packages:
 - capi-network-nfc
 - net-config
@@ -13,3 +13,4 @@ Packages:
 - libnl2
 - wifi-direct-plugin-wpasupplicant
 - libug-setting-wifidirect-efl
+- wifi-efl-ug
