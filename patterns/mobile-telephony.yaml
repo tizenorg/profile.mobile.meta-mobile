@@ -1,0 +1,10 @@
+Summary: Mobile Telephony
+Description: Mobile Telephony
+Name: mobile-telephony
+Packages:
+- tel-plugin-database
+- tel-plugin-dbus_tapi
+- tel-plugin-indicator
+- tel-plugin-nitz
+- tel-plugin-packetservice
+- tel-plugin-vconf

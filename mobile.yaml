@@ -68,6 +68,7 @@ Wayland:
         - Mobile Connectivity Framework Target
         - Mobile Bluetooth
         - Mobile Web Framework
+        - Mobile Telephony
     PostScripts:
         - generic-base
         - mobile-base
@@ -116,6 +117,7 @@ Wayland-64:
         - Mobile Connectivity Framework Target
         - Mobile Bluetooth
         - Mobile Web Framework
+        - Mobile Telephony
     PostScripts:
         - generic-base
         - mobile-base
@@ -165,6 +167,7 @@ Emulator32-wayland:
         - Mobile Bluetooth
         - Mobile Web Framework
         - Mobile Emulator 32
+        - Mobile Telephony
     PostScripts:
         - generic-base
         - mobile-base
@@ -213,6 +216,7 @@ Emulator64-wayland:
         - Mobile Bluetooth
         - Mobile Web Framework
         - Mobile Emulator 64
+        - Mobile Telephony
     PostScripts:
         - generic-base
         - mobile-base
