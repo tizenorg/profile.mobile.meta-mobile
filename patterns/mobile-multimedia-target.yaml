@@ -49,3 +49,4 @@ Packages:
 - opencv
 - zint
 - zbar
+- gst-plugins-camera-n4
