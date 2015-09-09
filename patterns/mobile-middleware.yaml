@@ -76,3 +76,5 @@ Packages:
 - toybox-symlinks-sysklogd
 - toybox-symlinks-dhcp
 - toybox-symlinks-dhcpd
+- maps-plugin-mapquest
+- maps-plugin-here
