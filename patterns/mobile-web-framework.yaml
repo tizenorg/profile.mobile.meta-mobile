@@ -3,9 +3,9 @@ Description: Mobile Web Framework
 Name: mobile-web-framework
 Packages:
 - chromium-efl
-- wrt
 - webapi-plugins
 - browser-provider
 - capi-web-url-download
 - download-provider
 - oauth2
+- crosswalk-tizen
