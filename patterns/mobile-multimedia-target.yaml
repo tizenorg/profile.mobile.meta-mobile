@@ -50,3 +50,4 @@ Packages:
 - zint
 - zbar
 - gst-plugins-camera-n4
+- pulseaudio-modules-tizen
