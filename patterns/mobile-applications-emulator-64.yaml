@@ -32,3 +32,6 @@ Packages:
 - libug-worldclock-efl
 - org.tizen.myfile
 - org.tizen.gallery
+- attach-panel-gallery
+- ug-gallery-efl
+- ug-myfile-efl
