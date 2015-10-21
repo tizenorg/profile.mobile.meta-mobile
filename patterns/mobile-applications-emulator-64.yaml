@@ -30,3 +30,5 @@ Packages:
 - org.tizen.myplace
 - org.tizen.wifi-direct-popup
 - libug-worldclock-efl
+- org.tizen.myfile
+- org.tizen.gallery
