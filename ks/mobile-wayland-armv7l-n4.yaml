@@ -12,4 +12,3 @@ ExtraPackages:
     - system-plugin-n4
     - model-config-n4
     - mmfw-sysconf-target-n4
-    - libomxil-e54xx

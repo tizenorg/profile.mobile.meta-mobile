@@ -35,3 +35,5 @@ Packages:
 - attach-panel-gallery
 - ug-gallery-efl
 - ug-myfile-efl
+- attach-panel-camera
+- attach-panel-voicerecorder
