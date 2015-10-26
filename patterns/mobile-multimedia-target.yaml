@@ -53,3 +53,4 @@ Packages:
 - pulseaudio-modules-tizen
 - dcm-service
 - libomxil-e54xx
+- murphy-glib
