@@ -78,3 +78,4 @@ Packages:
 - toybox-symlinks-dhcp
 - toybox-symlinks-dhcpd
 - maps-plugin-here
+- xdelta3
