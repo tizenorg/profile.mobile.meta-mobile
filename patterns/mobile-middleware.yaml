@@ -79,3 +79,6 @@ Packages:
 - toybox-symlinks-dhcpd
 - maps-plugin-here
 - xdelta3
+- csf-framework
+- pkgmgr-tool
+- pkgmgr-server
