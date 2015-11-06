@@ -48,3 +48,4 @@ Packages:
 - call-setting
 - org.tizen.message
 - ug-setting-notification-efl
+- org.tizen.wallpaper-ui-service
