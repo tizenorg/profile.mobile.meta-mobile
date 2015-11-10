@@ -54,3 +54,4 @@ Packages:
 - libug-worldclock-efl
 - ug-setting-homescreen-efl
 - ug-lockscreen-options
+- org.tizen.browser
