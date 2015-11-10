@@ -1,0 +1,11 @@
+Name: mobile-wayland-armv7l-tm1
+Architecture: armv7l
+Schedule: "*"
+Active: True
+Platform: Wayland
+Part: mobile-mbr-3parts
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: mobile-wayland-armv7l-tm1
+Repos:
+    - mobile-wayland_armv7l
+ExtraPackages:
