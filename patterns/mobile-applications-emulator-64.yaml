@@ -50,5 +50,5 @@ Packages:
 - ug-setting-notification-efl
 - org.tizen.wallpaper-ui-service
 - libug-worldclock-efl
-- ug-homescreen-setting-efl
+- ug-setting-homescreen-efl
 - ug-lockscreen-options
