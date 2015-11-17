@@ -7,11 +7,9 @@ Part: mobile-mbr-tm1
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-wayland-armv7l-tm1
 Attachment:
-    - /var/tmp/u-boot/u-boot-mmc.bin
     - /var/tmp/kernel/dzImage
     - /var/tmp/kernel/dzImage-recovery
 Repos:
     - mobile-wayland_armv7l
 ExtraPackages:
-    - u-boot-tm1
     - linux-3.10-sc7730_tizen_tm1
