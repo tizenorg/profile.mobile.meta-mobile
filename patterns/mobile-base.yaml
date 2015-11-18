@@ -3,16 +3,9 @@ Description: Mobile Base
 Name: mobile-base
 Packages:
 - libstorage
-- libaccount-service
-- account-manager
-- account-parser
 - tlm-config-common-singleseat
 - deviced
 - deviced-tools
-- alsa-ucm-data-wm5110
-- device-manager-plugin-exynos5433
 - capi-base-utils
-- sync-service
-- libcore-sync-client
 - dlogutil
 - cert-svc-ui

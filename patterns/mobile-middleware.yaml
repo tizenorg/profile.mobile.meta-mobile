@@ -4,16 +4,13 @@ Name: mobile-middleware
 Packages:
 - buxton2
 - cynara
-- libprivilege-control-conf
 - libsecurity-manager-client
 - pkgmgr-server
 - resourced
 - sdbd
 - security-manager
 - cyad
-- drm-client
 - libtasn1-tools
-- neardal
 - iotivity
 - key-manager
 - key-manager-listener
@@ -84,3 +81,11 @@ Packages:
 - pkgmgr-server
 - launchpad
 - drm-service-core-tizen
+- push-bin
+- libpush
+- libaccount-service
+- account-manager
+- account-parser
+- sync-service
+- libcore-sync-client
+- oauth2
