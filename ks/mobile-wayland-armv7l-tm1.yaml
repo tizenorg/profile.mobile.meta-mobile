@@ -11,5 +11,7 @@ Attachment:
     - /var/tmp/kernel/dzImage-recovery
 Repos:
     - mobile-wayland_armv7l
+Groups:
+    - Mobile Adaptation TM1
 ExtraPackages:
     - linux-3.10-sc7730_tizen_tm1

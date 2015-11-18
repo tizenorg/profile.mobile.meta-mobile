@@ -19,8 +19,6 @@ Packages:
 - libwidget_service
 - libwidget_viewer
 - libwidget_viewer_evas
-- push-bin
-- libpush
 - org.tizen.quickpanel
 - org.tizen.lockscreen
 - org.tizen.task-mgr
@@ -30,7 +28,6 @@ Packages:
 - org.tizen.setting
 - org.tizen.setting-location
 - org.tizen.myplace
-- org.tizen.wifi-direct-popup
 - libug-worldclock-efl
 - org.tizen.myfile
 - org.tizen.gallery

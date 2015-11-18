@@ -1,0 +1,7 @@
+Summary: Mobile Adaptation TM1
+Description: Mobile Adaptation TM1
+Name: mobile-adaptation-tm1
+Packages:
+- audio-config-sc-TM1-sc7730
+- deviced-manager-plugin-sc7730
+- bluetooth-firmware-sprd-TM1
