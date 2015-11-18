@@ -28,7 +28,6 @@ Packages:
 - media-thumbnail-server
 - gst-rtsp-server
 - libmm-wfd
-- libmm-scmirroring-common
 - capi-media-screen-mirroring
 - capi-media-streamer
 - capi-media-codec
