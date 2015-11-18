@@ -4,12 +4,14 @@ Schedule: "*"
 Active: True
 Platform: Wayland
 Part: mobile-mbr-tm1
-Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+Mic2Options: -d -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-wayland-armv7l-tm1
 Attachment:
     - /var/tmp/kernel/dzImage
     - /var/tmp/kernel/dzImage-recovery
 Repos:
     - mobile-wayland_armv7l
+Groups:
+    - Mobile Adaptation TM1
 ExtraPackages:
     - linux-3.10-sc7730_tizen_tm1

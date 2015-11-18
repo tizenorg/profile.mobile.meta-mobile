@@ -8,6 +8,8 @@ Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-wayland-arm64-n4
 Repos:
     - mobile-wayland_arm64
+Groups:
+    - Mobile Adaptation N4
 ExtraPackages:
     - system-plugin-n4
     - model-config-n4
