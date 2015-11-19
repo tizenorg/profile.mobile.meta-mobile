@@ -10,7 +10,7 @@ Attachment:
     - /var/tmp/kernel/dzImage
     - /var/tmp/kernel/dzImage-recovery
 Repos:
-    - mobile-wayland_armv7l
+    - mobile-target-TM1
 Groups:
     - Mobile Adaptation TM1
 ExtraPackages:
