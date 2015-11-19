@@ -20,7 +20,6 @@ Packages:
 - contacts-service2
 - calendar-service
 - email-service
-- pims-ipc
 - libcynara-creds-commons
 - libcynara-creds-dbus
 - libcynara-creds-gdbus
@@ -31,8 +30,6 @@ Packages:
 - privilege-checker
 - privilege-info
 - phonenumber-utils
-- libphonenumber
-- libprotobuf9
 - cairo
 - voice-control
 - voice-control-elm
@@ -89,3 +86,4 @@ Packages:
 - sync-service
 - libcore-sync-client
 - oauth2
+- nghttp2
