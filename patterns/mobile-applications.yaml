@@ -49,7 +49,7 @@ Packages:
 - ug-setting-notification-efl
 - org.tizen.wallpaper-ui-service
 - libug-worldclock-efl
-- ug-setting-homescreen-efl
+- ug-homescreen-setting-efl
 - ug-lockscreen-options
 - org.tizen.browser
 - org.tizen.email
