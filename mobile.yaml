@@ -51,6 +51,7 @@ Wayland:
         - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
+        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
@@ -58,6 +59,7 @@ Wayland:
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Target
+        - Generic Desktop Applications
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment
@@ -72,10 +74,12 @@ Wayland:
         - generic-console-tools
         - generic-packaging
         - mobile-packaging
+        - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
         - generic-applications
         - generic-multimedia
+        - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
@@ -94,6 +98,7 @@ Wayland-64:
         - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
+        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
@@ -101,6 +106,7 @@ Wayland-64:
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Target
+        - Generic Desktop Applications
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment
@@ -115,10 +121,12 @@ Wayland-64:
         - generic-console-tools
         - generic-packaging
         - mobile-packaging
+        - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
         - generic-applications
         - generic-multimedia
+        - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
@@ -137,6 +145,7 @@ Emulator32-wayland:
         - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
+        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
@@ -144,6 +153,7 @@ Emulator32-wayland:
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
+        - Generic Desktop Applications
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment
@@ -159,10 +169,12 @@ Emulator32-wayland:
         - generic-console-tools
         - generic-packaging
         - mobile-packaging
+        - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
         - generic-applications
         - generic-multimedia
+        - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
@@ -180,6 +192,7 @@ Emulator64-wayland:
         - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
+        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
@@ -187,6 +200,7 @@ Emulator64-wayland:
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
+        - Generic Desktop Applications
         - Mobile Dali
         - Mobile EFL
         - Mobile Enlightenment
@@ -202,10 +216,12 @@ Emulator64-wayland:
         - generic-console-tools
         - generic-packaging
         - mobile-packaging
+        - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
         - generic-applications
         - generic-multimedia
+        - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
