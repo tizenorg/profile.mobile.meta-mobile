@@ -16,3 +16,4 @@ Groups:
 ExtraPackages:
     - system-plugin-spreadtrum
     - linux-3.10-sc7730_tizen_tm1
+    - libtbm-sprd
