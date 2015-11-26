@@ -82,3 +82,5 @@ Packages:
 - csf-framework
 - pkgmgr-tool
 - pkgmgr-server
+- launchpad
+- drm-service-core-tizen

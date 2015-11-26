@@ -50,3 +50,9 @@ Packages:
 - call-setting
 - org.tizen.message
 - ug-setting-notification-efl
+- org.tizen.wallpaper-ui-service
+- ug-setting-homescreen-efl
+- ug-lockscreen-options
+- org.tizen.browser
+- org.tizen.email
+- attach-panel
