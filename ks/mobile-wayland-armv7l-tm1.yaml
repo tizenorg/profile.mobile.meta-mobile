@@ -15,6 +15,8 @@ Groups:
     - Mobile Adaptation TM1
 ExtraPackages:
     - system-plugin-spreadtrum
+    - model-config-tm1
     - linux-3.10-sc7730_tizen_tm1
     - libtbm-sprd
     - mmfw-sysconf-target-tm1
+    - audio-hal-sc7727
