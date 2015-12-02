@@ -11,7 +11,7 @@ Packages:
 - security-manager
 - cyad
 - libtasn1-tools
-- iotivity
+- iotcon
 - key-manager
 - key-manager-listener
 - key-manager-pam-plugin
