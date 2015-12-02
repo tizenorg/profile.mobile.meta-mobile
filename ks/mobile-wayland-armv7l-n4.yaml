@@ -10,7 +10,4 @@ Repos:
     - mobile-wayland_armv7l
 Groups:
     - Mobile Adaptation N4
-ExtraPackages:
-    - system-plugin-n4
-    - model-config-n4
-    - mmfw-sysconf-target-n4
+ExtraPackages: []

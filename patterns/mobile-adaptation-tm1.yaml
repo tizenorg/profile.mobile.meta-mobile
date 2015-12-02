@@ -2,6 +2,12 @@ Summary: Mobile Adaptation TM1
 Description: Mobile Adaptation TM1
 Name: mobile-adaptation-tm1
 Packages:
+- system-plugin-spreadtrum
+- model-config-tm1
+- mmfw-sysconf-target-tm1
+- linux-3.10-sc7730_tizen_tm1
 - audio-config-sc-TM1-sc7730
 - device-manager-plugin-sc7730
 - bluetooth-firmware-sprd-TM1
+- libtbm-sprd
+- audio-hal-sc7727

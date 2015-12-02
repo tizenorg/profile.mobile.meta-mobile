@@ -2,6 +2,9 @@ Summary: Mobile Adaptation N4
 Description: Mobile Adaptation N4
 Name: mobile-adaptation-n4
 Packages:
+- system-plugin-n4
+- model-config-n4
+- mmfw-sysconf-target-n4
 - alsa-ucm-data-wm5110
 - device-manager-plugin-exynos5433
 - bluetooth-firmware-bcm
