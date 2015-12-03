@@ -50,3 +50,5 @@ Packages:
 - pulseaudio-modules-tizen
 - dcm-service
 - murphy-glib
+- libbmp
+- libnsbmp
