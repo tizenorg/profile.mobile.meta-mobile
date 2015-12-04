@@ -51,7 +51,6 @@ Wayland:
         - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
-        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
@@ -74,7 +73,6 @@ Wayland:
         - generic-console-tools
         - generic-packaging
         - mobile-packaging
-        - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
         - generic-applications
@@ -98,7 +96,6 @@ Wayland-64:
         - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
-        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
@@ -121,7 +118,6 @@ Wayland-64:
         - generic-console-tools
         - generic-packaging
         - mobile-packaging
-        - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
         - generic-applications
