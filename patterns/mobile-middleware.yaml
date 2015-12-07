@@ -88,3 +88,4 @@ Packages:
 - oauth2
 - nghttp2
 - pubkey-pinning
+- cert-checker

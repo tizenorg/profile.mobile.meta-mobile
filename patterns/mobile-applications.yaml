@@ -55,3 +55,4 @@ Packages:
 - org.tizen.email
 - attach-panel
 - org.tizen.camera-app
+- org.tizen.app-selector

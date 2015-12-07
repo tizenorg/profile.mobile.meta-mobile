@@ -11,3 +11,4 @@ Packages:
 - audio-hal-wm5110
 - gst-plugins-camera-n4
 - libtbm-exynos4412
+- libomxil-e54xx
