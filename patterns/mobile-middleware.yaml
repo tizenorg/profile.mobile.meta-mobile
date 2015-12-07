@@ -87,3 +87,4 @@ Packages:
 - libcore-sync-client
 - oauth2
 - nghttp2
+- pubkey-pinning
