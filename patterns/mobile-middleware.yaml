@@ -89,3 +89,4 @@ Packages:
 - nghttp2
 - pubkey-pinning
 - cert-checker
+- crash-worker
