@@ -9,3 +9,4 @@ Packages:
 - capi-base-utils
 - dlogutil
 - cert-svc-ui
+- sys-string
