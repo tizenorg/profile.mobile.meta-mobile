@@ -2,6 +2,7 @@ Summary: Mobile Adaptation N4
 Description: Mobile Adaptation N4
 Name: mobile-adaptation-n4
 Packages:
+- linux-firmware
 - system-plugin-n4
 - model-config-n4
 - mmfw-sysconf-target-n4
