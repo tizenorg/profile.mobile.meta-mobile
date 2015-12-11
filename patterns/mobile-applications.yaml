@@ -56,3 +56,4 @@ Packages:
 - attach-panel
 - org.tizen.camera-app
 - org.tizen.app-selector
+- org.tizen.share-panel

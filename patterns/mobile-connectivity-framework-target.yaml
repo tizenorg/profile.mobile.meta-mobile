@@ -14,3 +14,6 @@ Packages:
 - libug-setting-wifidirect-efl
 - wifi-efl-ug
 - org.tizen.wifi-direct-popup
+- libmtp
+- mtp-initiator
+- capi-network-mtp

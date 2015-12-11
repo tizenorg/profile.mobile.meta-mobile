@@ -11,3 +11,5 @@ Packages:
 - bluetooth-firmware-sprd-TM1
 - libtbm-sprd
 - audio-hal-sc7727
+- smartcard-service-server
+- smartcard-plugin-uicc
