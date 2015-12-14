@@ -11,5 +11,5 @@ Packages:
 - bluetooth-firmware-bcm
 - audio-hal-wm5110
 - gst-plugins-camera-n4
-- libtbm-exynos4412
+- libtbm-exynos
 - libomxil-e54xx
