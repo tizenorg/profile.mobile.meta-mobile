@@ -17,3 +17,4 @@ Packages:
 - libmtp
 - mtp-initiator
 - capi-network-mtp
+- mtp-responder
