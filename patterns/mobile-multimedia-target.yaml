@@ -52,3 +52,5 @@ Packages:
 - murphy-glib
 - libbmp
 - libnsbmp
+- openal-soft
+- freealut

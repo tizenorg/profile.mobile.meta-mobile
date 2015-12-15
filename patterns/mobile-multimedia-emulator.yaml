@@ -53,3 +53,5 @@ Packages:
 - libbmp
 - libnsbmp
 - mmfw-sysconf-simulator
+- openal-soft
+- freealut
