@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "#################### mobile-adaptation-tm1.post ####################"
+
+# remove exported dzImage and dzImage-recovery
+rm /boot/kernel/dzImage
+rm /boot/kernel/dzImage-recovery
+

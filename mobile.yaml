@@ -82,6 +82,7 @@ Wayland:
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-mbr-3parts
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname
@@ -127,6 +128,7 @@ Wayland-64:
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-mbr-3parts
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname
@@ -174,6 +176,7 @@ Emulator32-wayland:
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname
@@ -221,6 +224,7 @@ Emulator64-wayland:
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname

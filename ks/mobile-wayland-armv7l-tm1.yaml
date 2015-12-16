@@ -13,4 +13,6 @@ Repos:
     - mobile-target-TM1
 Groups:
     - Mobile Adaptation TM1
+PostScripts:
+    - mobile-adaptation-tm1
 ExtraPackages: []
