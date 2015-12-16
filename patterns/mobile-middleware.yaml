@@ -90,3 +90,4 @@ Packages:
 - pubkey-pinning
 - cert-checker
 - crash-worker
+- debug-launchpad
