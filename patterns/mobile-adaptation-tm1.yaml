@@ -13,3 +13,4 @@ Packages:
 - audio-hal-sc7727
 - smartcard-service-server
 - smartcard-plugin-uicc
+- sensor-plugins-tm1
