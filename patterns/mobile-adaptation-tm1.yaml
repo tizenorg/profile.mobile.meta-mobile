@@ -14,3 +14,4 @@ Packages:
 - smartcard-service-server
 - smartcard-plugin-uicc
 - sensor-plugins-tm1
+- libtdm-sprd

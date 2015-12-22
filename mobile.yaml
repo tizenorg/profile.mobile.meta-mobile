@@ -159,7 +159,6 @@ Emulator32-wayland:
         - Mobile Connectivity Framework Emulator
         - Mobile Bluetooth
         - Mobile Web Framework
-        - Mobile Emulator 32
         - Mobile Telephony
     PostScripts:
         - generic-base
@@ -207,7 +206,6 @@ Emulator64-wayland:
         - Mobile Connectivity Framework Emulator
         - Mobile Bluetooth
         - Mobile Web Framework
-        - Mobile Emulator 64
         - Mobile Telephony
     PostScripts:
         - generic-base
