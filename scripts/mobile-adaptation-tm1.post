@@ -2,8 +2,8 @@
 echo "#################### mobile-adaptation-tm1.post ####################"
 
 # remove exported dzImage and dzImage-recovery
-rm /boot/kernel/dzImage
-rm /boot/kernel/dzImage-recovery
+rm -f /boot/kernel/dzImage
+rm -f /boot/kernel/dzImage-recovery
 
 # remove manuals, docs and headers
 rm -rf /usr/include
