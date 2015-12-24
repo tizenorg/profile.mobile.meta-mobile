@@ -48,7 +48,6 @@ Wayland:
         - Generic Base
         - Mobile Base
         - Generic Console Tools
-        - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
         - Mobile Wayland
@@ -71,7 +70,6 @@ Wayland:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
         - mobile-adaptation
         - mobile-middleware
@@ -94,7 +92,6 @@ Wayland-64:
         - Generic Base
         - Mobile Base
         - Generic Console Tools
-        - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
         - Mobile Wayland
@@ -117,7 +114,6 @@ Wayland-64:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
         - mobile-adaptation
         - mobile-middleware
@@ -140,7 +136,6 @@ Emulator32-wayland:
         - Generic Base
         - Mobile Base
         - Generic Console Tools
-        - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
         - Generic Adaptation
@@ -164,7 +159,6 @@ Emulator32-wayland:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
         - generic-adaptation
         - mobile-adaptation
@@ -187,7 +181,6 @@ Emulator64-wayland:
         - Generic Base
         - Mobile Base
         - Generic Console Tools
-        - Generic Packaging
         - Mobile Packaging
         - Mobile Adaptation
         - Generic Adaptation
@@ -211,7 +204,6 @@ Emulator64-wayland:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
         - generic-adaptation
         - mobile-adaptation
