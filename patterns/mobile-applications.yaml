@@ -44,7 +44,7 @@ Packages:
 - org.tizen.music-player
 - org.tizen.calendar
 - org.tizen.call-ui
-- call-setting
+- org.tizen.call-setting
 - org.tizen.message
 - ug-setting-notification-efl
 - org.tizen.wallpaper-ui-service
