@@ -10,7 +10,6 @@ Packages:
 - sdbd
 - security-manager
 - cyad
-- libtasn1-tools
 - iotcon
 - key-manager
 - key-manager-listener
