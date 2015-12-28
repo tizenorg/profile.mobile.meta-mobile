@@ -8,6 +8,7 @@ Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-wayland-armv7l-n4
 Repos:
     - mobile-wayland_armv7l
+    - base_arm
 Groups:
     - Mobile Adaptation N4
 ExtraPackages: []

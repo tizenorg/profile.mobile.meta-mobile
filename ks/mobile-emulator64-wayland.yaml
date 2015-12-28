@@ -8,6 +8,7 @@ Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-emulator64-wayland
 Repos:
     - mobile-emulator64-wayland
+    - base_emulator64
 Groups:
     - Mobile Adaptation Emulator
 ExtraPackages: []

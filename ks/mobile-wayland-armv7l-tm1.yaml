@@ -10,6 +10,7 @@ Attachment:
     - /boot/kernel/dzImage
 Repos:
     - mobile-target-TM1
+    - base_arm
 Groups:
     - Mobile Adaptation TM1
 PostScripts:
