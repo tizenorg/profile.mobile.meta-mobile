@@ -1,0 +1,13 @@
+Summary: Mobile Console Tools
+Description: Mobile Console Tools
+Name: mobile-console-tools
+Packages:
+- tar
+- grep
+- gzip
+- zip
+- unzip
+- xz
+- curl
+- findutils
+- iptables

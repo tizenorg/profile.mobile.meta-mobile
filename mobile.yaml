@@ -47,13 +47,12 @@ Wayland:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
+        - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Target
@@ -91,13 +90,12 @@ Wayland-64:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
+        - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Target
@@ -135,14 +133,13 @@ Emulator32-wayland:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
+        - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
         - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
@@ -180,14 +177,13 @@ Emulator64-wayland:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
+        - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
         - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
