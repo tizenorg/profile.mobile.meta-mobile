@@ -72,7 +72,6 @@ Wayland:
         - mobile-packaging
         - mobile-adaptation
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
@@ -115,7 +114,6 @@ Wayland-64:
         - mobile-packaging
         - mobile-adaptation
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
@@ -160,7 +158,6 @@ Emulator32-wayland:
         - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
@@ -204,7 +201,6 @@ Emulator64-wayland:
         - generic-adaptation
         - mobile-adaptation
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
