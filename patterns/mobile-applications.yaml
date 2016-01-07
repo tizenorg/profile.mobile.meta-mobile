@@ -60,3 +60,4 @@ Packages:
 - org.tizen.app-selector
 - org.tizen.share-panel
 - org.tizen.homescreen-efl
+- org.tizen.callmgr-popup
