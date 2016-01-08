@@ -11,3 +11,5 @@ Packages:
 - model-config-emulator
 - libtdm-drm
 - pciutils
+- coregl
+- emulator-yagl
