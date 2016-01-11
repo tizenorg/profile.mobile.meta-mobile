@@ -54,3 +54,5 @@ Packages:
 - libnsbmp
 - openal-soft
 - freealut
+- capi-media-streamrecorder
+- libmm-streamrecorder
