@@ -12,7 +12,6 @@ Packages:
 - cyad
 - iotcon
 - key-manager
-- key-manager-listener
 - key-manager-pam-plugin
 - libkey-manager-common
 - libkey-manager-client
