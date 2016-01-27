@@ -10,3 +10,5 @@ Packages:
 - dlogutil
 - cert-svc-ui
 - sys-string
+- lzo
+- tizen-locale
