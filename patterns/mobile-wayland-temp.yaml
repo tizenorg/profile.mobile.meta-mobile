@@ -7,5 +7,4 @@ Packages:
 - capi-system-power
 - libboost_program_options1_57_0
 - libjson-glib
-- libpciaccess
 - ui-gadget-1

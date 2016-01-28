@@ -13,3 +13,4 @@ Packages:
 - pciutils
 - coregl
 - emulator-yagl
+- libpciaccess
