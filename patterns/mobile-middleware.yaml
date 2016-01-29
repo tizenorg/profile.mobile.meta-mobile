@@ -24,7 +24,7 @@ Packages:
 - libcynara-creds-socket
 - murphy
 - cert-svc
-- capi-security-privilege-manager
+- security-privilege-manager
 - privilege-checker
 - privilege-info
 - phonenumber-utils
