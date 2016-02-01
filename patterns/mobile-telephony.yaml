@@ -10,3 +10,4 @@ Packages:
 - tel-plugin-vconf
 - call-manager
 - libcall-manager
+- libtapi

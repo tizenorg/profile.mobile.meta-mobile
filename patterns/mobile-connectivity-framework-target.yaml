@@ -4,7 +4,6 @@ Name: mobile-connectivity-framework-target
 Packages:
 - capi-network-nfc
 - net-config
-- nfc-client-lib-neard
 - capi-network-wifi
 - capi-network-tethering
 - mobileap-agent
@@ -14,3 +13,8 @@ Packages:
 - wifi-direct-plugin-wpasupplicant
 - libug-setting-wifidirect-efl
 - wifi-efl-ug
+- org.tizen.wifi-direct-popup
+- libmtp
+- mtp-initiator
+- capi-network-mtp
+- mtp-responder

@@ -5,7 +5,6 @@ Packages:
 - chromium-efl
 - webapi-plugins
 - browser-provider
-- capi-web-url-download
-- download-provider
-- oauth2
 - crosswalk-tizen
+- cordova-api
+- jsnative

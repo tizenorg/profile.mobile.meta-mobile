@@ -47,16 +47,12 @@ Wayland:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
-        - Generic Packaging
+        - Mobile Console Tools
         - Mobile Packaging
-        - Generic Adaptation
         - Mobile Adaptation
-        - Generic Wayland
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Target
@@ -73,19 +69,16 @@ Wayland:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
-        - generic-adaptation
         - mobile-adaptation
-        - generic-wayland
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-mbr-3parts
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname
@@ -96,16 +89,12 @@ Wayland-64:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
-        - Generic Packaging
+        - Mobile Console Tools
         - Mobile Packaging
-        - Generic Adaptation
         - Mobile Adaptation
-        - Generic Wayland
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Target
@@ -122,19 +111,16 @@ Wayland-64:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
-        - generic-adaptation
         - mobile-adaptation
-        - generic-wayland
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-mbr-3parts
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname
@@ -145,16 +131,13 @@ Emulator32-wayland:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
-        - Generic Packaging
+        - Mobile Console Tools
         - Mobile Packaging
-        - Generic Adaptation
         - Mobile Adaptation
-        - Generic Wayland
+        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
         - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
@@ -166,24 +149,21 @@ Emulator32-wayland:
         - Mobile Connectivity Framework Emulator
         - Mobile Bluetooth
         - Mobile Web Framework
-        - Mobile Emulator 32
         - Mobile Telephony
     PostScripts:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
         - generic-adaptation
         - mobile-adaptation
-        - generic-wayland
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname
@@ -194,17 +174,14 @@ Emulator64-wayland:
     Groups:
         - Generic Base
         - Mobile Base
-        - Generic Console Tools
-        - Generic Packaging
+        - Mobile Console Tools
         - Mobile Packaging
-        - Generic Adaptation
         - Mobile Adaptation
-        - Generic Wayland
+        - Generic Adaptation
         - Mobile Wayland
         - Mobile Wayland Temp
         - Mobile Middleware
-        - Generic Applications
-        - Mobile Applications Emulator 64
+        - Mobile Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
         - Generic Desktop Applications
@@ -215,24 +192,21 @@ Emulator64-wayland:
         - Mobile Connectivity Framework Emulator
         - Mobile Bluetooth
         - Mobile Web Framework
-        - Mobile Emulator 64
         - Mobile Telephony
     PostScripts:
         - generic-base
         - mobile-base
         - generic-console-tools
-        - generic-packaging
         - mobile-packaging
         - generic-adaptation
         - mobile-adaptation
-        - generic-wayland
         - mobile-middleware
-        - generic-applications
         - generic-multimedia
         - generic-desktop-applications
         - generic-crosswalk
         - mobile-web-framework
         - mobile-bluetooth
+        - mobile-user
     Repos: []
     NoChrootScripts:
         - buildname

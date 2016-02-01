@@ -29,7 +29,6 @@ Packages:
 - gst-rtsp-server
 - libmm-wfd
 - capi-media-screen-mirroring
-- audio-hal-wm5110
 - capi-media-streamer
 - capi-media-codec
 - mediacontroller
@@ -48,8 +47,12 @@ Packages:
 - opencv
 - zint
 - zbar
-- gst-plugins-camera-n4
 - pulseaudio-modules-tizen
 - dcm-service
-- libomxil-e54xx
 - murphy-glib
+- libbmp
+- libnsbmp
+- openal-soft
+- freealut
+- capi-media-streamrecorder
+- libmm-streamrecorder

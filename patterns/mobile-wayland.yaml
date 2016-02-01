@@ -2,7 +2,5 @@ Summary: Mobile Wayland
 Description: Mobile Wayland
 Name: mobile-wayland
 Packages:
-- libtbm-exynos4412
-- weston-clients
 - libwayland-tbm-client
 - libwayland-tbm-server

@@ -1,0 +1,16 @@
+Summary: Mobile Adaptation N4
+Description: Mobile Adaptation N4
+Name: mobile-adaptation-n4
+Packages:
+- linux-firmware
+- system-plugin-n4
+- model-config-n4
+- mmfw-sysconf-target-n4
+- alsa-ucm-data-wm5110
+- device-manager-plugin-exynos5433
+- bluetooth-firmware-bcm
+- audio-hal-wm5110
+- gst-plugins-camera-n4
+- libtbm-exynos
+- libomxil-e54xx
+- libtdm-exynos

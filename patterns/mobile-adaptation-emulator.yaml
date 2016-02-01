@@ -1,0 +1,16 @@
+Summary: Mobile Adaptation Emulator
+Description: Mobile Adaptation Emulator
+Name: mobile-adaptation-emulator
+Packages:
+- emuld
+- device-manager-plugin-emul
+- libtbm-vigs
+- vmodemd-emul
+- gst-plugins-emulator
+- system-plugin-emulator
+- model-config-emulator
+- libtdm-drm
+- pciutils
+- coregl
+- emulator-yagl
+- libpciaccess

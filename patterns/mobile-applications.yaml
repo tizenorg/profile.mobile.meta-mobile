@@ -2,6 +2,8 @@ Summary: Mobile Applications
 Description: Mobile Applications
 Name: mobile-applications
 Packages:
+- ail
+- ca-certificates
 - app-installers
 - tpk-backend
 - wgt-backend
@@ -11,16 +13,9 @@ Packages:
 - org.tizen.menu-screen
 - org.tizen.homescreen
 - data-provider-master
-- org.tizen.data-provider-slave
-- libwidget
-- libwidget_edje
-- libwidget_provider
-- libwidget_provider_app
 - libwidget_service
 - libwidget_viewer
 - libwidget_viewer_evas
-- push-bin
-- libpush
 - org.tizen.quickpanel
 - org.tizen.lockscreen
 - org.tizen.task-mgr
@@ -30,7 +25,6 @@ Packages:
 - org.tizen.setting
 - org.tizen.setting-location
 - org.tizen.myplace
-- org.tizen.wifi-direct-popup
 - libug-worldclock-efl
 - org.tizen.myfile
 - org.tizen.gallery
@@ -47,12 +41,18 @@ Packages:
 - org.tizen.music-player
 - org.tizen.calendar
 - org.tizen.call-ui
-- call-setting
+- org.tizen.call-setting
 - org.tizen.message
 - ug-setting-notification-efl
 - org.tizen.wallpaper-ui-service
+- libug-worldclock-efl
 - ug-homescreen-setting-efl
 - ug-lockscreen-options
 - org.tizen.browser
 - org.tizen.email
 - attach-panel
+- org.tizen.camera-app
+- org.tizen.app-selector
+- org.tizen.share-panel
+- org.tizen.homescreen-efl
+- org.tizen.callmgr-popup

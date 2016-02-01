@@ -50,3 +50,10 @@ Packages:
 - pulseaudio-modules-tizen
 - dcm-service
 - murphy-glib
+- libbmp
+- libnsbmp
+- mmfw-sysconf-simulator
+- openal-soft
+- freealut
+- capi-media-streamrecorder
+- libmm-streamrecorder
