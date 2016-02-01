@@ -12,6 +12,3 @@ Repos:
 Groups:
     - Mobile Adaptation Emulator
 ExtraPackages: []
-RemovePackages:
-    - swap-manager
-    - swap-probe

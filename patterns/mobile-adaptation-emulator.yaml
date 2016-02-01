@@ -14,5 +14,3 @@ Packages:
 - coregl
 - emulator-yagl
 - libpciaccess
-- swap-manager
-- swap-probe
