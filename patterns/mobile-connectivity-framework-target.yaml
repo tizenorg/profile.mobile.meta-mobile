@@ -18,3 +18,4 @@ Packages:
 - mtp-initiator
 - capi-network-mtp
 - mtp-responder
+- net.wifi-qs
