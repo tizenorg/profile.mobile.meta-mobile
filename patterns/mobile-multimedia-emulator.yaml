@@ -57,3 +57,5 @@ Packages:
 - freealut
 - capi-media-streamrecorder
 - libmm-streamrecorder
+- mmsvc-camera
+- mmsvc-recorder
