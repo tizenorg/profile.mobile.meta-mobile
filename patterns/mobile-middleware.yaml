@@ -91,3 +91,5 @@ Packages:
 - debug-launchpad
 - amd
 - libhyphen
+- capi-vpnsvc
+- vpnsvc-daemon
