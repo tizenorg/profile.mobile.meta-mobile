@@ -11,4 +11,5 @@ Repos:
     - base_emulator32
 Groups:
     - Mobile Adaptation Emulator
-ExtraPackages: []
+ExtraPackages: 
+    - swap-probe
