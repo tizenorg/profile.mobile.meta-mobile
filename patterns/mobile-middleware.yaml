@@ -84,6 +84,7 @@ Packages:
 - sync-service
 - libcore-sync-client
 - oauth2
+- liboauth
 - nghttp2
 - pubkey-pinning
 - cert-checker
@@ -93,3 +94,7 @@ Packages:
 - libhyphen
 - capi-vpnsvc
 - vpnsvc-daemon
+- capi-network-vpn-setting
+- openvpn
+- connman-connman-vpnd
+- connman-plugin-openvpn
