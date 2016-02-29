@@ -94,7 +94,5 @@ Packages:
 - libhyphen
 - capi-vpnsvc
 - vpnsvc-daemon
-- capi-network-vpn-setting
-- openvpn
-- connman-connman-vpnd
-- connman-plugin-openvpn
+- argos_watchdog
+- nsd
