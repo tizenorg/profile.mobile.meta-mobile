@@ -19,7 +19,7 @@ Packages:
 - org.tizen.quickpanel
 - org.tizen.lockscreen
 - org.tizen.task-mgr
-- org.tizen.indicator
+#- org.tizen.indicator
 - org.tizen.volume
 - boot-animation
 - org.tizen.setting
