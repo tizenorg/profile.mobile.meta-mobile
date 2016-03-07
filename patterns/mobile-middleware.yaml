@@ -7,7 +7,7 @@ Packages:
 - libsecurity-manager-client
 - pkgmgr-server
 - resourced
-#- memps
+- memps
 - sdbd
 - security-manager
 - cyad
