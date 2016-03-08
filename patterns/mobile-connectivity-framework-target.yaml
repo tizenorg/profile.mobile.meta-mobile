@@ -19,3 +19,5 @@ Packages:
 - capi-network-mtp
 - mtp-responder
 - net.wifi-qs
+- libdns_sd
+- mdnsresponder
