@@ -98,3 +98,6 @@ Packages:
 - argos_watchdog
 - fido-client
 - ug-setting-privacy-efl
+- auth-fw
+- libauth-fw-client
+- libauth-fw-client-admin
