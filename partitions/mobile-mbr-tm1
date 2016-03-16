@@ -1,4 +1,3 @@
 part / --size=2000 --ondisk mmcblk0p --fstype=ext4 --label=rootfs --extoptions="-J size=16"
-part /opt/ --size=312 --ondisk mmcblk0p --fstype=ext4 --label=system-data --extoptions="-m 0"
-part /opt/usr/ --size=3000 --ondisk mmcblk0p --fstype=ext4 --label=user --extoptions="-m 0"
+part /opt/ --size=3000 --ondisk mmcblk0p --fstype=ext4 --label=user --extoptions="-m 0"
 part /boot/kernel/mod_tizen_tm1/lib/modules --size=12 --ondisk mmcblk0p --fstype=ext4 --label=modules
