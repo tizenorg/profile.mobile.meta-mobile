@@ -40,8 +40,6 @@ Packages:
 - lbs-server-plugin-replay
 - capi-maps-service
 - service-adaptor
-- service-discovery
-- service-federation
 - org.tizen.service-plugin-sample
 - appcore-widget
 - appcore-agent
@@ -85,7 +83,6 @@ Packages:
 - sync-service
 - libcore-sync-client
 - oauth2
-- liboauth
 - nghttp2
 - pubkey-pinning
 - cert-checker
