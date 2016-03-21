@@ -58,6 +58,7 @@ Packages:
 - geofence-server
 - location-geofence-server
 - msg-service-tools
+- msg-manager
 - sms-plugin
 - mms-plugin
 - capi-messaging-messages
@@ -106,3 +107,4 @@ Packages:
 - capi-appfw-package-manager
 - capi-system-device
 - capi-messaging-email
+- heremaps-uc-launcher
