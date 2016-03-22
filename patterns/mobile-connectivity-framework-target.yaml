@@ -21,3 +21,5 @@ Packages:
 - net.wifi-qs
 - libdns_sd
 - mdnsresponder
+- libnsd-dns-sd
+- libnsd-ssdp
