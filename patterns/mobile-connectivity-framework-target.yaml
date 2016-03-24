@@ -23,3 +23,4 @@ Packages:
 - mdnsresponder
 - libnsd-dns-sd
 - libnsd-ssdp
+- ug-setting-mobileap-efl
