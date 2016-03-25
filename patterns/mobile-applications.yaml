@@ -25,7 +25,7 @@ Packages:
 - org.tizen.setting-location
 - org.tizen.myplace
 - libug-worldclock-efl
-#- org.tizen.myfile
+- org.tizen.myfile
 - org.tizen.gallery
 - attach-panel-gallery
 - ug-gallery-efl
