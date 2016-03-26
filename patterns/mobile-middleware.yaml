@@ -106,3 +106,4 @@ Packages:
 - capi-system-device
 - capi-messaging-email
 - heremaps-uc-launcher
+- capi-system-runtime-info
