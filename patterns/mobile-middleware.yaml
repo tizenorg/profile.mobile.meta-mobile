@@ -93,6 +93,7 @@ Packages:
 - vpnsvc-daemon
 - argos_watchdog
 - fido-client
+- dummyasm
 - ug-setting-privacy-efl
 - auth-fw
 - libauth-fw-client
