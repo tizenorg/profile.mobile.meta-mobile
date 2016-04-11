@@ -14,3 +14,6 @@ Packages:
 - libnsd-dns-sd
 - libnsd-ssdp
 - ug-setting-mobileap-efl
+- nfc-plugin-emul
+- nfc-manager
+- ug-nfc-efl
