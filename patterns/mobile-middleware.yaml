@@ -108,3 +108,5 @@ Packages:
 - capi-messaging-email
 - heremaps-uc-launcher
 - capi-system-runtime-info
+- privacy-guard-client
+- privacy-guard-server
