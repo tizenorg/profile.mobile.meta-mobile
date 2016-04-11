@@ -9,3 +9,8 @@ Packages:
 - mobileap-agent
 - capi-network-smartcard
 - libnl2
+- libdns_sd
+- mdnsresponder
+- libnsd-dns-sd
+- libnsd-ssdp
+- ug-setting-mobileap-efl

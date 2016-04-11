@@ -14,3 +14,7 @@ Packages:
 - coregl
 - emulator-yagl
 - libpciaccess
+- tel-plugin-atmodem
+- tel-plugin-vmodem
+- capi-network-mtp
+- audio-hal-emul

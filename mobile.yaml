@@ -51,7 +51,6 @@ Wayland:
         - Mobile Packaging
         - Mobile Adaptation
         - Mobile Wayland
-        - Mobile Wayland Temp
         - Mobile Middleware
         - Mobile Applications
         - Generic Multimedia
@@ -93,7 +92,6 @@ Wayland-64:
         - Mobile Packaging
         - Mobile Adaptation
         - Mobile Wayland
-        - Mobile Wayland Temp
         - Mobile Middleware
         - Mobile Applications
         - Generic Multimedia
@@ -136,7 +134,6 @@ Emulator32-wayland:
         - Mobile Adaptation
         - Generic Adaptation
         - Mobile Wayland
-        - Mobile Wayland Temp
         - Mobile Middleware
         - Mobile Applications
         - Generic Multimedia
@@ -179,7 +176,6 @@ Emulator64-wayland:
         - Mobile Adaptation
         - Generic Adaptation
         - Mobile Wayland
-        - Mobile Wayland Temp
         - Mobile Middleware
         - Mobile Applications
         - Generic Multimedia

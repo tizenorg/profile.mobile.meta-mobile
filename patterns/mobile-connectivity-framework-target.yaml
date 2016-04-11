@@ -11,7 +11,7 @@ Packages:
 - wifi-direct-manager
 - libnl2
 - wifi-direct-plugin-wpasupplicant
-- libug-setting-wifidirect-efl
+- ug-setting-wifidirect-efl
 - wifi-efl-ug
 - org.tizen.wifi-direct-popup
 - libmtp
@@ -19,3 +19,8 @@ Packages:
 - capi-network-mtp
 - mtp-responder
 - net.wifi-qs
+- libdns_sd
+- mdnsresponder
+- libnsd-dns-sd
+- libnsd-ssdp
+- ug-setting-mobileap-efl

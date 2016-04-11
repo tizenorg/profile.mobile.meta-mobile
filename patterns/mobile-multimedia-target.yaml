@@ -10,6 +10,7 @@ Packages:
 - libmm-sound
 - libmm-player
 - capi-media-player
+- mmsvc-player
 - capi-media-camera
 - capi-media-tool
 - gst-plugins-tizen
@@ -58,3 +59,4 @@ Packages:
 - libmm-streamrecorder
 - mmsvc-camera
 - mmsvc-recorder
+- libmm-evas-renderer
