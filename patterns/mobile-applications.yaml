@@ -57,3 +57,6 @@ Packages:
 - org.tizen.download-manager
 - my-account
 - org.tizen.gps-syspopup
+- org.tizen.ode
+- org.tizen.dpm-syspopup
+- org.tizen.zone-setup-wizard

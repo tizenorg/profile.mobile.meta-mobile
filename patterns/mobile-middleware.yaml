@@ -111,3 +111,6 @@ Packages:
 - privacy-guard-client
 - privacy-guard-server
 - app2sd
+- device-policy-manager
+- dpm-pam-zone
+- libdpm
