@@ -43,7 +43,7 @@ Packages:
 - ug-setting-notification-efl
 - org.tizen.wallpaper-ui-service
 - libug-worldclock-efl
-- ug-homescreen-setting-efl
+- org.tizen.setting-homescreen
 - ug-lockscreen-options
 - org.tizen.browser
 - org.tizen.email
