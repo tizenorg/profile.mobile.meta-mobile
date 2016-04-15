@@ -40,7 +40,7 @@ Packages:
 - org.tizen.call-ui
 - org.tizen.call-setting
 - org.tizen.message
-- ug-setting-notification-efl
+- org.tizen.setting-notification
 - org.tizen.wallpaper-ui-service
 - libug-worldclock-efl
 - org.tizen.setting-homescreen
