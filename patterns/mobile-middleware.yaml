@@ -114,3 +114,4 @@ Packages:
 - device-policy-manager
 - dpm-pam-zone
 - libdpm
+- system-servant
