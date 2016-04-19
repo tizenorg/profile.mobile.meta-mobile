@@ -108,3 +108,10 @@ Packages:
 - capi-messaging-email
 - heremaps-uc-launcher
 - capi-system-runtime-info
+- privacy-guard-client
+- privacy-guard-server
+- app2sd
+- device-policy-manager
+- dpm-pam-zone
+- libdpm
+- system-servant

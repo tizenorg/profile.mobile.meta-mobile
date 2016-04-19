@@ -10,7 +10,6 @@ Packages:
 - system-plugin-emulator
 - model-config-emulator
 - libtdm-drm
-- pciutils
 - coregl
 - emulator-yagl
 - libpciaccess

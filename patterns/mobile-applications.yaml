@@ -23,7 +23,6 @@ Packages:
 - org.tizen.setting
 - org.tizen.setting-location
 - org.tizen.myplace
-- libug-worldclock-efl
 - org.tizen.myfile
 - org.tizen.gallery
 - attach-panel-gallery
@@ -41,10 +40,10 @@ Packages:
 - org.tizen.call-ui
 - org.tizen.call-setting
 - org.tizen.message
-- ug-setting-notification-efl
+- org.tizen.setting-notification
 - org.tizen.wallpaper-ui-service
 - libug-worldclock-efl
-- ug-homescreen-setting-efl
+- org.tizen.setting-homescreen
 - ug-lockscreen-options
 - org.tizen.browser
 - org.tizen.email
@@ -58,3 +57,9 @@ Packages:
 - org.tizen.download-manager
 - my-account
 - org.tizen.gps-syspopup
+- org.tizen.ode
+- org.tizen.dpm-syspopup
+- org.tizen.zone-setup-wizard
+- org.tizen.voice-setting
+- net.netpopup
+- org.tizen.poweroff-syspopup

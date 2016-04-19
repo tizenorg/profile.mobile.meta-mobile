@@ -4,7 +4,6 @@ Name: mobile-connectivity-framework-emulator
 Packages:
 - capi-network-nfc
 - net-config
-- nfc-client-lib-neard
 - capi-network-tethering
 - mobileap-agent
 - capi-network-smartcard
@@ -14,3 +13,6 @@ Packages:
 - libnsd-dns-sd
 - libnsd-ssdp
 - ug-setting-mobileap-efl
+- nfc-plugin-emul
+- nfc-manager
+- ug-nfc-efl
