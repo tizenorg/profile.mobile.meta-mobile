@@ -64,3 +64,4 @@ Packages:
 - net.netpopup
 - org.tizen.poweroff-syspopup
 - org.tizen.widget_viewer_sdk
+- org.tizen.voice-control-panel
