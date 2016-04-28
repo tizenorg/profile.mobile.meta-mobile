@@ -78,6 +78,7 @@ Wayland:
         - mobile-bluetooth
         - mobile-mbr-3parts
         - mobile-user
+        - mobile-license
     Repos: []
     NoChrootScripts:
         - buildname
@@ -119,6 +120,7 @@ Wayland-64:
         - mobile-bluetooth
         - mobile-mbr-3parts
         - mobile-user
+        - mobile-license
     Repos: []
     NoChrootScripts:
         - buildname
@@ -161,6 +163,7 @@ Emulator32-wayland:
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-user
+        - mobile-license
     Repos: []
     NoChrootScripts:
         - buildname
@@ -203,6 +206,7 @@ Emulator64-wayland:
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-user
+        - mobile-license
     Repos: []
     NoChrootScripts:
         - buildname
