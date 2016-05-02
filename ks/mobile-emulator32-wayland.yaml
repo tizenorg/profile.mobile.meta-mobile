@@ -12,4 +12,7 @@ Repos:
 Groups:
     - Mobile Adaptation Emulator
 ExtraPackages: 
+    - swap-modules
     - swap-probe
+    - swap-probe-elf
+    - swap-manager
