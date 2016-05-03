@@ -12,3 +12,4 @@ Packages:
 - bluetooth-frwk-service
 - bluetooth-agent
 - ug-bluetooth-efl
+- org.tizen.bluetooth-share-ui
