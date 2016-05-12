@@ -100,9 +100,9 @@ Packages:
 - libauth-fw-client-admin
 - libjson-glib
 - ui-gadget-1
-- libboost_program_options1_57_0
-- libboost_regex1_57_0
-- libboost_date_time1_57_0
+- boost-program-options1_58_0
+- boost-regex1_58_0
+- boost-date-time1_58_0
 - capi-appfw-package-manager
 - capi-system-device
 - capi-messaging-email
@@ -115,3 +115,7 @@ Packages:
 - dpm-pam-zone
 - libdpm
 - system-servant
+- connman-connman-vpnd
+- connman-plugin-openvpn
+- openvpn
+- capi-network-vpn-setting
