@@ -100,9 +100,9 @@ Packages:
 - libauth-fw-client-admin
 - libjson-glib
 - ui-gadget-1
-- boost-program-options1_58_0
-- boost-regex1_58_0
-- boost-date-time1_58_0
+- boost-program-options
+- boost-regex
+- boost-date-time
 - capi-appfw-package-manager
 - capi-system-device
 - capi-messaging-email
