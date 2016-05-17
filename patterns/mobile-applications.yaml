@@ -62,7 +62,7 @@ Packages:
 - org.tizen.zone-setup-wizard
 - org.tizen.voice-setting
 - net.netpopup
-- org.tizen.poweroff-syspopup
+- org.tizen.powerkey-syspopup
 - org.tizen.widget_viewer_sdk
 - org.tizen.voice-control-panel
 - org.tizen.screen-reader
