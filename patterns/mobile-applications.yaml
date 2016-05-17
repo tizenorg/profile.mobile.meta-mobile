@@ -66,3 +66,6 @@ Packages:
 - org.tizen.widget_viewer_sdk
 - org.tizen.voice-control-panel
 - org.tizen.screen-reader
+- org.tizen.crash-syspopup
+- org.tizen.system-signal-sender
+- org.tizen.system-syspopup
