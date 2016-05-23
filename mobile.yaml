@@ -53,6 +53,7 @@ Wayland:
         - Mobile Wayland
         - Mobile Middleware
         - Mobile Applications
+        - Mobile Applications 32
         - Mobile TPK Applications
         - Generic Multimedia
         - Mobile Multimedia Target
@@ -139,6 +140,7 @@ Emulator32-wayland:
         - Mobile Wayland
         - Mobile Middleware
         - Mobile Applications
+        - Mobile Applications 32
         - Mobile TPK Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
