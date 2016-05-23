@@ -15,3 +15,4 @@ ExtraPackages:
     - nfc-manager
     - ug-nfc-efl
     - org.tizen.dpm-toolkit
+    - org.tizen.calendar

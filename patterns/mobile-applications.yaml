@@ -33,7 +33,6 @@ Packages:
 - org.tizen.contacts
 - org.tizen.music-chooser
 - org.tizen.music-player
-- org.tizen.calendar
 - org.tizen.call-ui
 - org.tizen.call-setting
 - org.tizen.message

@@ -21,3 +21,4 @@ ExtraPackages:
     - swap-probe
     - swap-probe-elf
     - swap-manager
+    - org.tizen.calendar
