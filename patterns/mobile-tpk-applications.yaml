@@ -2,19 +2,22 @@ Summary: Mobile TPK Applications
 Description: Mobile TPK Applications
 Name: mobile-tpk-applications
 Packages:
-    - org.tizen.calendar
-    - org.tizen.call-setting
-    - org.tizen.call-ui
-    - org.tizen.camera-app
-    - org.tizen.email
-    - org.tizen.homescreen-efl
-    - org.tizen.lockscreen
-    - org.tizen.message
-    - org.tizen.myfile
-    - org.tizen.contacts
-    - org.tizen.share-panel
-    - org.tizen.task-mgr
-    - org.tizen.ug-lockscreen-options
-    - org.tizen.setting-homescreen
-    - org.tizen.setting-notification
-    - org.tizen.wallpaper-ui-service
+- org.tizen.calendar
+- org.tizen.call-setting
+- org.tizen.call-ui
+- org.tizen.camera-app
+- org.tizen.email
+- org.tizen.homescreen-efl
+- org.tizen.lockscreen
+- org.tizen.message
+- org.tizen.myfile
+- org.tizen.contacts
+- org.tizen.share-panel
+- org.tizen.task-mgr
+- org.tizen.ug-lockscreen-options
+- org.tizen.setting-homescreen
+- org.tizen.setting-notification
+- org.tizen.wallpaper-ui-service
+- org.tizen.video-player
+- org.tizen.videos
+- org.tizen.gallery
