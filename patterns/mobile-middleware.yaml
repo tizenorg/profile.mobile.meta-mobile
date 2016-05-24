@@ -120,3 +120,5 @@ Packages:
 - connman-plugin-openvpn
 - openvpn
 - capi-network-vpn-setting
+- libprotobuf-lite9
+- libzone
