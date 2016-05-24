@@ -5,7 +5,6 @@ Packages:
 - org.tizen.indicator
 - libug-worldclock-efl
 - org.tizen.music-chooser
-- org.tizen.music-player
 - org.tizen.image-viewer
 - org.tizen.ug-myfile-efl
 - org.tizen.ug-gallery-efl
