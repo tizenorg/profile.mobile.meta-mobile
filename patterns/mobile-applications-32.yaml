@@ -4,7 +4,6 @@ Name: mobile-applications-32
 Packages:
 - org.tizen.indicator
 - libug-worldclock-efl
-- org.tizen.music-chooser
 - org.tizen.image-viewer
 - org.tizen.ug-myfile-efl
 - org.tizen.ug-gallery-efl
