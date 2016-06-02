@@ -16,3 +16,5 @@ Packages:
 - nfc-plugin-emul
 - nfc-manager
 - ug-nfc-efl
+- capi-network-softap
+- capi-network-http

@@ -1,0 +1,9 @@
+Summary: Mobile Applications 32
+Description: Mobile Applications 32
+Name: mobile-applications-32
+Packages:
+- org.tizen.indicator
+- libug-worldclock-efl
+- org.tizen.image-viewer
+- org.tizen.ug-myfile-efl
+- org.tizen.ug-gallery-efl

@@ -3,7 +3,7 @@ Architecture: ia32
 Schedule: "*"
 Active: False
 Platform: Emulator32-wayland
-Part: mobile-mbr-3parts-emulator
+Part: mobile-2parts-emulator
 Mic2Options: -f loop --pack-to=@NAME@.tar.gz
 FileName: mobile-emulator32-wayland
 Repos:

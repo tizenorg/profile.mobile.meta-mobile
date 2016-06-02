@@ -23,6 +23,7 @@ Packages:
 - libcynara-creds-dbus
 - libcynara-creds-gdbus
 - libcynara-creds-socket
+- libcynara-monitor
 - murphy
 - cert-svc
 - security-privilege-manager
@@ -47,7 +48,9 @@ Packages:
 - capi-system-media-key
 - libeom
 - ttrace
+- ttrace-extension
 - stt
+- stt-engine-default
 - motion
 - context
 - context-service
@@ -100,9 +103,9 @@ Packages:
 - libauth-fw-client-admin
 - libjson-glib
 - ui-gadget-1
-- libboost_program_options1_57_0
-- libboost_regex1_57_0
-- libboost_date_time1_57_0
+- boost-program-options
+- boost-regex
+- boost-date-time
 - capi-appfw-package-manager
 - capi-system-device
 - capi-messaging-email
@@ -115,3 +118,9 @@ Packages:
 - dpm-pam-zone
 - libdpm
 - system-servant
+- connman-connman-vpnd
+- connman-plugin-openvpn
+- openvpn
+- capi-network-vpn-setting
+- libprotobuf-lite9
+- libzone

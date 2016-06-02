@@ -17,3 +17,4 @@ Packages:
 - tel-plugin-vmodem
 - capi-network-mtp
 - audio-hal-emul
+- gst-omx
