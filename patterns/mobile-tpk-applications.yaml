@@ -18,6 +18,6 @@ Packages:
 - org.tizen.setting-homescreen
 - org.tizen.setting-notification
 - org.tizen.wallpaper-ui-service
-- org.tizen.videos
-- org.tizen.gallery
-- org.tizen.music-player
+- org.tizen.image-viewer
+- org.tizen.ug-gallery-efl
+- org.tizen.ug-myfile-efl
