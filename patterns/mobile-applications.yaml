@@ -2,7 +2,6 @@ Summary: Mobile Applications
 Description: Mobile Applications
 Name: mobile-applications
 Packages:
-- ail
 - ca-certificates
 - app-installers
 - tpk-backend
