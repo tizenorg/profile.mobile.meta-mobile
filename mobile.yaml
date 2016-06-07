@@ -50,6 +50,7 @@ Wayland:
         - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
+        - Mobile Adaptation 32
         - Mobile Wayland
         - Mobile Middleware
         - Mobile Applications
@@ -138,6 +139,7 @@ Emulator32-wayland:
         - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
+        - Mobile Adaptation 32
         - Generic Adaptation
         - Mobile Wayland
         - Mobile Middleware
