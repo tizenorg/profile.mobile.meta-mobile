@@ -84,6 +84,7 @@ Packages:
 - account-parser
 - sync-service
 - libcore-sync-client
+- liboauth
 - oauth2
 - nghttp2
 - pubkey-pinning
