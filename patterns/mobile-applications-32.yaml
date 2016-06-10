@@ -3,7 +3,7 @@ Description: Mobile Applications 32
 Name: mobile-applications-32
 Packages:
 - org.tizen.indicator
-- libug-worldclock-efl
+- org.tizen.worldclock-efl
 - org.tizen.videos
 - org.tizen.video-player
 - org.tizen.music-player
