@@ -124,3 +124,9 @@ Packages:
 - capi-network-vpn-setting
 - libprotobuf-lite9
 - libzone
+- askuser
+- askuser-notification
+- askuser-plugins
+- askuser-test
+- libaskuser-common
+- libcsr-framework-client
