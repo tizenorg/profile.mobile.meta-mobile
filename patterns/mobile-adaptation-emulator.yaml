@@ -18,3 +18,4 @@ Packages:
 - capi-network-mtp
 - audio-hal-emul
 - gst-omx
+- sensor-hal-emulator
