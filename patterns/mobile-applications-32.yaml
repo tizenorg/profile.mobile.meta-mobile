@@ -5,7 +5,5 @@ Packages:
 - org.tizen.indicator
 - org.tizen.worldclock-efl
 - org.tizen.videos
-- org.tizen.video-player
 - org.tizen.music-player
 - org.tizen.gallery
-- org.tizen.music-chooser
