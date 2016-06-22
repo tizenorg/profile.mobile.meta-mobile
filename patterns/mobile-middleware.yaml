@@ -131,3 +131,4 @@ Packages:
 - libcsr-framework-client
 - cryptsetup
 - device-mapper
+- ui-viewmgr
