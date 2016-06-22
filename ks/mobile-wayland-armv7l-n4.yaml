@@ -11,4 +11,7 @@ Repos:
     - base_arm
 Groups:
     - Mobile Adaptation N4
-ExtraPackages: []
+ExtraPackages:
+    - nfc-manager
+    - ug-nfc-efl
+    - org.tizen.dpm-toolkit

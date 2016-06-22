@@ -11,3 +11,5 @@ Packages:
 - cert-svc-ui
 - lzo
 - tizen-locale
+- fsck-msdos
+- newfs-msdos

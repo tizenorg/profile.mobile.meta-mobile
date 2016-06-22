@@ -11,3 +11,5 @@ Packages:
 - e-mod-tizen-processmgr
 - e-mod-tizen-wl-textinput
 - e-mod-tizen-gesture
+- e-mod-tizen-screen-reader
+- e-mod-tizen-effect

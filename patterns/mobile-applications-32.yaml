@@ -1,0 +1,11 @@
+Summary: Mobile Applications 32
+Description: Mobile Applications 32
+Name: mobile-applications-32
+Packages:
+- org.tizen.indicator
+- org.tizen.worldclock-efl
+- org.tizen.videos
+- org.tizen.video-player
+- org.tizen.music-player
+- org.tizen.gallery
+- org.tizen.music-chooser

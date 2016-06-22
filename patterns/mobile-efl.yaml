@@ -9,9 +9,7 @@ Packages:
 - elementary-locale
 - default-fonts-sdk
 - default-fonts-fc-sdk
-- atk-locale
 - libatk
-- typelib-Atk
 - efl-theme-tizen-mobile
 - e-mod-tizen-qpmgr
 - at-spi2-core

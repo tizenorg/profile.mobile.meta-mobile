@@ -15,4 +15,9 @@ Groups:
     - Mobile Adaptation TM1
 PostScripts:
     - mobile-adaptation-tm1
-ExtraPackages: []
+ExtraPackages:
+    - org.tizen.dpm-toolkit
+    - swap-modules
+    - swap-probe
+    - swap-probe-elf
+    - swap-manager

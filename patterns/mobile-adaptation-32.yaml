@@ -1,0 +1,6 @@
+Summary: Mobile Adaptation 32
+Description: Mobile Adaptation 32
+Name: mobile-adaptation-32
+Packages:
+- d2d-conv-manager
+- d2d-conv-manager-lib

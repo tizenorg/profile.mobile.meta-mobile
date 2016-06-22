@@ -50,9 +50,12 @@ Wayland:
         - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
+        - Mobile Adaptation 32
         - Mobile Wayland
         - Mobile Middleware
         - Mobile Applications
+        - Mobile Applications 32
+        - Mobile TPK Applications
         - Generic Multimedia
         - Mobile Multimedia Target
         - Generic Desktop Applications
@@ -78,6 +81,8 @@ Wayland:
         - mobile-bluetooth
         - mobile-mbr-3parts
         - mobile-user
+        - mobile-license
+        - generic-security
     Repos: []
     NoChrootScripts:
         - buildname
@@ -119,6 +124,8 @@ Wayland-64:
         - mobile-bluetooth
         - mobile-mbr-3parts
         - mobile-user
+        - mobile-license
+        - generic-security
     Repos: []
     NoChrootScripts:
         - buildname
@@ -132,10 +139,13 @@ Emulator32-wayland:
         - Mobile Console Tools
         - Mobile Packaging
         - Mobile Adaptation
+        - Mobile Adaptation 32
         - Generic Adaptation
         - Mobile Wayland
         - Mobile Middleware
         - Mobile Applications
+        - Mobile Applications 32
+        - Mobile TPK Applications
         - Generic Multimedia
         - Mobile Multimedia Emulator
         - Generic Desktop Applications
@@ -161,6 +171,8 @@ Emulator32-wayland:
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-user
+        - mobile-license
+        - generic-security
     Repos: []
     NoChrootScripts:
         - buildname
@@ -203,6 +215,8 @@ Emulator64-wayland:
         - mobile-web-framework
         - mobile-bluetooth
         - mobile-user
+        - mobile-license
+        - generic-security
     Repos: []
     NoChrootScripts:
         - buildname
