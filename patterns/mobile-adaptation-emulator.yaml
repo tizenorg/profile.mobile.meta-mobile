@@ -2,6 +2,7 @@ Summary: Mobile Adaptation Emulator
 Description: Mobile Adaptation Emulator
 Name: mobile-adaptation-emulator
 Packages:
+- system-plugin
 - emuld
 - device-manager-plugin-emul
 - libtbm-vigs
