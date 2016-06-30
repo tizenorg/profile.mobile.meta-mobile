@@ -46,3 +46,4 @@ Packages:
 - org.tizen.kaskit
 - org.tizen.privacy-setting
 - org.tizen.keyguard
+- org.tizen.overheat-syspopup
