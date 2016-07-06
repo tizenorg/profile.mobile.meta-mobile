@@ -32,7 +32,7 @@ Packages:
 - org.tizen.gps-syspopup
 - org.tizen.ode
 - org.tizen.dpm-syspopup
-- org.tizen.zone-setup-wizard
+- org.tizen.krate-setup-wizard
 - org.tizen.voice-setting
 - net.netpopup
 - org.tizen.powerkey-syspopup
