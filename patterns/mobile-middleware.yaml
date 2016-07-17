@@ -132,3 +132,4 @@ Packages:
 - cryptsetup
 - device-mapper
 - ui-viewmgr
+- cbhm
