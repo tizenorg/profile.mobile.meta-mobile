@@ -10,7 +10,6 @@ Packages:
 - ise-engine-hangul
 - ise-engine-sunpinyin
 - ise-engine-tables
-- ise-engine-unikey
 - anthy
 - libhangul
 - capi-ui-inputmethod
