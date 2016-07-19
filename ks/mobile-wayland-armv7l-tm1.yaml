@@ -17,7 +17,3 @@ PostScripts:
     - mobile-adaptation-tm1
 ExtraPackages:
     - org.tizen.dpm-toolkit
-    - swap-modules
-    - swap-probe
-    - swap-probe-elf
-    - swap-manager

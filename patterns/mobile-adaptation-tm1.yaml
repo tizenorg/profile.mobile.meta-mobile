@@ -15,3 +15,7 @@ Packages:
 - smartcard-plugin-uicc
 - libtdm-sprd
 - sensor-hal-tm1
+- swap-modules
+- swap-probe
+- swap-probe-elf
+- swap-manager
