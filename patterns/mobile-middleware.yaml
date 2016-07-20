@@ -54,7 +54,6 @@ Packages:
 - motion
 - context
 - context-service
-- libttssmt
 - esd
 - eventsystem
 - vconf-internal-keys

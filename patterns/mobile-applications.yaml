@@ -47,3 +47,4 @@ Packages:
 - org.tizen.privacy-setting
 - org.tizen.keyguard
 - org.tizen.overheat-syspopup
+- org.tizen.tts-engine-default
