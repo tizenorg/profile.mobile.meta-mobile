@@ -48,3 +48,4 @@ Packages:
 - org.tizen.keyguard
 - org.tizen.overheat-syspopup
 - org.tizen.tts-engine-default
+- org.tizen.stt-engine-default

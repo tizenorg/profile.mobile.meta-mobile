@@ -50,7 +50,6 @@ Packages:
 - ttrace
 - ttrace-extension
 - stt
-- stt-engine-default
 - motion
 - context
 - context-service
