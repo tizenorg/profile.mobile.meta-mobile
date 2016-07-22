@@ -131,3 +131,4 @@ Packages:
 - device-mapper
 - ui-viewmgr
 - cbhm
+- tizen-debug
