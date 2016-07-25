@@ -11,6 +11,7 @@ Packages:
 - system-plugin-emulator
 - model-config-emulator
 - libtdm-drm
+- libtdm-client
 - coregl
 - emulator-yagl
 - libpciaccess
