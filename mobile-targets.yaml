@@ -21,3 +21,4 @@ Targets:
     -   Name: target-TM1
         Images:
             - mobile-wayland-armv7l-tm1.yaml
+            - mobile-wayland-armv7l-tm1-upgrade.yaml

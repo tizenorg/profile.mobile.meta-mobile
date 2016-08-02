@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "#################### mobile-update-tm1.post ####################"
+
+# remove RW partitions' files
+rm -rf /opt/*

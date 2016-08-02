@@ -1,0 +1,20 @@
+Name: mobile-wayland-armv7l-tm1-upgrade
+Architecture: armv7l
+Schedule: "*"
+Active: True
+Platform: Wayland
+Part: mobile-mbr-tm1-upgrade
+Mic2Options: -f loop --pack-to=@NAME@.tar.gz
+FileName: mobile-wayland-armv7l-tm1-upgrade
+Attachment:
+    - /boot/kernel/dzImage
+Repos:
+    - mobile-target-TM1
+    - base_arm
+Groups:
+    - Mobile Adaptation TM1
+PostScripts:
+    - mobile-adaptation-tm1
+    - mobile-update-tm1
+ExtraPackages:
+    - org.tizen.dpm-toolkit
